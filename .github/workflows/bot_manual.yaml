@@ -1,0 +1,14 @@
+name: manual-temp
+
+on: workflow_dispatch
+
+jobs:
+  test-actions:
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: r-lib/actions/setup-r@master
+      
+      - name: Install mwmi.govuk.scraper package
+        run: Rscript -e 'devtools::install_github("jwallace-co/mwmi.govuk.scraper")'
