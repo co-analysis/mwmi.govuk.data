@@ -25,26 +25,31 @@ gov_results <- gov_search() %>%
 # Save current results
 saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
 
-# # Get previous match results
-# # TODO: check that this is meaningfully earlier than current date
-# last_results_file <- list.files("./data/gov_meta","^gov_results") %>%
-#   sort(decreasing=TRUE) %>%
-#   {.[1]}
-# gov_last_results <- readRDS(paste0("./data/gov_meta/",last_results_file))
+# Results to check
+if (refresh_mwmi) {
+  # Update everything if refreshing
+  gov_to_update <- gov_results
+  
+} else {
+  # Calc updated files
+  
+  # Get previous match results
+  # TODO: check that this is meaningfully earlier than current date
+  last_results_file <- list.files("data/gov_meta","^gov_results") %>%
+    sort(decreasing=TRUE) %>%
+    {.[1]}
+  gov_last_results <- readRDS(paste0("data/gov_meta/",last_results_file))
 
+  # Work out which files have been created or updated
+  gov_to_update <- gov_last_results %>%
+    mutate(old_time=public_timestamp) %>%
+    select(link,old_time) %>%
+    right_join(gov_results)%>%
+    filter(is.na(old_time) | public_timestamp>old_time)
+}
 
-# # Work out which files have been created or updated
-# gov_updated_results <- gov_last_results %>%
-#   mutate(old_time=ymd_hms(public_timestamp)) %>%
-#   select(link,old_time) %>%
-#   right_join(gov_results) %>%
-#   mutate(new_time=ymd_hms(public_timestamp))
-# if (refresh==FALSE) {
-#   gov_updated_results <- gov_updated_results %>%
-#     filter(is.na(old_time) | new_time>old_time)
-# }
-# write_rds(gov_updated_results,paste0("./data/gov_meta/gov_updated_results ",start_time,".rds"))
-#
+saveRDS(gov_to_update,paste0("./data/gov_meta/gov_to_update ",start_time,".rds"))
+
 # ################################################################################
 # source("./R/scraper functions/gov_contents.R")
 # # gov_contents(links) function
