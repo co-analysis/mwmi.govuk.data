@@ -86,21 +86,17 @@ gov_dl_results <- gov_downloads(file_list$data_link,
               url_stem="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/")
 saveRDS(gov_dl_results,paste0("data/gov_meta/gov_dl_results ",start_time,".rds"))
 
-# ################################################################################
-# source("./R/scraper functions/file_handler.R")
-# # Inconsistency with prev argument, no / at end
-# # dl_stem = "./data/gov_files"
-# # gov_files <- list.files(dl_stem,pattern="^[^~]",include.dirs=FALSE,full.names=TRUE,recursive=TRUE)
-#
-# # List of recently downloaded files
-# gov_files <- gov_dl_results %>% filter(dl_result=="Successful") %>% pull(dl_location)
-#
-# # Create output file names, run conversion code
-# rds_stem = "./data/gov_files_rds"
-# rds_files <- gov_files %>%
-#   paste0(.,".rds") %>%
-#   gsub("gov_files","gov_files_rds",.)
-#
-# # Convert files from downloaded format to rds
-# file_conversion_results <- file_handler(gov_files,rds_files)
-#
+################################################################################
+
+# List of recently downloaded files
+gov_files <- gov_dl_results %>% filter(dl_result=="Successful") %>% pull(dl_location)
+
+# Create output file names, run conversion code
+rds_stem = "data/gov_files_rds"
+rds_files <- gov_files %>%
+  paste0(.,".rds") %>%
+  gsub("gov_files","gov_files_rds",.)
+
+# Convert files from downloaded format to rds
+file_conversion_results <- file_handler(gov_files,rds_files)
+
