@@ -23,7 +23,7 @@ if (!exists('refresh_mwmi')) refresh_mwmi = TRUE
 gov_results <- gov_search() %>%
   filter(public_timestamp>as.Date("2021-01-01"))
 # Save current results
-saveRDS(gov_results,paste0("./data/gov_meta/gov_results ",start_time,".rds"))
+saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"))
 
 # # Get previous match results
 # # TODO: check that this is meaningfully earlier than current date
