@@ -17,6 +17,7 @@ jobs:
           install.packages("devtools")
           install.packages("lubridate")
           install.packages("ratelimitr")
+          install.packages("rvest")
           devtools::install_github("jwallace-co/mwmi.govuk.scraper")
         shell: Rscript {0}
           

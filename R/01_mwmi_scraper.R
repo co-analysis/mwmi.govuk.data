@@ -22,6 +22,10 @@ if (!exists('refresh_mwmi')) refresh_mwmi = TRUE
 # Search for current matches, filter for 2021 onwards
 gov_results <- gov_search() %>%
   filter(public_timestamp>as.Date("2021-01-01"))
+
+# Temporary limit on number of results to save time
+gov_to_update <- gov_results[sample(1:nrow(gov_results),10),]
+
 # Save current results
 saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
 
@@ -29,7 +33,7 @@ saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"),compr
 if (refresh_mwmi) {
   # Update everything if refreshing
   gov_to_update <- gov_results
-  
+
 } else {
   # Calc updated files
   
@@ -75,13 +79,13 @@ file_list <- gov_datalinks %>%
   map(~ data.frame(urls=rep(.$url_scraped,length(.$data_link)),data_link=.$data_links)) %>%
   bind_rows
 
-# # TODO: Filter out whatever is already downloaded
-#
-# gov_dl_results <- gov_downloads(file_list$data_link,
-#               dl_stem="./data/gov_files/",
-#               url_stem="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/")
-# write_rds(gov_dl_results,paste0("./data/gov_meta/gov_dl_results ",start_time,".rds"))
-#
+# TODO: Filter out whatever is already downloaded
+
+gov_dl_results <- gov_downloads(file_list$data_link,
+              dl_stem="data/gov_files/",
+              url_stem="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/")
+saveRDS(gov_dl_results,paste0("data/gov_meta/gov_dl_results ",start_time,".rds"))
+
 # ################################################################################
 # source("./R/scraper functions/file_handler.R")
 # # Inconsistency with prev argument, no / at end
