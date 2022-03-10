@@ -24,7 +24,7 @@ gov_results <- gov_search() %>%
   filter(public_timestamp>as.Date("2021-01-01"))
 
 # Temporary limit on number of results to save time
-gov_to_update <- gov_results[sample(1:nrow(gov_results),10),]
+gov_results <- gov_results[sample(1:nrow(gov_results),10),]
 
 # Save current results
 saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
@@ -64,7 +64,7 @@ saveRDS(gov_to_update,paste0("./data/gov_meta/gov_to_update ",start_time,".rds")
 # data_links: a vector of links to data files
 
 gov_datalinks <- gov_contents(gov_to_update$link)
-write_rds(gov_datalinks,paste0("./data/gov_meta/gov_datalinks ",start_time,".rds"))
+saveRDS(gov_datalinks,paste0("data/gov_meta/gov_datalinks ",start_time,".rds"))
 
 # # Check which urls have no results
 # # gov_to_update$link[which((map(gov_datalinks, ~ .$data_links %>% length) %>% unlist)==0)]
