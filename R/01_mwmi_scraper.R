@@ -1,3 +1,4 @@
+library(mwmi.govuk.scraper)
 # library(httr)
 # library(jsonlite)
 # library(tidyverse)
@@ -9,32 +10,28 @@
 # library(unpivotr)
 # library(tidyxl)
 #
-# ################################################################################
-# start_time <- gsub("[^0-9]"," ",Sys.time())
-# refresh = FALSE # toggle for doing a complete new scrape
-#
-# ################################################################################
-# source("./R/scraper functions/gov_search.R")
-# # gov_search() function
-# # returns data frame of results for 'workforce management information' from gov.uk search API with:
-# # title:
-# # organisations:
-# # link:
-# # public_timestamp:
-# # Other columns relate to the search engine
-#
+################################################################################
+start_time <- gsub("[^0-9]"," ",Sys.time())
+
+# toggle for doing a complete new scrape - set to TRUE in github action
+if (!exists('refresh_mwmi')) refresh_mwmi = TRUE 
+################################################################################
+
+
+# Search for current matches, filter for 2021 onwards
+gov_results <- gov_search() %>%
+  filter(public_timestamp>as.Date("2021-01-01"))
+# Save current results
+write_rds(gov_results,paste0("./data/gov_meta/gov_results ",start_time,".rds"))
+
 # # Get previous match results
 # # TODO: check that this is meaningfully earlier than current date
 # last_results_file <- list.files("./data/gov_meta","^gov_results") %>%
 #   sort(decreasing=TRUE) %>%
 #   {.[1]}
 # gov_last_results <- read_rds(paste0("./data/gov_meta/",last_results_file))
-#
-# # Search for current matches
-# gov_results <- gov_search()
-# # Save current results
-# write_rds(gov_results,paste0("./data/gov_meta/gov_results ",start_time,".rds"))
-#
+
+
 # # Work out which files have been created or updated
 # gov_updated_results <- gov_last_results %>%
 #   mutate(old_time=ymd_hms(public_timestamp)) %>%

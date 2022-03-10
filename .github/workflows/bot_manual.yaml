@@ -16,3 +16,8 @@ jobs:
         run:
           R -e 'install.packages("devtools")'
           R -e 'devtools::install_github("jwallace-co/mwmi.govuk.scraper")'
+          
+      - name: Scrape files
+        run:
+          R -e 'refresh_mwmi=TRUE'
+          Rscript R/01_mwmi_scraper.R
