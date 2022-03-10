@@ -1,4 +1,4 @@
-name: manual-temp
+name: manual-mini
 
 on: workflow_dispatch
 
