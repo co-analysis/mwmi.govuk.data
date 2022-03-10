@@ -1,4 +1,5 @@
 library(mwmi.govuk.scraper)
+# library(readr)
 # library(httr)
 # library(jsonlite)
 # library(tidyverse)
@@ -22,14 +23,14 @@ if (!exists('refresh_mwmi')) refresh_mwmi = TRUE
 gov_results <- gov_search() %>%
   filter(public_timestamp>as.Date("2021-01-01"))
 # Save current results
-write_rds(gov_results,paste0("./data/gov_meta/gov_results ",start_time,".rds"))
+saveRDS(gov_results,paste0("./data/gov_meta/gov_results ",start_time,".rds"))
 
 # # Get previous match results
 # # TODO: check that this is meaningfully earlier than current date
 # last_results_file <- list.files("./data/gov_meta","^gov_results") %>%
 #   sort(decreasing=TRUE) %>%
 #   {.[1]}
-# gov_last_results <- read_rds(paste0("./data/gov_meta/",last_results_file))
+# gov_last_results <- readRDS(paste0("./data/gov_meta/",last_results_file))
 
 
 # # Work out which files have been created or updated
