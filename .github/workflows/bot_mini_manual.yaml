@@ -15,7 +15,8 @@ jobs:
       - name: Scrape files
         run: |
           start_time <- gsub("[^0-9]"," ",Sys.time())
-          save(data.frame(x=1:5),paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
+          x = data.frame(y=1:5)
+          save("x",file=paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
         shell: Rscript {0}
         
       - name: Commit files
