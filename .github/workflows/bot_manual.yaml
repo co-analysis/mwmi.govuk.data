@@ -21,7 +21,7 @@ jobs:
           
       - name: Scrape files
         run: |
-          refresh_mwmi=FALSE
+          refresh_mwmi=TRUE
           source("R/01_mwmi_scraper.R")
         shell: Rscript {0}
         

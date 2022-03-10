@@ -50,21 +50,21 @@ if (refresh_mwmi) {
 
 saveRDS(gov_to_update,paste0("./data/gov_meta/gov_to_update ",start_time,".rds"))
 
-# ################################################################################
-# source("./R/scraper functions/gov_contents.R")
-# # gov_contents(links) function
-# # Takes a vector of results for pages and scrapes links to embedded data
-# # returns a list as long as the input with:
-# # url: original url requested
-# # meta_data: data.table of meta data including org and date
-# # data_titles: a vector of text titles for data files
-# # data_links: a vector of links to data files
-#
-# gov_datalinks <- gov_contents(gov_updated_results$link)
-# write_rds(gov_datalinks,paste0("./data/gov_meta/gov_datalinks ",start_time,".rds"))
-#
+################################################################################
+source("./R/scraper functions/gov_contents.R")
+# gov_contents(links) function
+# Takes a vector of results for pages and scrapes links to embedded data
+# returns a list as long as the input with:
+# url: original url requested
+# meta_data: data.table of meta data including org and date
+# data_titles: a vector of text titles for data files
+# data_links: a vector of links to data files
+
+gov_datalinks <- gov_contents(gov_to_update$link)
+write_rds(gov_datalinks,paste0("./data/gov_meta/gov_datalinks ",start_time,".rds"))
+
 # # Check which urls have no results
-# # gov_updated_results$link[which((map(gov_datalinks, ~ .$data_links %>% length) %>% unlist)==0)]
+# # gov_to_update$link[which((map(gov_datalinks, ~ .$data_links %>% length) %>% unlist)==0)]
 # # defra linking to data.gov in older files
 # # dclg publishing with pdf in older files
 #
