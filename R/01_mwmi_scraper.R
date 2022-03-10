@@ -51,7 +51,6 @@ if (refresh_mwmi) {
 saveRDS(gov_to_update,paste0("./data/gov_meta/gov_to_update ",start_time,".rds"))
 
 ################################################################################
-source("./R/scraper functions/gov_contents.R")
 # gov_contents(links) function
 # Takes a vector of results for pages and scrapes links to embedded data
 # returns a list as long as the input with:
@@ -68,14 +67,14 @@ write_rds(gov_datalinks,paste0("./data/gov_meta/gov_datalinks ",start_time,".rds
 # # defra linking to data.gov in older files
 # # dclg publishing with pdf in older files
 #
-# ################################################################################
+################################################################################
 # source("./R/scraper functions/gov_downloads.R")
-#
-# # Get data_links as vector
-# file_list <- gov_datalinks %>%
-#   map(~ data.frame(urls=rep(.$url_scraped,length(.$data_link)),data_link=.$data_links)) %>%
-#   bind_rows
-#
+
+# Get data_links as vector
+file_list <- gov_datalinks %>%
+  map(~ data.frame(urls=rep(.$url_scraped,length(.$data_link)),data_link=.$data_links)) %>%
+  bind_rows
+
 # # TODO: Filter out whatever is already downloaded
 #
 # gov_dl_results <- gov_downloads(file_list$data_link,
