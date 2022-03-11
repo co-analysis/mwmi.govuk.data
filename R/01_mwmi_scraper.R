@@ -24,7 +24,9 @@ gov_results <- gov_search() %>%
   filter(public_timestamp>as.Date("2021-01-01"))
 
 # Temporary limit on number of results to save time
-gov_results <- gov_results[sample(1:nrow(gov_results),10),]
+# gov_results <- gov_results[sample(1:nrow(gov_results),10),]
+gov_results <- gov_results[c(8, 15, 53, 76, 93, 113, 125, 153, 205, 207),]
+
 
 # Save current results
 saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
