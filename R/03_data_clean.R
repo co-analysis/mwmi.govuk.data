@@ -6,6 +6,7 @@
 ################################################################################
 # Load formatted but unclean data
 # rawdat <- readRDS("data/output/formed_data.RDS")
+rawdat <- dat # still in memory from previous script
 
 # Extract blank data set that will be used as a placeholder where there is no return
 blankdat <- rawdat %>% filter(org_main=="blank")
