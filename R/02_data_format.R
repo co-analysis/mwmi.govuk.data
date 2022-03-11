@@ -1,4 +1,5 @@
 library(mwmi.govuk.scraper)
+library(readxl)
 # library(tidyverse)
 # library(magrittr)
 # library(readxl)
@@ -43,35 +44,29 @@ which_matching <- which(map(match_format_results,~ .x$any_sheets) %>% unlist)
 # Load matching datasets
 rds_data <- map(gov_rds[which_matching],readRDS)
 
-# ################################################################################
-# # Extract matching tabs
-# matching_data <- map2(rds_data,match_format_results[which_matching], ~ if (.y$any_sheets==TRUE) .x[.y$which_sheets] else NULL) %>%
-#   unlist(recursive=FALSE,use.names=FALSE)
-#
-# # Extract list of matching formats and hence number of header rows to drop
-# matching_data_format <- map(match_format_results[which_matching],~ .x$template) %>%
-#   unlist
-# matching_data_headers <- ifelse(grepl("^accessible",matching_data_format),1,3)
-#
-# # Crop off header rows
-# beheaded_data <- map2(matching_data,matching_data_headers,~ .x %>% filter(row>.y))
-#
-# ################################################################################
-# # Formatting
-# source("./R/format functions/labelled_data_format.R")
-#
-# # Import labels to merge in to beheaded data
-# template_labels <- read_excel("./data/templates/import/template import labels.xlsx")
-# # Merge in
-# labelled_data <- map(beheaded_data,~ left_join(.x,template_labels))
-#
-# formed_data <- map(labelled_data,labelled_data_format)
-#
-# dat <- formed_data %>% bind_rows
-# saveRDS(dat,"./data/output/formed_data.RDS")
-#
-# # dat <- readRDS("./data/output/formed_data.RDS")
-#
-#
-#
-#
+################################################################################
+# Extract matching tabs
+matching_data <- map2(rds_data,match_format_results[which_matching], ~ if (.y$any_sheets==TRUE) .x[.y$which_sheets] else NULL) %>%
+  unlist(recursive=FALSE,use.names=FALSE)
+
+# Extract list of matching formats and hence number of header rows to drop
+matching_data_format <- map(match_format_results[which_matching],~ .x$template) %>%
+  unlist
+matching_data_headers <- ifelse(grepl("^accessible",matching_data_format),1,3)
+
+# Crop off header rows
+beheaded_data <- map2(matching_data,matching_data_headers,~ .x %>% filter(row>.y))
+
+################################################################################
+# Formatting
+
+# Import labels to merge in to beheaded data
+template_labels <- read_excel("data/templates/import/template import labels.xlsx")
+# Merge in
+labelled_data <- map(beheaded_data,~ left_join(.x,template_labels))
+
+formed_data <- map(labelled_data,labelled_data_format)
+
+dat <- formed_data %>% bind_rows
+saveRDS(dat,"data/output/formed_data.RDS")
+
