@@ -1,0 +1,69 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department: ","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Agency Staff;
+Headcount","Non-payroll staff;
+Agency Staff;
+Full-time equivalent","Non-payroll staff;
+Interim managers;
+Headcount","Non-payroll staff;
+Interim managers;
+Full-time equivalent","Non-payroll staff;
+Specialist Contractors;
+Headcount","Non-payroll staff;
+Specialist Contractors;
+Full-time equivalent","Non-payroll staff;
+Consultants/consultancy;
+Headcount","Non-payroll staff;
+Consultants/consultancy;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour: agency staff, interim managers and specialist contractors","Non-Payroll staff costs;
+Consultants/consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2021,September,"Department for Levelling Up, Housing and Communities",Ministerial Department,"Department for Levelling Up, Housing and Communities",60,56.77,277,273.09,1159,1135.2,1127,1099.78,154,147.13,9,9,"2,786","2,721",2,2,0,0,47,46.2,17,17,66,65,"2,852","2,786","£10,167,195.78","£245,427.23","£25,484.12","£39,967.48","£2,758,801.56","£1,133,466.82","£14,370,342.99","£692,378.88","£759,972.00","£1,452,350.88","£15,822,693.87"
+2021,September,Planning Inspectorate,Executive Agency,"Department for Levelling Up, Housing and Communities",152,138.64,104,96.27,154,145.99,423,376.88,4,3.97,0,0,837,762,6,6,0,0,89,20.4,0,0,95,26.4,932,788,"£2,741,523.87","£51,828.82",£0.00,"£4,809.45","£754,661.22","£299,179.23","£3,852,002.59","£136,202.29",£0.00,"£136,202.29","£3,988,204.88"
+2021,September,Queen Elizabeth II Conference Centre,Executive Agency,"Department for Levelling Up, Housing and Communities",3,3,9,9,21,21,4,4,1,1,,,38,38,3,3,,,,,1,1,4,4,42,42,"£133,227.56",£412.00,£0.00,"£2,064.50","£35,580.22","£14,862.19","£186,146.47","£3,863.34",£405.60,"£4,268.94","£190,415.41"
+2021,September,Homes England,Executive Non-Departmental Public Body,"Department for Levelling Up, Housing and Communities",0,0,257,250.93,361,356.55,631,620.07,80,78.91,0,0,"1,329","1,306",56,55.43,4,3.95,31,30,0,0,91,89.38057143,"1,420","1,396","£5,632,079.61","£327,440.37",£0.00,"£1,375.91","£1,622,620.09","£678,873.02","£8,262,389.00","£1,006,221.35",£0.00,"£1,006,221.35","£9,268,610.35"
+2021,September,Housing Ombudsman Service,Executive Non-Departmental Public Body,"Department for Levelling Up, Housing and Communities",,,,,,,,,,,100,97.1,100,97,18,18,,,,,,,18,18,118,115,"£414,868.55",,,,"£115,383.15","£47,287.54","£577,539.24","£65,152.97",,"£65,152.97","£642,692.21"
+2021,September,Leasehold Advisory Service,Executive Non-Departmental Public Body,"Department for Levelling Up, Housing and Communities",4,3.6,1,1,19,17.1,0,0,1,1,0,0,25,23,,,,,,,,,0,0,25,23,"£86,533.34",,,,"£9,491.97","£9,324.81","£105,350.12",,,£0.00,"£105,350.12"
+2021,September,Valuation Tribunal Service,Executive Non-Departmental Public Body,"Department for Levelling Up, Housing and Communities",16,15.34,32,31.7,5,5,2,2,1,1,,,56,55,,,,,,,,,0,0,56,55,"£177,974.74",£816.65,,,"£28,796.44","£18,933.65","£226,521.48","£1,308.34",,"£1,308.34","£227,829.82"
+2021,September,Regulator of Social Housing,Executive Non-Departmental Public Body,"Department for Levelling Up, Housing and Communities",12,11.91,63,62.07,52,51.2,56,55.4,8,8,0,0,191,189,0,0,0,0,0,0,0,0,0,0,191,189,"£845,735.41","£37,732.08",£0.00,£0.00,"£253,320.50","£101,776.87","£1,238,564.86",£0.00,£0.00,£0.00,"£1,238,564.86"
