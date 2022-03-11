@@ -24,7 +24,8 @@ jobs:
       - name: Scrape files
         run: |
           refresh_mwmi=TRUE
-          source("R/01_mwmi_scraper.R")
+          #source("R/01_mwmi_scraper.R")
+          source("R/02_data_format.R")
         shell: Rscript {0}
         
       - name: Commit files
