@@ -1,0 +1,100 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Agency Staff;
+Headcount","Non-payroll staff;
+Agency Staff;
+Full-time equivalent","Non-payroll staff;
+Interim managers;
+Headcount","Non-payroll staff;
+Interim managers;
+Full-time equivalent","Non-payroll staff;
+Specialist Contractors;
+Headcount","Non-payroll staff;
+Specialist Contractors;
+Full-time equivalent","Non-payroll staff;
+Consultants/consultancy;
+Headcount","Non-payroll staff;
+Consultants/consultancy;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour: agency staff, interim managers and specialist contractors","Non-Payroll staff costs;
+Consultants/consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2021,November,Department of Health and Social Care (excl agencies),Ministerial Department,Department of Health and Social Care,24,23.52,402,390.54,1271,1243.52,1246,1204.38,219,211.89,57,55.65,"3,219","3,130",143,142.76,,,19,18.2,71,71,233,232,"3,452","3,361","£11,885,230.62","-£7,293.16","£108,148.00","£82,917.24","£3,214,474.49","£1,409,973.45","£16,693,450.64","£5,771,250.00",,"£5,771,250.00","£22,464,700.64"
+2021,November,Care Quality Commission ,Executive Non-Departmental Public Body,Department of Health and Social Care,214,185.97,416,389.27,1958,1860.48,538,508.06,174,153.55,10,7.2,"3,310","3,105",21,21,8,8,12,12,0,0,41,41,"3,351","3,146","£10,956,519.00","£107,643.00",,"£59,473.00","£1,389,311.00","£1,151,365.00","£13,664,311.00","£135,926.00",,"£135,926.00","£13,800,237.00"
+2021,November,Health & Social Care Information Centre,Executive Non-Departmental Public Body,Department of Health and Social Care,31,30.44,472,441.92,908,876.83,1299,1256.15,193,182.84,,,"2,903","2,788",571,490.59,503,449.16,0,0,,,1074,939.75,"3,977","3,728","£11,454,692.60","£383,878.45",,"£11,246.89","£2,298,546.62","£1,344,419.64","£15,492,784.20","£8,717,874.00",,"£8,717,874.00","£24,210,658.20"
+2021,November,Health Education England,Special Health Authority,Department of Health and Social Care,94,88.08,825,774.5,804,763.82,786,742.51,1130,411.62,,,"3,639","2,781",,,,,,,,,0,0,"3,639","2,781","£11,476,689.13","£20,606.74",,"£1,613.04","£1,413,024.82","£1,167,620.99","£14,079,554.72",,,£0.00,"£14,079,554.72"
+2021,November,Health Research Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,1,1,100,95.26,117,112.66,53,50.29,5,5,,,276,264,1,1,4,2.52,,,,,5,3.52,281,268,"£881,044.51",,,"£3,567.16","£116,437.98","£89,966.26","£1,091,015.91","£90,050.00",,"£90,050.00","£1,181,065.91"
+2021,November,Human Fertilisation & Embryology Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,0,0,22,21.2,36,34,8,7.4,4,3.5,0,0,70,66,1,1,0,0,5,5,0,0,6,6,76,72,"£237,332.00",,,,"£66,701.00","£27,743.00","£331,776.00",,,£0.00,"£331,776.00"
+2021,November,Human Tissue Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,1,1,5,5,29,28.81,9,8.91,2,2,0,0,46,46,,,,,,,,,0,0,46,46,"£182,314.51",£0.00,£0.00,£48.57,"£24,079.86","£20,566.84","£227,009.78","£44,653.00",,"£44,653.00","£271,662.78"
+2021,November,Medicines & Healthcare products Regulatory Agency,Executive Agency,Department of Health and Social Care,49,49,178,171.98,481,472.82,434,417.4,149,132.8,0,0,"1,291","1,244",61,61,5,4.37,21,21,0,0,87,86.37,"1,378","1,330","£5,084,955.42","£5,522.54","£12,300.00","£23,457.79","£1,366,534.17","£569,903.87","£7,062,673.78","£1,929,051.00",,"£1,929,051.00","£8,991,724.78"
+2021,November,Monitor,Executive Non-Departmental Public Body,Department of Health and Social Care,0,0,0,0,7,6.59,15,14.6,60,58.38,4,4,86,84,,,,,,,,,0,0,86,84,"£728,437.79","£10,659.05",£0.00,£0.00,"£205,031.08","£89,321.36","£1,033,449.28","-£4,144.00",,"-£4,144.00","£1,029,305.28"
+2021,November,National Institute for Health and Care Excellence,Executive Non-Departmental Public Body,Department of Health and Social Care,11,10.41,100,95.21,284,269.73,281,268.57,77,71.88,0,0,753,716,2,1.43,,,7,7,16,16,25,24.43,778,740,"£2,970,171.28","£2,262.15",£0.00,£0.00,"£579,974.08","£333,770.45","£3,886,177.96","£76,504.00",,"£76,504.00","£3,962,681.96"
+2021,November,NHS Blood & Transplant,Special Health Authority,Department of Health and Social Care,2014,1614.87,1234,1131.37,1734,1593.54,621,606.44,67,66.4,50,47.18,"5,720","5,060",76,76,8,8,40,40,0,0,124,124,"5,844","5,184","£15,145,946.65","£876,292.05",£0.00,"£411,281.85","£2,099,943.34","£1,695,100.80","£20,228,564.69","£570,142.00",,"£570,142.00","£20,798,706.69"
+2021,November,NHS Business Services Authority,Special Health Authority,Department of Health and Social Care,1721,1543.36,868,826.44,603,590.22,317,302.71,35,35,,,"3,544","3,298",97,97,,,,,24,24,121,121,"3,665","3,419","£7,929,373.84","£12,351.40",£0.00,"£128,884.32","£1,001,110.01","£748,972.57","£9,820,692.14",,,£0.00,"£9,820,692.14"
+2021,November,NHS England,Special Health Authority,Department of Health and Social Care,95,83.19,1265,1184.25,2305,2203.83,3960,3788.44,1694,1534.59,165,107.27,"9,484","8,902",153,134,76,39.67,0,0,0,0,229,173.67253,"9,713","9,075","£43,169,883.45","£11,947.00",£0.00,£0.00,"£5,443,187.06","£4,930,508.62","£53,555,526.13",,,£0.00,"£53,555,526.13"
+2021,November,NHS Litigation Authority,Special Health Authority,Department of Health and Social Care,0,0,85,81.27,200,193.38,222,209.36,9,9,0,0,516,493,16,16,0,0,0,0,0,0,16,16,532,509,"£1,912,244.51","£205,430.76",£0.00,£0.00,"£256,354.99","£229,897.79","£2,603,928.05",,,£0.00,"£2,603,928.05"
+2021,November,NHS Trust Development Authority,Special Health Authority,Department of Health and Social Care,2,1.6,114,109.17,248,240.53,710,681.2,502,475.43,22,8.6,"1,598","1,517",,,,,,,,,0,0,"1,598","1,517","£8,190,403.95","£385,051.04",£0.00,"£19,099.42","£1,064,100.76","£1,016,220.10","£10,674,875.27","£55,528.00",,"£55,528.00","£10,730,403.27"
+2021,November,UK Health Security Agency,Executive Agency,Department of Health and Social Care,805,663.1,969,875.47,2885,2679.44,1800,1719.46,421,373.17,6,6,"6,886","6,317",1412,1411,278,275,1549,1532,1569,1453,4808,4671,"11,694","10,988","£25,377,004.57","£606,030.93","£1,626.36","£1,200,798.40","£5,451,168.95","£2,619,742.39","£35,256,371.60",,,£0.00,"£35,256,371.60"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
