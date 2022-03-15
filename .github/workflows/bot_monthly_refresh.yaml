@@ -1,7 +1,7 @@
 name: monthly-refresh
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
   schedule:
     - cron: '33 3 1 * *'
 
