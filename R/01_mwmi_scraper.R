@@ -100,7 +100,7 @@ if (continue_progress) {
                 url_stem="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/")
   saveRDS(gov_dl_results,paste0("data/gov_meta/gov_dl_results ",start_time,".rds"))
   
-  if (!any(gov_dl_results$dl_result=="Successful"))
+  if (!any(gov_dl_results$dl_result=="Successful")) {continue_progress <- FALSE ; print("No new files downloaded")}
 }
 ################################################################################
 if (continue_progress) {
