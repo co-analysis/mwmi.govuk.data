@@ -1,6 +1,9 @@
-name: manual-refresh
+name: daily_update
 
-on: workflow_dispatch
+on:
+  workflow_dispatch
+  schedule:
+    - cron: '33 3 2-31 * *'
 
 jobs:
   test-actions:
@@ -23,7 +26,7 @@ jobs:
           
       - name: Scrape files
         run: |
-          refresh_mwmi=TRUE
+          refresh_mwmi=FALSE
           source("R/01_mwmi_scraper.R")
           source("R/02_data_format.R")
           source("R/03_data_clean.R")
