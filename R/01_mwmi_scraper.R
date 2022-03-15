@@ -22,7 +22,7 @@ if (!exists('refresh_mwmi')) refresh_mwmi = FALSE
 ################################################################################
 
 
-# Search for current matches, filter for 2021 onwards
+print("Search for current matches, filter for 2021 onwards")
 gov_results <- gov_search() %>%
   filter(public_timestamp>as.Date("2021-01-01"))
 
@@ -30,13 +30,12 @@ gov_results <- gov_search() %>%
 # gov_results <- gov_results[sample(1:nrow(gov_results),10),]
 # gov_results <- gov_results[c(8, 15, 53, 76, 93, 113, 125, 153, 205, 207),]
 
-
 # Save current results
 saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
 
 # Results to check
 if (refresh_mwmi) {
-  # Update everything if refreshing
+  # Update everything
   gov_to_update <- gov_results
 
 } else {
@@ -59,7 +58,7 @@ if (refresh_mwmi) {
 
 saveRDS(gov_to_update,paste0("./data/gov_meta/gov_to_update ",start_time,".rds"))
 
-if (nrow(gov_to_update)==0) continue_progress <- FALSE
+if (nrow(gov_to_update)==0) { continue_progress <- FALSE; print("No new results") }
 
 ################################################################################
 # gov_contents(links) function
@@ -71,6 +70,7 @@ if (nrow(gov_to_update)==0) continue_progress <- FALSE
 # data_links: a vector of links to data files
 
 if (continue_progress) {
+  print("Take vector of results for pages and scrape links to embedded data")
   gov_datalinks <- gov_contents(gov_to_update$link)
   saveRDS(gov_datalinks,paste0("data/gov_meta/gov_datalinks ",start_time,".rds"))
 }
@@ -83,11 +83,14 @@ if (continue_progress) {
 ################################################################################
 # source("./R/scraper functions/gov_downloads.R")
 
-# Get data_links as vector
 if (continue_progress) {
+  print("Get data_links as vector")
+  
   file_list <- gov_datalinks %>%
     map(~ data.frame(urls=rep(.$url_scraped,length(.$data_link)),data_link=.$data_links)) %>%
     bind_rows
+  
+  if (nrow(file_list)==0) {continue_progress <- FALSE ; print("no new links") }
 }
 # TODO: Filter out whatever is already downloaded
 
@@ -96,9 +99,13 @@ if (continue_progress) {
                 dl_stem="data/gov_files/",
                 url_stem="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/")
   saveRDS(gov_dl_results,paste0("data/gov_meta/gov_dl_results ",start_time,".rds"))
+  
+  if (!any(gov_dl_results$dl_result=="Successful"))
 }
 ################################################################################
 if (continue_progress) {
+  print("Download files")
+  
   # List of recently downloaded files
   gov_files <- gov_dl_results %>% filter(dl_result=="Successful") %>% pull(dl_location)
   
