@@ -30,9 +30,6 @@ gov_results <- gov_search() %>%
 # gov_results <- gov_results[sample(1:nrow(gov_results),10),]
 # gov_results <- gov_results[c(8, 15, 53, 76, 93, 113, 125, 153, 205, 207),]
 
-# Save current results
-saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
-
 # Results to check
 if (refresh_mwmi) {
   # Update everything
@@ -56,6 +53,10 @@ if (refresh_mwmi) {
     filter(is.na(old_time) | public_timestamp>old_time)
 }
 
+# Save current results
+saveRDS(gov_results,paste0("data/gov_meta/gov_results ",start_time,".rds"),compress=FALSE)
+
+# Save results to update
 saveRDS(gov_to_update,paste0("./data/gov_meta/gov_to_update ",start_time,".rds"))
 
 if (nrow(gov_to_update)==0) { continue_progress <- FALSE; print("No new results") }
