@@ -1,0 +1,76 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department: ","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Agency Staff;
+Headcount","Non-payroll staff;
+Agency Staff;
+Full-time equivalent","Non-payroll staff;
+Interim managers;
+Headcount","Non-payroll staff;
+Interim managers;
+Full-time equivalent","Non-payroll staff;
+Specialist Contractors;
+Headcount","Non-payroll staff;
+Specialist Contractors;
+Full-time equivalent","Non-payroll staff;
+Consultants/consultancy;
+Headcount","Non-payroll staff;
+Consultants/consultancy;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour: agency staff, interim managers and specialist contractors","Non-Payroll staff costs;
+Consultants/consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2022,January,"Department for Business, Energy and Industrial Strategy",Ministerial Department,"Department for Business, Energy & Industrial Strategy (BEIS)",72,70.17,439,429.19,2525,2492.56,2634,2567.43,332,318.03,0,0,6002,5877.4,10,10,0,0,228,195.55,58,50.46,296,256,6298,6133.4,"£22,721,209.87","£1,015,785.55","£241,050.00","£57,883.99","£6,389,249.32","£2,677,635.84","£33,102,814.57","£137,820.00","£549,157.00","£686,977.00","£33,789,791.57"
+2022,January,Advisory Conciliation & Arbitration Service (ACAS),Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",54,48.04,321,301.48,598,557.31,57,52.56,5,5,0,0,1035,964.4,0,0,0,0,0,0,0,0,0,0,1035,964.4,"£2,599,403.65","£19,510.00",£0.00,"£2,536.32","£702,038.82","£259,203.89","£3,582,692.68",£0.00,£0.00,£0.00,"£3,582,692.68"
+2022,January,Civil Nuclear Police Authority (CNPA),Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",1424,1395.5,166,159.25,32,30.4,0,0,0,0,0,0,1622,1585.2,0,0,0,0,0,0,0,0,0,0,1622,1585.2,"£4,953,916.66","£145,496.26","£25,054.49","£839,539.83","£926,238.63","£712,415.95","£7,602,661.82",£0.00,£0.00,£0.00,"£7,602,661.82"
+2022,January,Coal Authority,Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",10,8.8,34,32.5,191,186.2,76,76,3,3,0,0,314,306.5,10,10,0,0,0,0,0,0,10,10,324,316.5,"£1,027,262.33","£16,435.48","£4,216.16","£4,697.11","£273,495.41","£113,096.93","£1,439,203.42","£59,376.60",£0.00,"£59,376.60","£1,498,580.02"
+2022,January,Committee on Climate Change (CCC),Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",0,0,1,0.8,14,13.36,23,20.68,4,3.9,0,0,42,38.7,0,0,0,0,0,0,0,0,0,0,42,38.7,"£248,521.00",£0.00,£0.00,£0.00,"£40,334.00","£17,349.00","£306,204.00",£0.00,£0.00,£0.00,"£306,204.00"
+2022,January,Companies House,Executive agency,"Department for Business, Energy & Industrial Strategy (BEIS)",457,401.9,294,279.13,326,313.83,90,88.56,7,7,0,0,1174,1090.4,23,23,0,0,30,30,0,0,53,53,1227,1143.4,"£2,818,264.27","£32,491.99",£147.28,"£44,746.80","£769,580.96","£279,456.36","£3,944,687.66","£78,254.12","£368,056.91","£446,311.03","£4,390,998.69"
+2022,January,Competition Service,Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",5,5,1,1,3,2.72,8,8,0,0,1,1,18,17.7,0,0,0,0,0,0,2,2,2,2,20,19.7,"£75,267.66",£216.66,£0.00,£0.00,"£21,056.14","£8,575.82","£105,116.28",£0.00,"£1,525.00","£1,525.00","£106,641.28"
+2022,January,HM Land Registry,Non-ministerial department,"Department for Business, Energy & Industrial Strategy (BEIS)",1754,1649.98,2398,2136.21,2208,1992.53,303,286.83,27,27,0,0,6690,6092.5,0,0,0,0,0,0,0,0,0,0,6690,6092.5,"£15,862,382.96","£297,977.46",£0.00,"£1,813,124.11","£4,257,495.77","£13,735,927.93","£35,966,908.23","£106,975.88","£315,630.61","£422,606.49","£36,389,514.72"
+2022,January,Insolvency Service,Executive Agency,"Department for Business, Energy & Industrial Strategy (BEIS)",600,560.24,205,195.67,786,754.18,142,138.15,11,11,0,0,1744,1659.2,0,0,0,0,0,0,0,0,0,0,1744,1659.2,"£4,554,578.50","£18,225.49","£6,750.00","£1,777.40","£1,233,127.61","£463,047.71","£6,277,506.71","£858,352.81",£0.00,"£858,352.81","£7,135,859.52"
+2022,January,UK Intellectual Property Office,Executive Agency,"Department for Business, Energy & Industrial Strategy (BEIS)",238,216.9,483,455.22,582,558.75,377,356.24,23,22.7,0,0,1703,1609.8,42,42,116,116,0,0,0,0,158,158,1861,1767.8,"£5,026,990.00","£210,487.00","£116,710.00","£114,276.00","£1,426,400.00","£570,072.00","£7,464,935.00","£714,742.00",£0.00,"£714,742.00","£8,179,677.00"
+2022,January,Met Office,Executive agency,"Department for Business, Energy & Industrial Strategy (BEIS)",110,109.4,203,196.2,1297,1218.2,550,517.12,10,10,0,0,2170,2050.9,0,0,0,0,0,0,0,0,0,0,2170,2050.9,"£6,542,224.93","£408,024.70",£0.00,£0.00,"£814,409.52","£1,820,476.06","£9,585,135.21","£1,243,359.62","£12,863.00","£1,256,222.62","£10,841,357.83"
+2022,January,Nuclear Decommissioning Authority (NDA),Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",0,0,0,0,0,0,0,0,0,0,358,350.38129,358,350.4,0,0,0,0,0,0,0,0,0,0,358,350.4,"£2,196,020.92","£91,259.87",£0.00,£0.00,"£586,058.34","£277,853.33","£3,151,192.46","£180,000.00",£0.00,"£180,000.00","£3,331,192.46"
+2022,January,UKAEA,Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",88,83.12,250,246.6,905,891.41,340,328.79,16,15.5,99,99,1698,1664.4,0,0,0,0,497,497,0,0,497,497,2195,2161.4,"£5,443,202.71","£24,556.45","£460,085.55","£48,073.82","£905,747.20","£707,051.46","£7,588,717.19","£1,879,648.13",£0.00,"£1,879,648.13","£9,468,365.32"
+2022,January,UK Space Agency,Executive agency,"Department for Business, Energy & Industrial Strategy (BEIS)",1,1,16,16,117,116,116,114.8,10,10,0,0,260,257.8,0,0,0,0,18,18,0,0,18,18,278,275.8,"£982,775.58","£25,382.48",£0.00,£0.00,"£273,187.65","£113,583.23","£1,394,928.94","£195,853.37",£0.00,"£195,853.37","£1,590,782.31"
+2022,January,UKRI,Executive agency,"Department for Business, Energy & Industrial Strategy (BEIS)",638,595.34,1089,1036.92,4221,4081.85,1465,1409.01,238,228.23,306,294.71,7957,7646.1,,,,,,,,,0,0,7957,7646.1,"£25,001,145.45","£1,129,307.44","£32,600.00","£95,522.58","£20,289,336.62","£2,800,360.68","£49,348,272.76","£1,574,338.28","£869,605.08","£2,443,943.36","£51,792,216.12"
