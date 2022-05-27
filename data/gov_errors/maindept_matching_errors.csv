@@ -147,3 +147,114 @@
 "146","non payroll costs","consultants","costs",0,"data/gov_files/1059207/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
 "147","non payroll costs","total","costs",75305.94,"data/gov_files/1059207/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
 "148","all costs","total","costs",1533311.23,"data/gov_files/1059207/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"149","payroll","aao","hc",90,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"150","payroll","aao","fte",84.25946,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"151","payroll","eo","hc",240,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"152","payroll","eo","fte",220.581031,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"153","payroll","sheo","hc",91,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"154","payroll","sheo","fte",90.18919,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"155","payroll","g67","hc",15,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"156","payroll","g67","fte",15,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"157","payroll","scs","hc",1,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"158","payroll","scs","fte",1,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"159","payroll","other","hc",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"160","payroll","other","fte",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"161","payroll","total","hc",437,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"162","payroll","total","fte",411.029681,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"163","non payroll","agency","hc",21,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"164","non payroll","agency","fte",21,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"165","non payroll","managers","hc",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"166","non payroll","managers","fte",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"167","non payroll","contractors","hc",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"168","non payroll","contractors","fte",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"169","non payroll","consultants","hc",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"170","non payroll","consultants","fte",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"171","non payroll","total","hc",21,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"172","non payroll","total","fte",21,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"173","all employees","total","hc",458,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"174","all employees","total","fte",432.029681,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"175","payroll costs","salary","costs",1004811.52,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"176","payroll costs","allowances","costs",37040.91,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"177","payroll costs","ncprp","costs",2625,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"178","payroll costs","overtime","costs",31253.48,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"179","payroll costs","pension","costs",281302.83,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"180","payroll costs","ni","costs",100971.55,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"181","payroll costs","total","costs",1458005.29,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"182","non payroll costs","contingent","costs",75305.94,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"183","non payroll costs","consultants","costs",0,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"184","non payroll costs","total","costs",75305.94,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"185","all costs","total","costs",1533311.23,"data/gov_files/1078744/MOD_Workforce_Management_Information_January_2022.xlsx","Executive Agency","January",2022,"Defence Electronics & Components Agency",NA
+"186","payroll","aao","hc",90,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"187","payroll","aao","fte",84.25946,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"188","payroll","eo","hc",241,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"189","payroll","eo","fte",221.094545,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"190","payroll","sheo","hc",91,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"191","payroll","sheo","fte",90.18919,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"192","payroll","g67","hc",15,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"193","payroll","g67","fte",15,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"194","payroll","scs","hc",1,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"195","payroll","scs","fte",1,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"196","payroll","other","hc",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"197","payroll","other","fte",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"198","payroll","total","hc",438,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"199","payroll","total","fte",411.543195,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"200","non payroll","agency","hc",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"201","non payroll","agency","fte",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"202","non payroll","managers","hc",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"203","non payroll","managers","fte",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"204","non payroll","contractors","hc",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"205","non payroll","contractors","fte",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"206","non payroll","consultants","hc",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"207","non payroll","consultants","fte",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"208","non payroll","total","hc",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"209","non payroll","total","fte",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"210","all employees","total","hc",438,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"211","all employees","total","fte",411.543195,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"212","payroll costs","salary","costs",1005029.57,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"213","payroll costs","allowances","costs",37633.12,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"214","payroll costs","ncprp","costs",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"215","payroll costs","overtime","costs",38654.31,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"216","payroll costs","pension","costs",282563.769999999,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"217","payroll costs","ni","costs",101834.76,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"218","payroll costs","total","costs",1465715.53,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"219","non payroll costs","contingent","costs",56938.53,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"220","non payroll costs","consultants","costs",0,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"221","non payroll costs","total","costs",56938.53,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"222","all costs","total","costs",1522654.06,"data/gov_files/1078745/MOD_Workforce_Management_Information_February_2022.xlsx","Executive Agency","February",2022,"Defence Electronics & Components Agency",NA
+"223","payroll","aao","hc",88,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"224","payroll","aao","fte",82.25946,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"225","payroll","eo","hc",238,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"226","payroll","eo","fte",218.094545,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"227","payroll","sheo","hc",92,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"228","payroll","sheo","fte",91.18919,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"229","payroll","g67","hc",16,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"230","payroll","g67","fte",16,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"231","payroll","scs","hc",1,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"232","payroll","scs","fte",1,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"233","payroll","other","hc",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"234","payroll","other","fte",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"235","payroll","total","hc",435,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"236","payroll","total","fte",408.543195,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"237","non payroll","agency","hc",25,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"238","non payroll","agency","fte",25,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"239","non payroll","managers","hc",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"240","non payroll","managers","fte",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"241","non payroll","contractors","hc",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"242","non payroll","contractors","fte",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"243","non payroll","consultants","hc",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"244","non payroll","consultants","fte",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"245","non payroll","total","hc",25,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"246","non payroll","total","fte",25,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"247","all employees","total","hc",460,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"248","all employees","total","fte",433.543195,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"249","payroll costs","salary","costs",1002630.49,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"250","payroll costs","allowances","costs",48465.93,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"251","payroll costs","ncprp","costs",1850,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"252","payroll costs","overtime","costs",39700.47,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"253","payroll costs","pension","costs",284775.829999999,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"254","payroll costs","ni","costs",103512.31,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"255","payroll costs","total","costs",1480935.03,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"256","non payroll costs","contingent","costs",60613.43,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"257","non payroll costs","consultants","costs",0,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"258","non payroll costs","total","costs",60613.43,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
+"259","all costs","total","costs",1541548.46,"data/gov_files/1078746/MOD_Workforce_Management_Information_March_2022.xlsx","Executive Agency","March",2022,"Defence Electronics & Components Agency",NA
