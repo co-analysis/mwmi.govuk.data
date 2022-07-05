@@ -18,5 +18,6 @@ template_rds_files <- template_files %>%
 template_conversion_results <- file_handler(template_files,template_rds_files)
 
 # Convert a blank copy to use when filling in missing returns
-file_handler("data/templates/import/blank accessible template.xlsx","data/templates/import/blank accessible template.xlsx.rds")
+blanks <- list.files("data/templates/blank",full.names=TRUE,pattern="(xlsx?$)|(csv$)")
+file_handler(blanks,paste0(blanks,".rds"))
 

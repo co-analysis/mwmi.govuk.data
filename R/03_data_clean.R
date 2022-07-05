@@ -111,7 +111,12 @@ if (continue_progress) {
   # Blank copy of the template
   blank_template <- blankdat %>%
     mutate(value=0*NA) %>%
-    select(group,sub_group,measure,value)
+    select(group,sub_group,measure,value,date_year,date_month) %>%
+    mutate(match_num=as.numeric(date_year)*100+match(date_month,month.name))
+  # Set of dates that the blank data applies from
+  blank_data_dates <- blank_template$match_num %>%
+    unique %>%
+    sort
   
   # Departments to make placeholders for
   # Todo: search for most recent file definition
@@ -129,8 +134,13 @@ if (continue_progress) {
   
   # Set up blanks to add in
   deptdates <- merge(dates_to_fill,showmissing %>% select(Department)) # all date * dept combos
-  deptdates_to_fill <- setdiff(deptdates,deptdates_not_to_fill) # filter out data that already exists
-  blank_dates <- merge(deptdates_to_fill,blank_template) # merge in all the NA data rows for each dept * date
+  deptdates_to_fill <- setdiff(deptdates,deptdates_not_to_fill) %>% # filter out data that already exists
+    mutate(date_num=Year*100+match(Month,month.name)) %>%
+    filter(date_num>=min(blank_data_dates))
+  for (d in blank_data_dates) deptdates_to_fill <- mutate(deptdates_to_fill,match_num=ifelse(date_num>=d,d,match_num))
+  
+  blank_dates <- merge(deptdates_to_fill,select(blank_template,-date_year,-date_month)) %>% # merge in all the NA data rows for each dept * date
+    select(-match_num)
   
   # Add in Body and org_type from metadata
   blank_placeholders <- showmissing %>%
