@@ -1,0 +1,98 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour:
+Headcount","Non-payroll staff;
+Total Contingent labour:
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2022,July,"Department for Environment, Food and Rural Affairs",Ministerial Department,"Department for Environment, Food and Rural Affairs",178,161.27,701,678.8,3283,3182.44,2220,2144.69,195,189.36,17,17,"6,594","6,374",38,36.9,511,507.4,0,0,549,544,16,"7,143","6,918","£26,160,434.00","£38,322.00","£84,647.00","£85,968.00","£6,109,349.00","£2,647,797.00","£35,126,517.00","£8,978,960.32","£1,795,243.54","£10,774,203.86","£45,900,720.86"
+2022,July,Animal and Plant Health Agency,Executive Agency,"Department for Environment, Food and Rural Affairs",954,893.46,834,796.12,943,900.71,229,224.11,5,5,0,0,"2,965","2,819",129,129,43,43,0,0,172,172,1,"3,137","2,991","£6,974,546.78","£115,510.27","£29,873.20","£333,960.83","£1,943,864.78","£797,854.27","£10,195,610.13","£1,136,386.76","£3,024.00","£1,139,410.76","£11,335,020.89"
+2022,July,"Centre for Environment, Fisheries and Aquaculture Science",Executive Agency,"Department for Environment, Food and Rural Affairs",44,40.61,149,139.76,346,329.75,120,115.47,4,4,0,0,663,630,0,0,0,0,0,0,0,0,,663,630,"£1,804,080.00","£10,835.00",,"£41,034.00","£494,691.00","£216,324.00","£2,566,964.00",,,£0.00,"£2,566,964.00"
+2022,July,Rural Payments Agency,Executive Agency,"Department for Environment, Food and Rural Affairs",1496,1366.31,650,600.52,274,261.95,336,312.19,7,6.46,0,0,"2,763","2,547",195,192.76,3,3,0,0,198,196,,"2,961","2,743","£5,446,211.74","£3,794.83","£1,850.00","£75,869.49","£1,437,646.57","£515,984.73","£7,481,357.36","£599,752.93",,"£599,752.93","£8,081,110.29"
+2022,July,Veterinary Medicines Directorate,Executive Agency,"Department for Environment, Food and Rural Affairs",30,28.87,22,20.67,58,57.72,61,60.36,1,1,0,0,172,169,11,11,0,0,0,0,11,11,26,183,180,"£584,708.81","£19,680.35",,,"£157,895.72","£76,002.61","£838,287.49","£59,450.00","£304,948.02","£364,398.02","£1,202,685.51"
+2022,July,Agriculture and Horticulture Development Board,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",0,0,0,0,0,0,0,0,0,0,373,356.17,373,356,1,1,0,0,0,0,1,1,1,374,357,"£1,244,217.00","£62,821.00",£0.00,£0.00,"£111,685.00","£157,563.00","£1,576,286.00","£4,699.00",,"£4,699.00","£1,580,985.00"
+2022,July,Consumer Council for Water,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",10,9.18,28,26.42,24,23.35,14,13.59,5,5,0,0,81,78,,,,,1,0.8,1,1,0,82,78,"£223,535.18","£2,207.31",£0.00,£224.33,"£58,397.70","£25,281.92","£309,646.44","£5,761.60",£0.00,"£5,761.60","£315,408.04"
+2022,July,Environment Agency,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",1650,1562.54,2612,2469.59,3535,3337.68,2547,2422.63,95,94.2,788,774.28,"11,227","10,661",223,214.08,345,298.63,0,0,568,513,,"11,795","11,174","£31,038,142.51","£279,377.21",£100.00,"£988,544.45","4,655,194.03?","£3,591,273.92","£35,897,438.09",,,£0.00,"£35,897,438.09"
+2022,July,Joint Nature Conservation Committee,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",8,8,34,33.8,193,184.71,29,27.13,2,2,7,1.01,273,257,0,0,2,2,0,0,2,2,,275,259,"£687,652.00","£19,149.00","£99,450.00","£9,164.00","£191,855.00","£92,633.00","£1,099,903.00","£5,316.00",£0.00,"£5,316.00","£1,105,219.00"
+2022,July,Marine Management Organisation,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",27,22.9,124,121.8,177,170.9,72,71.1,9,8.2,9,9,418,404,0,0,0,0,0,0,0,0,,418,404,"£1,086,274.32","£28,621.67",£0.00,"£33,778.63","£300,347.61","£131,770.11","£1,580,792.34",,,£0.00,"£1,580,792.34"
+2022,July,National Forest Company,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",2,1.6,5,4.12,24,21.73,5,5,1,1,0,0,37,33,0,0,0,0,0,0,0,0,0,37,33,£0.00,,,"£1,663.00","£26,832.00","£11,217.00","£39,712.00",,,£0.00,"£39,712.00"
+2022,July,Natural England,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",153,138.9,406,380.6,1979,1845.64,274,260.93,23,21.33,11,10.65,"2,846","2,658",0,0,0,0,0,0,0,0,,"2,846","2,658","£6,942,836.67","£66,780.92","£16,900.00","£17,680.14","£1,878,371.84","£731,008.62","£9,653,578.19","£110,000.00",,"£110,000.00","£9,763,578.19"
+2022,July,"Royal Botanic Gardens, Kew",Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",323,224.9,225,172.25,279,266.16,80,77.58,12,12,67,67,986,820,0,0,15,15,0,0,15,15,,"1,001",835,"£2,373,649.82","£15,542.74",,"£36,369.54","£474,824.48","£255,759.92","£3,156,146.50","£213,846.00",£0.00,"£213,846.00","£3,369,992.50"
+2022,July,Sea Fish Industry Authority,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",29,28.06,31,30.7,20,20,4,4,1,1,0,0,85,84,0,0,0,0,0,0,0,0,,85,84,"£288,075.37","£4,891.24",£0.00,,"£38,711.08","£30,023.49","£361,701.18",,,£0.00,"£361,701.18"
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
