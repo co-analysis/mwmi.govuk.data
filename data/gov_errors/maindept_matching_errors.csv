@@ -294,3 +294,346 @@
 "293","non payroll costs","consultants","costs",0,"data/gov_files/1086034/MOD_Workforce_Management_Information_April_2022.xlsx","Executive Agency","April",2022,"Defence Electronics & Components Agency",NA
 "294","non payroll costs","total","costs",59471.02,"data/gov_files/1086034/MOD_Workforce_Management_Information_April_2022.xlsx","Executive Agency","April",2022,"Defence Electronics & Components Agency",NA
 "295","all costs","total","costs",1545341.45,"data/gov_files/1086034/MOD_Workforce_Management_Information_April_2022.xlsx","Executive Agency","April",2022,"Defence Electronics & Components Agency",NA
+"296","payroll","aao","hc",85,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"297","payroll","aao","fte",79.85946,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"298","payroll","eo","hc",239,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"299","payroll","eo","fte",218.405356,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"300","payroll","sheo","hc",91,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"301","payroll","sheo","fte",90.567568,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"302","payroll","g67","hc",14,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"303","payroll","g67","fte",13.918919,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"304","payroll","scs","hc",1,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"305","payroll","scs","fte",1,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"306","payroll","other","hc",0,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"307","payroll","other","fte",0,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"308","payroll","total","hc",430,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"309","payroll","total","fte",403.751303,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"310","non payroll","admin","hc",20,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"311","non payroll","admin","fte",20,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"312","non payroll","managers","hc",0,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"313","non payroll","managers","fte",0,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"314","non payroll","other","hc",0,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"315","non payroll","other","fte",0,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"316","non payroll","total","hc",20,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"317","non payroll","total","fte",20,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"318","non payroll","consultants","contracts",0,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"319","all employees","total","hc",450,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"320","all employees","total","fte",423.751303,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"321","payroll costs","salary","costs",997422.230000004,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"322","payroll costs","allowances","costs",40720.28,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"323","payroll costs","ncprp","costs",6750,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"324","payroll costs","overtime","costs",29766.01,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"325","payroll costs","pension","costs",278959.509999999,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"326","payroll costs","ni","costs",109518.32,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"327","payroll costs","total","costs",1463136.35,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"328","non payroll costs","contingent","costs",49612.49,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"329","non payroll costs","consultants","costs",0,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"330","non payroll costs","total","costs",49612.49,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"331","all costs","total","costs",1512748.84,"data/gov_files/1086035/MOD_Workforce_Management_Information_May_2022.xlsx","Executive Agency","May",2022,"Defence Electronics & Components Agency",NA
+"332","payroll","aao","hc",60,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"333","payroll","aao","hc",144,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"334","payroll","aao","hc",3,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"335","payroll","aao","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"336","payroll","aao","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"337","payroll","aao","hc",4,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"338","payroll","aao","hc",11,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"339","payroll","aao","fte",57,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"340","payroll","aao","fte",131.7,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"341","payroll","aao","fte",3,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"342","payroll","aao","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"343","payroll","aao","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"344","payroll","aao","fte",2.6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"345","payroll","aao","fte",10.74,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"346","payroll","eo","hc",327,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"347","payroll","eo","hc",97,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"348","payroll","eo","hc",11,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"349","payroll","eo","hc",251,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"350","payroll","eo","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"351","payroll","eo","hc",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"352","payroll","eo","hc",29,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"353","payroll","eo","fte",320,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"354","payroll","eo","fte",90.4,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"355","payroll","eo","fte",11,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"356","payroll","eo","fte",246.56,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"357","payroll","eo","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"358","payroll","eo","fte",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"359","payroll","eo","fte",28.77,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"360","payroll","sheo","hc",1458,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"361","payroll","sheo","hc",146,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"362","payroll","sheo","hc",24,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"363","payroll","sheo","hc",827,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"364","payroll","sheo","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"365","payroll","sheo","hc",17,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"366","payroll","sheo","hc",8,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"367","payroll","sheo","fte",1428,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"368","payroll","sheo","fte",137.8,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"369","payroll","sheo","fte",24,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"370","payroll","sheo","fte",810.76,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"371","payroll","sheo","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"372","payroll","sheo","fte",15.1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"373","payroll","sheo","fte",8,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"374","payroll","g67","hc",1419,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"375","payroll","g67","hc",427,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"376","payroll","g67","hc",4,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"377","payroll","g67","hc",175,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"378","payroll","g67","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"379","payroll","g67","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"380","payroll","g67","hc",6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"381","payroll","g67","fte",1382,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"382","payroll","g67","fte",382.9,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"383","payroll","g67","fte",4,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"384","payroll","g67","fte",173.41,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"385","payroll","g67","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"386","payroll","g67","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"387","payroll","g67","fte",6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"388","payroll","scs","hc",178,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"389","payroll","scs","hc",6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"390","payroll","scs","hc",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"391","payroll","scs","hc",32,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"392","payroll","scs","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"393","payroll","scs","hc",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"394","payroll","scs","hc",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"395","payroll","scs","fte",171,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"396","payroll","scs","fte",5.8,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"397","payroll","scs","fte",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"398","payroll","scs","fte",31.6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"399","payroll","scs","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"400","payroll","scs","fte",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"401","payroll","scs","fte",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"402","payroll","other","hc",2,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"403","payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"404","payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"405","payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"406","payroll","other","hc",112,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"407","payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"408","payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"409","payroll","other","fte",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"410","payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"411","payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"412","payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"413","payroll","other","fte",110.6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"414","payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"415","payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"416","payroll","total","hc",3444,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"417","payroll","total","hc",820,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"418","payroll","total","hc",43,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"419","payroll","total","hc",1285,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"420","payroll","total","hc",112,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"421","payroll","total","hc",23,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"422","payroll","total","hc",55,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"423","payroll","total","fte",3359,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"424","payroll","total","fte",748.6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"425","payroll","total","fte",43,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"426","payroll","total","fte",1262.3,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"427","payroll","total","fte",110.6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"428","payroll","total","fte",19.7,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"429","payroll","total","fte",54.5,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"430","non payroll","admin","hc",2,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"431","non payroll","admin","hc",13,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"432","non payroll","admin","hc",6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"433","non payroll","admin","hc",57,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"434","non payroll","admin","hc",17,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"435","non payroll","admin","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"436","non payroll","admin","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"437","non payroll","admin","fte",2,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"438","non payroll","admin","fte",13,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"439","non payroll","admin","fte",6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"440","non payroll","admin","fte",57,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"441","non payroll","admin","fte",17,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"442","non payroll","admin","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"443","non payroll","admin","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"444","non payroll","managers","hc",68,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"445","non payroll","managers","hc",75,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"446","non payroll","managers","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"447","non payroll","managers","hc",4,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"448","non payroll","managers","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"449","non payroll","managers","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"450","non payroll","managers","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"451","non payroll","managers","fte",67,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"452","non payroll","managers","fte",19.3,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"453","non payroll","managers","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"454","non payroll","managers","fte",4,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"455","non payroll","managers","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"456","non payroll","managers","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"457","non payroll","managers","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"458","non payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"459","non payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"460","non payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"461","non payroll","other","hc",48,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"462","non payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"463","non payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"464","non payroll","other","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"465","non payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"466","non payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"467","non payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"468","non payroll","other","fte",47.35,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"469","non payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"470","non payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"471","non payroll","other","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"472","non payroll","total","hc",70,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"473","non payroll","total","hc",88,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"474","non payroll","total","hc",6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"475","non payroll","total","hc",109,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"476","non payroll","total","hc",17,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"477","non payroll","total","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"478","non payroll","total","hc",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"479","non payroll","total","fte",69,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"480","non payroll","total","fte",32.3,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"481","non payroll","total","fte",6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"482","non payroll","total","fte",108.4,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"483","non payroll","total","fte",17,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"484","non payroll","total","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"485","non payroll","total","fte",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"486","non payroll","consultants","contracts",31,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"487","non payroll","consultants","contracts",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"488","non payroll","consultants","contracts",1,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"489","non payroll","consultants","contracts",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"490","non payroll","consultants","contracts",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"491","non payroll","consultants","contracts",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"492","non payroll","consultants","contracts",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"493","all employees","total","hc",3545,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"494","all employees","total","hc",908,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"495","all employees","total","hc",50,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"496","all employees","total","hc",1394,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"497","all employees","total","hc",129,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"498","all employees","total","hc",23,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"499","all employees","total","hc",55,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"500","all employees","total","fte",3459,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"501","all employees","total","fte",780.9,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"502","all employees","total","fte",50,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"503","all employees","total","fte",1370.7,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"504","all employees","total","fte",127.6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"505","all employees","total","fte",19.7,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"506","all employees","total","fte",54.5,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"507","payroll costs","salary","costs",12417855.31,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"508","payroll costs","salary","costs",2682989.02,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"509","payroll costs","salary","costs",160116.33,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"510","payroll costs","salary","costs",5706828.04,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"511","payroll costs","salary","costs",550115,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"512","payroll costs","salary","costs",82883.57,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"513","payroll costs","salary","costs",181058.3,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"514","payroll costs","allowances","costs",300720.37,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"515","payroll costs","allowances","costs",44009.67,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"516","payroll costs","allowances","costs",1487,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"517","payroll costs","allowances","costs",294150,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"518","payroll costs","allowances","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"519","payroll costs","allowances","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"520","payroll costs","allowances","costs",866.47,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"521","payroll costs","ncprp","costs",19740,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"522","payroll costs","ncprp","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"523","payroll costs","ncprp","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"524","payroll costs","ncprp","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"525","payroll costs","ncprp","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"526","payroll costs","ncprp","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"527","payroll costs","ncprp","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"528","payroll costs","overtime","costs",49518.86,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"529","payroll costs","overtime","costs",7225.29,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"530","payroll costs","overtime","costs",14363.63,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"531","payroll costs","overtime","costs",3580.74,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"532","payroll costs","overtime","costs",18440,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"533","payroll costs","overtime","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"534","payroll costs","overtime","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"535","payroll costs","pension","costs",3455715.93,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"536","payroll costs","pension","costs",746738.58,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"537","payroll costs","pension","costs",39898.64,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"538","payroll costs","pension","costs",1580695.87,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"539","payroll costs","pension","costs",111954.37,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"540","payroll costs","pension","costs",9042.5,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"541","payroll costs","pension","costs",28535.84,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"542","payroll costs","ni","costs",1525037.61,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"543","payroll costs","ni","costs",317856.13,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"544","payroll costs","ni","costs",20723.98,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"545","payroll costs","ni","costs",733403.69,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"546","payroll costs","ni","costs",54215.23,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"547","payroll costs","ni","costs",9820.06,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"548","payroll costs","ni","costs",21198.92,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"549","payroll costs","total","costs",17768588.08,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"550","payroll costs","total","costs",3798818.69,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"551","payroll costs","total","costs",236589.58,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"552","payroll costs","total","costs",8318658.34,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"553","payroll costs","total","costs",734724.6,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"554","payroll costs","total","costs",101746.13,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"555","payroll costs","total","costs",231659.53,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"556","non payroll costs","contingent","costs",765430.75,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"557","non payroll costs","contingent","costs",171628.75,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"558","non payroll costs","contingent","costs",18817.94,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"559","non payroll costs","contingent","costs",1369156.91,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"560","non payroll costs","contingent","costs",124834.71,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"561","non payroll costs","contingent","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"562","non payroll costs","consultants","costs",595838,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"563","non payroll costs","consultants","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"564","non payroll costs","consultants","costs",362.4,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"565","non payroll costs","consultants","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"566","non payroll costs","consultants","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"567","non payroll costs","consultants","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"568","non payroll costs","total","costs",1361269.15,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"569","non payroll costs","total","costs",171628.75,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"570","non payroll costs","total","costs",19180.34,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"571","non payroll costs","total","costs",1369156.91,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"572","non payroll costs","total","costs",124834.71,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"573","non payroll costs","total","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"574","non payroll costs","total","costs",0,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"575","all costs","total","costs",19129857.23,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Ministerial Department","June",2022,"Department for Communities & Local Government",NA
+"576","all costs","total","costs",3970447.44,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Planning Inspectorate",NA
+"577","all costs","total","costs",255769.92,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Agency","June",2022,"Queen Elizabeth II Conference Centre",NA
+"578","all costs","total","costs",9687815.25,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Homes & Communities Agency",NA
+"579","all costs","total","costs",859559.31,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Housing Ombudsman Service",NA
+"580","all costs","total","costs",101746.13,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Leasehold Advisory Service",NA
+"581","all costs","total","costs",231659.53,"data/gov_files/1095426/DLUHC_MWMI__June_2022.csv","Executive Non-Departmental Public Body","June",2022,"Valuation Tribunal Service",NA
+"582","payroll","aao","hc",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"583","payroll","aao","hc",2,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"584","payroll","aao","fte",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"585","payroll","aao","fte",1.6,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"586","payroll","eo","hc",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"587","payroll","eo","hc",102,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"588","payroll","eo","fte",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"589","payroll","eo","fte",96.87,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"590","payroll","sheo","hc",5,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"591","payroll","sheo","hc",227,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"592","payroll","sheo","fte",5,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"593","payroll","sheo","fte",219.91,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"594","payroll","g67","hc",13,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"595","payroll","g67","hc",692,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"596","payroll","g67","fte",12.8,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"597","payroll","g67","fte",661.82,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"598","payroll","scs","hc",65,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"599","payroll","scs","hc",497,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"600","payroll","scs","fte",62.8,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"601","payroll","scs","fte",471.95,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"602","payroll","other","hc",7,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"603","payroll","other","hc",20,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"604","payroll","other","fte",7,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"605","payroll","other","fte",7.75,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"606","payroll","total","hc",90,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"607","payroll","total","hc",1540,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"608","payroll","total","fte",88,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"609","payroll","total","fte",1460,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"610","non payroll","total","hc",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"611","non payroll","total","hc",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"612","non payroll","total","fte",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"613","non payroll","total","fte",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"614","non payroll","consultants","contracts",853,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"615","all employees","total","hc",90,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"616","all employees","total","hc",1540,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"617","all employees","total","fte",88,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"618","all employees","total","fte",1460,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"619","payroll costs","salary","costs",663385.1,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"620","payroll costs","salary","costs",7959155.85,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"621","payroll costs","allowances","costs",3732.4,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"622","payroll costs","allowances","costs",376651,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"623","payroll costs","ncprp","costs",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"624","payroll costs","ncprp","costs",1508,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"625","payroll costs","overtime","costs",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"626","payroll costs","overtime","costs",24473.67,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"627","payroll costs","pension","costs",191649.96,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"628","payroll costs","pension","costs",1041137.42,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"629","payroll costs","ni","costs",89741.84,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"630","payroll costs","ni","costs",1072807.64,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"631","payroll costs","total","costs",948509.3,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"632","payroll costs","total","costs",10475733.58,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"633","non payroll costs","contingent","costs",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"634","non payroll costs","contingent","costs",187.81,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"635","non payroll costs","total","costs",0,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"636","non payroll costs","total","costs",187.81,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
+"637","all costs","total","costs",948509.3,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Executive Non-Departmental Public Body","June",2022,"Monitor",NA
+"638","all costs","total","costs",10475921.39,"data/gov_files/1096597/DHSC-workforce-management-information-June-2022.csv","Special Health Authority","June",2022,"NHS Trust Development Authority",NA
