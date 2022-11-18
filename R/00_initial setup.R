@@ -1,3 +1,4 @@
+devtools::install_github("co-analysis/mwmi.govuk.scraper")
 library(mwmi.govuk.scraper)
 
 # ################################################################################
