@@ -76,7 +76,7 @@ if (continue_progress) {
   # Check for and remove duplication by filetype
   dat4 <- dat3 %>%
     mutate(filetype=gsub(".*\\.([a-z]{3,4})$","\\1",tolower(file))) %>%
-    group_by(Department,Year,Month) %>%
+    group_by(Department,Body,Year,Month) %>%
     mutate(filetype_to_use=unique(filetype)[1]) %>% # if multiple filetypes are published, select only one
     filter(filetype==filetype_to_use) %>%
     select(-filetype,-filetype_to_use) %>%
