@@ -3,7 +3,7 @@
 # library(readxl)
 # library(tidyr)
 
-if (continue_progress) {
+if (continue_progress | refresh_calcs) {
   ################################################################################
   # Load formatted but unclean data
   # rawdat <- readRDS("data/output/formed_data.RDS")

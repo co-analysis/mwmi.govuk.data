@@ -7,7 +7,7 @@ library(readxl)
 # library(tidyxl)
 #
 
-if (continue_progress) {
+if (continue_progress | refresh_calcs) {
   ###############################################################################
   # Get list of rds files to check
   gov_rds <- list.files("data/gov_files_rds",

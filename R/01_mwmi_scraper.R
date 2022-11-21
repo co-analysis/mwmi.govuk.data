@@ -19,6 +19,8 @@ continue_progress <- TRUE
 
 # toggle for doing a complete new scrape - set to TRUE in github action for refresh
 if (!exists('refresh_mwmi')) refresh_mwmi = FALSE 
+# toggle for rerunning the formatting - set to TRUE in github action for refresh on calcs
+if (!exists('refresh_calcs')) refresh_calcs = FALSE 
 ################################################################################
 
 
