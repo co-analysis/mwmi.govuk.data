@@ -102,7 +102,7 @@ if (continue_progress) {
   dat5 <- dat4 %>%
     mutate(filecode=gsub(".*gov_files/([0-9]+)/.*","\\1",file) %>% as.integer) %>%
     arrange(-filecode) %>% # extract and reverse sort by file code to bring most recent upload to the top
-    group_by(Department,Year,Month) %>%
+    group_by(Department,Body,Year,Month) %>%
     mutate(file_to_use=unique(file)[1]) %>%
     filter(file==file_to_use) %>%
     select(-file_to_use,-duples,-filecode) %>%
