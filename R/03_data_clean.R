@@ -12,13 +12,20 @@ if (continue_progress) {
   # Extract blank data set that will be used as a placeholder where there is no return
   blankdat <- rawdat %>% filter(org_main=="blank")
   
-  dat1 <- rawdat %>%
+  dat0 <- rawdat %>%
     filter(org_main!="blank") %>% # filter out the blank template placeholder
     mutate(Month=factor(date_month,levels=month.name)) %>%
     mutate(Year=as.integer(date_year)) %>%
     select(-date_year,-date_month) %>%
     filter(!is.na(Month),!is.na(Year))
   
+  ################################################################################
+  # Manual data fixes that will need a more permanent solution
+  # miscoding of dept - maybe look at using the most recent or most prevalent?
+  dat1 <- dat0 %>%
+    mutate(org_main=ifelse(org_body=="Defence Electronics and Components Agency","Ministry of Defence",org_main))
+    
+
   ################################################################################
   # Drop empty returns
   todrop <- dat1 %>%
@@ -37,7 +44,7 @@ if (continue_progress) {
   # list.files("data/metadata","^dep_orgs")
   # todo: list all files and select most recent
   # Import standard names and meta data
-  main_deps <- read_xlsx("data/metadata/main_deps 2021 09 01.xlsx")
+  main_deps <- read_xlsx("data/metadata/main_deps 2022 11 21.xlsx")
   
   # Clean up dept/body names
   body_cleaner <- function(x) {
