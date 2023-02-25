@@ -1,0 +1,63 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour:
+Headcount","Non-payroll staff;
+Total Contingent labour:
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2023,January,Department for Work and Pensions,Ministerial Department,Department for Work and Pensions,26463,22653.18,42891,38364.16,12041,11372.68,3790,3648.81,276,267.66,0,0,"85,461","76,306",0,0,806,806,0,0,806,806,0,"86,267","77,112","£189,570,160.48","£4,057,183.28","£1,353,263.07","£7,340,112.56","£51,519,329.14","£18,325,745.30","£272,165,793.83","£7,323,009.14","£178,017.33","£7,501,026.47","£279,666,820.30"
+2023,January,Health and Safety Executive,Crown Non Departmental Public Body,Department for Work and Pensions,284,255.5,497,472.26,1439,1368.6,526,504.49,33,32.09,0,0,"2,779","2,633",36,35.68,63,62.4,0,0,99,98,0,"2,878","2,731","£10,311,017.70","£161,165.19",£0.00,"£10,603.67","£2,576,396.14","£1,088,840.72","£14,148,023.42","£772,282.56",£0.00,"£772,282.56","£14,920,305.98"
+2023,January,The Pensions Regulator,Executive Non-Departmental Public Body,Department for Work and Pensions,0,0,0,0,0,0,0,0,0,0,940,913,940,913,66,63.99,0,0,5,5.27,71,69,0,"1,011",982,"£4,017,279.83",£0.00,"£123,156.74","£10,141.95","£1,065,844.70","£463,170.00","£5,679,593.22",£0.00,"£958,400.77","£958,400.77","£6,637,993.99"
+2023,January,Money & Pensions Service,Executive Non-Departmental Public Body,Department for Work and Pensions,0,0,0,0,0,0,0,0,0,0,513,491.6,513,492,0,0,18,17.8,0,0,18,18,0,531,509,"£2,343,683.86","£26,180.63",£0.00,£0.00,"£238,747.09","£267,041.29","£2,875,652.87","£200,147.26",£0.00,"£200,147.26","£3,075,800.13"
