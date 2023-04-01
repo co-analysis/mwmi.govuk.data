@@ -35,3 +35,39 @@
 "34","non payroll costs","consultants","costs",305902.5,"data/gov_files/1125792/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
 "35","non payroll costs","total","costs",367187,"data/gov_files/1125792/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
 "36","all costs","total","costs",15280870.02,"data/gov_files/1125792/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"37","payroll","aao","hc",966,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"38","payroll","aao","fte",895.56,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"39","payroll","eo","hc",951,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"40","payroll","eo","fte",871.88,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"41","payroll","sheo","hc",1597,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"42","payroll","sheo","fte",1511.59,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"43","payroll","g67","hc",491,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"44","payroll","g67","fte",470.04,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"45","payroll","scs","hc",21,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"46","payroll","scs","fte",20.62,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"47","payroll","other","hc",0,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"48","payroll","other","fte",0,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"49","payroll","total","hc",4026,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"50","payroll","total","fte",3770,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"51","non payroll","admin","hc",42,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"52","non payroll","admin","fte",42,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"53","non payroll","managers","hc",3,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"54","non payroll","managers","fte",3,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"55","non payroll","other","hc",0,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"56","non payroll","other","fte",0,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"57","non payroll","total","hc",45,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"58","non payroll","total","fte",45,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"59","non payroll","consultants","contracts",0,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"60","all employees","total","hc",4071,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"61","all employees","total","fte",3815,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"62","payroll costs","salary","costs",11168506.93,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"63","payroll costs","allowances","costs",12573.36,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"64","payroll costs","ncprp","costs",15457.77,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"65","payroll costs","overtime","costs",58472.18,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"66","payroll costs","pension","costs",2647702.9,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"67","payroll costs","ni","costs",1010969.88,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"68","payroll costs","total","costs",14913683.01,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"69","non payroll costs","contingent","costs",61284.5,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"70","non payroll costs","consultants","costs",305902.5,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"71","non payroll costs","total","costs",367187,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
+"72","all costs","total","costs",15280870.02,"data/gov_files/1144906/HMRC_headcount_and_payroll_data_for_November_2022.csv","Executive Agency","November",2022,"Valuation Office Agency",NA
