@@ -1,16 +1,12 @@
-library(mwmi.govuk.scraper)
-library(readxl)
-# library(tidyverse)
-# library(magrittr)
-# library(readxl)
-# library(unpivotr)
-# library(tidyxl)
-#
+# Source functions from eventual package
+source("pack/all_packages.R",local=TRUE)
+list.files("pack",pattern="\\.[rR]$",full.names=TRUE) %>%
+  map(~source(.x))
 
 if (continue_progress) {
   ###############################################################################
   # Get list of rds files to check
-  gov_rds <- list.files("data/gov_files_rds",
+  gov_rds <- list.files("data/gov_files",
                         pattern=".rds$",
                         include.dirs=FALSE,
                         full.names=TRUE,
@@ -36,7 +32,7 @@ if (continue_progress) {
                             select(address,row,col,template_chr) %>%
                             mutate(template=gsub(".*?\\/([^\\/]+)\\.rds","\\1",.x))) %>%
     bind_rows
-  # TODO: currently being set and read from environment - better way?
+  # TODO: currently template_formats is being set and read from environment rather than passed as an argument
   
   # Check all files to see if they match against the prescribed template
   match_format_results <- map(gov_rds,find_matching_sheets)
@@ -86,5 +82,8 @@ if (continue_progress) {
   formed_data <- map(labelled_data,labelled_data_format)
   
   dat <- formed_data %>% bind_rows
-  saveRDS(dat,"data/output/formed_data.RDS")
+  
+  dat_name <- paste0("data/output/formed_data_",format(Sys.time(),"%Y_%m_%d_%H_%M_%S"),".RDS")
+  
+  saveRDS(dat,dat_name)
 }

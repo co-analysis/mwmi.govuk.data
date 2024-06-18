@@ -1,4 +1,7 @@
-# library(mwmi.govuk.scraper)
+# Source functions from eventual package
+source("pack/all_packages.R",local=TRUE)
+list.files("pack",pattern="\\.[rR]$",full.names=TRUE) %>%
+  map(~source(.x))
 
 # ################################################################################
 # Converts clean versions of the data templates into .rds
