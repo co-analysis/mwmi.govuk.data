@@ -1,3 +1,9 @@
+# Don't track local data
+data/gov_errors/
+data/gov_files/
+data/gov_files_rds/
+data/gov_meta/
+
 # History files
 .Rhistory
 .Rapp.history
