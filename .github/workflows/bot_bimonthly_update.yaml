@@ -18,9 +18,20 @@ jobs:
       
       - name: Install packages
         run: |
+          install.packages("dplyr")
+          install.packages("purrr")
+          install.packages("httr")
+          install.packages("jsonlite")
           install.packages("lubridate")
+          install.packages("magrittr")
           install.packages("ratelimitr")
+          install.packages("readODS")
+          install.packages("readr")
+          install.packages("readxl")
           install.packages("rvest")
+          install.packages("tibble")
+          install.packages("tidyr")
+          install.packages("unpivotr")
         shell: Rscript {0}
           
       - name: Scrape files
