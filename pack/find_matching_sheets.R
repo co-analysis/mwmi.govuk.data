@@ -1,4 +1,12 @@
-text_sanitiser <- function(x) gsub("(\r)|(\n)|(\t)","",x)
+text_sanitiser <- function(x) {
+  x %>%
+    gsub("(\r)|(\n)|(\t)"," ",.) %>%
+    iconv(to="latin1") %>%
+    tolower() %>%
+    gsub("[^a-z]"," ",.) %>%
+    gsub(" +"," ",.) %>%
+    {.}
+}
 
 matching_to_templates <- function(raw_sheet_data) {
   does_data_match_a_template <- list(match=FALSE,template=NULL)
@@ -7,6 +15,7 @@ matching_to_templates <- function(raw_sheet_data) {
       mutate(sheet_chr=text_sanitiser(chr)) %>%
       select(address,sheet_chr) %>%
       right_join(template_formats,by="address") %>%
+      mutate(template_chr=text_sanitiser(template_chr)) %>%
       group_by(template) %>%
       summarise(match=all(!is.na(sheet_chr) & sheet_chr==template_chr))
     

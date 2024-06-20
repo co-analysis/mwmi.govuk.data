@@ -102,7 +102,7 @@ if (continue_progress) {
   # delete old files
   file.remove(list.files("data/gov_files",full.names=TRUE))
   
-  gov_dl_results <- gov_downloads(file_list=file_list$data_link, file_hash=file_hash, dl_stem="data/gov_files/")
+  gov_dl_results <- gov_downloads(file_list=file_links, file_hash=file_hash, dl_stem="data/gov_files/")
   
   # saveRDS(gov_dl_results,paste0("data/gov_meta/gov_dl_results ",start_time,".rds"))
   
