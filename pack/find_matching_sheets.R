@@ -5,6 +5,7 @@ text_sanitiser <- function(x) {
     tolower() %>%
     gsub("[^a-z]"," ",.) %>%
     gsub(" +"," ",.) %>%
+    gsub(" $","",.) %>%
     {.}
 }
 
