@@ -1,8 +1,6 @@
 # Don't track local data
-data/gov_errors/
-data/gov_files/
-data/gov_files_rds/
-data/gov_meta/
+#data/gov_errors/.gitignore
+#data/gov_files/.gitignore
 
 # History files
 .Rhistory
