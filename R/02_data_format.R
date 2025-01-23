@@ -58,7 +58,7 @@ if (continue_progress) {
     left_join(template_meta)
 
   # Extract matching tabs
-  matching_data <- map2(rds_data,match_format_results[which_matching], ~ if (.y$any_sheets==TRUE) .x[.y$which_sheets] else NULL) %>%
+  matching_data <- map2(rds_data,match_format_results[which_matching], ~ if (.y$any_sheets==TRUE) {.x[.y$which_sheets]} else {NULL}) %>%
     unlist(recursive=FALSE,use.names=FALSE)
   
   # Crop off header rows
