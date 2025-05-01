@@ -1,0 +1,73 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other unknown unspecified;
+Headcount","Payroll staff;
+Other unknown unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour:
+Headcount","Non-payroll staff;
+Total Contingent labour:
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2023,August,"Department for Environment, Food and Rural Affairs",Ministerial Department,"Department for Environment, Food and Rural Affairs",131,119.86,589,566.58,3175,3070.5,2318,2246.53,189,183.63,19,19,"6,421","6,206",79,79,545,540.9,0,0,624,620,25,"7,045","6,826","£38,075,769.64","£336,489.20","£113,851.55","£135,478.36","£6,149,394.63","£3,867,049.52","£48,678,032.90","£10,072,046.84","£2,517,222.23","£12,589,269.07","£61,267,301.97"
+2023,August,Animal and Plant Health Agency,Executive Agency,"Department for Environment, Food and Rural Affairs",990,923.78,801,765.22,1007,963.51,247,238.74,7,7,3,3,"3,055","2,901",92,92,46,46,0,0,138,138,5,"3,193","3,039","£11,629,481.30","£286,475.13","£10,650.00","£253,991.34","£2,054,546.00","£1,347,446.15","£15,582,589.92","£980,561.10","£382,950.00","£1,363,511.10","£16,946,101.02"
+2023,August,"Centre for Environment, Fisheries and Aquaculture Science",Executive Agency,"Department for Environment, Food and Rural Affairs",21,20.22,133,122.99,350,331.03,136,131.6,4,4,0,0,644,610,0,0,0,0,0,0,0,0,0,644,610,"£1,954,930.36","£15,320.43",£0.00,"£50,636.10","£532,528.40","£332,212.88","£2,885,628.17",£0.00,£0.00,£0.00,"£2,885,628.17"
+2023,August,Rural Payments Agency,Executive Agency,"Department for Environment, Food and Rural Affairs",1404,1276.3,694,647.83,535,500.98,131,125.63,10,9.19,0,0,"2,774","2,560",13,12.62,7,7,0,0,20,20,2,"2,794","2,580","£5,837,747.62","£3,619.06","£3,764,498.91","£89,800.91","£1,550,240.14","£1,038,533.78","£12,284,440.42","£157,470.85","£139,903.00","£297,373.85","£12,581,814.27"
+2023,August,Veterinary Medicines Directorate,Executive Agency,"Department for Environment, Food and Rural Affairs",26,25.39,24,23.09,59,58.07,64,63.16,2,2,0,0,175,172,16,16,0,0,0,0,16,16,25,191,188,"£860,422.00","£24,489.00",£0.00,"£2,472.00","£168,877.00","£114,978.00","£1,171,238.00","£97,307.41","£128,841.13","£226,148.54","£1,397,386.54"
+2023,August,Agriculture and Horticulture Development Board,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",0,0,0,0,0,0,0,0,0,0,344,328.77,344,329,0,0,0,0,0,0,0,0,0,344,329,"£1,191,874.82","£59,599.19",£0.00,£0.00,"£106,449.77","£139,304.86","£1,497,228.64",£0.00,£0.00,£0.00,"£1,497,228.64"
+2023,August,Consumer Council for Water,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",2,1.86,29,27.76,34,33.82,16,15.67,6,6,0,0,87,85,0,0,1,1,1,1,2,2,0,89,87,"£269,673.99","£1,814.15","£99,487.62",£318.33,"£73,640.31","£42,271.18","£487,205.58","£25,978.56",£0.00,"£25,978.56","£513,184.14"
+2023,August,Environment Agency,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",2045,1950.34,2842,2713.54,4173,3951.51,2899,2757.5,105,104.42,809,790.77,"12,873","12,268",197,188.38,583,507.22,0,0,780,696,8,"13,653","12,964","£53,851,136.33","£318,086.19","£26,400.00","£1,070,096.86","£7,923,694.33","£6,260,074.41","£69,449,488.12",,"£114,737.00","£114,737.00","£69,564,225.12"
+2023,August,Joint Nature Conservation Committee,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",7,7,31,30.03,216,206.61,42,40.23,3,3,0,0,299,287,1,1,6,6,0,0,7,7,2,306,294,"£811,862.72","£21,898.79",£0.00,"£9,422.20","£223,995.70","£85,017.09","£1,152,196.50","£51,647.88","£34,599.53","£86,247.41","£1,238,443.91"
+2023,August,Marine Management Organisation,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",27,23.71,148,142.56,236,229.81,83,80.68,7,6.19,0,0,501,483,0,0,0,0,0,0,0,0,0,501,483,"£2,134,919.57","£18,257.65",£0.00,"£24,212.70","£383,617.68","£242,843.00","£2,803,850.60",£0.00,£0.00,£0.00,"£2,803,850.60"
+2023,August,National Forest Company,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",2,2,5,4.1,26,23.55,8,7.67,1,1,0,0,42,38,0,0,0,0,0,0,0,0,0,42,38,"£126,765.74",£0.00,£0.00,£296.93,"£33,019.91","£13,049.94","£173,132.52",£0.00,£0.00,£0.00,"£173,132.52"
+2023,August,Natural England,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",124,112.53,504,476.1,2242,2085.75,335,317.54,29,27.25,10,9.65,"3,244","3,029",22,22,0,0,0,0,22,22,4,"3,266","3,051","£12,364,778.94","£66,111.19","£5,350.00","£29,520.79","£2,216,427.02","£1,370,600.94","£16,052,788.88","£62,000.00","£52,129.00","£114,129.00","£16,166,917.88"
+2023,August,"Royal Botanic Gardens, Kew",Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",330,234.03,263,215.48,313,296.49,88,85.91,13,13,95,93.03,"1,102",938,0,0,21,21,0,0,21,21,0,"1,123",959,"£2,844,841.13","£20,414.98",£0.00,"£40,107.11","£501,181.55","£292,073.45","£3,698,618.22","£199,071.00",£0.00,"£199,071.00","£3,897,689.22"
+2023,August,Sea Fish Industry Authority,Executive Non-Departmental Public Body,"Department for Environment, Food and Rural Affairs",33,31.76,32,31.6,20,19.51,0,0,5,5,0,0,90,88,0,0,0,0,0,0,0,0,0,90,88,"£320,666.27","£6,423.98",£0.00,£0.00,"£44,079.87","£32,126.63","£403,296.75",£0.00,£0.00,£0.00,"£403,296.75"

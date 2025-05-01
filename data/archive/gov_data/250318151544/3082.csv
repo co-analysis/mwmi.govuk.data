@@ -1,0 +1,67 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department: ","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Agency Staff;
+Headcount","Non-payroll staff;
+Agency Staff;
+Full-time equivalent","Non-payroll staff;
+Interim managers;
+Headcount","Non-payroll staff;
+Interim managers;
+Full-time equivalent","Non-payroll staff;
+Specialist Contractors;
+Headcount","Non-payroll staff;
+Specialist Contractors;
+Full-time equivalent","Non-payroll staff;
+Consultants/consultancy;
+Headcount","Non-payroll staff;
+Consultants/consultancy;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour: agency staff, interim managers and specialist contractors","Non-Payroll staff costs;
+Consultants/consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2021,September,Cabinet Office,Ministerial Department,Cabinet Office,503,468.61891,868,839.40236,2230,2189.13999,3256,3195.57511,501,495.31748,2244,2229.38427,"9,602","9,417",52,48.77,118,111,275,270.45,0,0,445,430.22,"10,047","9,848","£37,161,594.56","£1,334,285.00","£107,522.35","£230,284.82","£9,347,398.88","£4,384,949.96","£52,566,035.57","£2,952,410.51",£0.00,"£2,952,410.51","£55,518,446.08"
+2021,September,Civil Service Commission,Executive Non-Departmental Public Body,Cabinet Office,1,0.6,8,8,8,7.6,6,5.925,1,0.5,0,0,24,23,0,0,0,0,0,0,0,0,0,0,24,23,"£73,894.88","£1,183.37",£500.00,"£1,323.75","£20,337.43","£8,171.53","£105,410.96",£0.00,£0.00,£0.00,"£105,410.96"
+2021,September,Crown Commercial Services,Executive Agency,Cabinet Office,29,28,112,108.54,447,423.57,207,119.83,24,24,0,0,819,704,0,0,55,55,0,0,0,0,55,55,874,759,"£2,534,496.36","£81,330.12","£1,500.00",£186.26,"£681,851.96","£277,906.76","£3,577,271.46","£559,255.29",£0.00,"£559,255.29","£4,136,526.75"
+2021,September,Big Lottery Fund,Executive Non-Departmental Public Body,Cabinet Office,17,16,442,410,255,243,74,72,20,19,0,0,808,760,23,23,0,0,8,6,0,0,31,29,839,789,"£2,117,923.58","£46,716.59",£0.00,"£1,953.98","£543,916.75","£216,091.25","£2,926,602.15","£118,392.10",£0.00,"£118,392.10","£3,044,994.25"
+2021,September,Government Property Agency,Executive Agency,Cabinet Office,3,2.89,20,19.46,80,78.56,122,120.4,18,18,0,0,209,205,39,38.6,0,0,0,0,0,0,39,38.6,248,244,"£974,368.00","£35,626.00",£0.00,£0.00,"£268,397.00","£115,497.00","£1,393,888.00","£201,129.27",£0.00,"£201,129.27","£1,595,017.27"
+2021,September,Equality & Human Rights Commission,Executive Non-Departmental Public Body,Cabinet Office,0,0,15,12.7,104,101,67,62.9,10,9.9,0,0,196,187,1,1,0,0,0,0,0,0,1,1,197,188,"£684,660.00","£10,565.00",£0.00,£0.00,"£185,979.00","£71,074.00","£952,278.00","£1,326.00",£0.00,"£1,326.00","£953,604.00"

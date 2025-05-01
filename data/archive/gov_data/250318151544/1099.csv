@@ -1,0 +1,107 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department: ","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Agency Staff;
+Headcount","Non-payroll staff;
+Agency Staff;
+Full-time equivalent","Non-payroll staff;
+Interim managers;
+Headcount","Non-payroll staff;
+Interim managers;
+Full-time equivalent","Non-payroll staff;
+Specialist Contractors;
+Headcount","Non-payroll staff;
+Specialist Contractors;
+Full-time equivalent","Non-payroll staff;
+Consultants/consultancy;
+Headcount","Non-payroll staff;
+Consultants/consultancy;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour: agency staff, interim managers and specialist contractors","Non-Payroll staff costs;
+Consultants/consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs,
+2022,February,"Department for Business, Energy and Industrial Strategy",Ministerial Department,"Department for Business, Energy & Industrial Strategy (BEIS)",70,68.17,432,421.97,2554,2521.61,2639,2570.77,328,313.67,0,0,6023,5896.2,10,10,0,0,223,190.55,57,49.46,290,250.0,6313,6146.2,"£22,889,241.11","£1,020,911.91","£129,200.00","£76,026.17","£6,426,467.93","£2,688,844.03","£33,230,691.15","£1,089,996.00","£4,791,929.00","£5,881,925.00","£39,112,616.15",
+2022,February,Advisory Conciliation & Arbitration Service (ACAS),Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",54,47.47,319,300.04,596,554.53,58,53.56,5,5,0,0,1032,960.6,0,0,0,0,0,0,0,0,0,0.0,1032,960.6,"£2,606,888.41","£22,645.79",£540.00,"£3,216.81","£704,629.71","£260,060.97","£3,597,981.69",0,0,£0.00,"£3,597,981.69",
+2022,February,Civil Nuclear Police Authority (CNPA),Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",1419,1390.90,167,162.85,32,30.40,0,0.00,0,0.00,0,0,1618,1584.2,0,0,0,0,0,0,0,0,0,0.0,1618,1584.2,"£4,975,150.21","£139,728.23","£23,615.04","£1,058,679.71","£930,081.35","£711,799.93","£7,839,054.47",0,0,£0.00,"£7,839,054.47",
+2022,February,Coal Authority,Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",11,9.80,32,30.5,191,186.2,77,77,3,3,0,0,314,306.5,10,10,0,0,0,0,0,0,10,10.0,324,316.5,"£1,020,756.36","£15,592.06","£1,933.91",£208.46,"£274,975.64","£111,189.65","£1,424,656.08",0,62283.2,"£62,283.20","£1,486,939.28",
+2022,February,Committee on Climate Change (CCC),Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",0,0.00,1,0.80,14,13.36,23,20.68,4,3.90,0,0,42,38.7,0,0,0,0,0,0,0,0,0,0.0,42,38.7,"£182,620.00",£0.00,£0.00,£0.00,"£41,886.00","£17,568.00","£242,074.00",0,0,£0.00,"£242,074.00",
+2022,February,Companies House,Executive agency,"Department for Business, Energy & Industrial Strategy (BEIS)",456,400.98,298,282.89,327,314.62,89,87.68,7,7.00,0,0,1177,1093.2,23,23,0,0,29,29,0,0,52,52.0,1229,1145.2,"£2,897,435.77","£29,837.74",£745.70,"£53,334.42","£786,780.93","£291,926.52","£4,060,061.08","£77,726.74","£353,967.46","£431,694.20","£4,491,755.28",
+2022,February,Competition Service,Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",5,5.00,1,1.00,4,3.72,8,8.00,0,0.00,1,1,19,18.7,0,0,0,0,0,0,2,2,2,2.0,21,20.7,"£78,915.09",£216.66,£0.00,£0.00,"£22,044.59","£8,977.45","£110,153.79",£0.00,"£2,100.00","£2,100.00","£112,253.79",
+2022,February,HM Land Registry,Non-ministerial department,"Department for Business, Energy & Industrial Strategy (BEIS)",1769,1663.53,2385,2124.73,2203,1988.78,305,289.42,27,27.00,0,0,6689,6093.5,0,0,0,0,0,0,0,0,0,0.0,6689,6093.5,"£15,857,951.21","£224,367.35",£850.00,"£1,583,407.16","£4,259,982.41","£13,640,959.83","£35,567,517.96","£198,056.73","£55,720.30","£253,777.03","£35,821,294.99",
+2022,February,Insolvency Service,Executive Agency,"Department for Business, Energy & Industrial Strategy (BEIS)",595,555.81,204,194.79,781,749.90,140,136.15,11,11.00,0,0,1731,1647.6,0,0,0,0,0,0,0,0,0,0.0,1731,1647.6,"£4,553,589.50","£17,243.70","£114,950.00","£13,747.89","£1,236,907.20","£488,276.27","£6,424,714.56","£764,985.43",£0.00,"£764,985.43","£7,189,699.99",
+2022,February,UK Intellectual Property Office,Executive Agency,"Department for Business, Energy & Industrial Strategy (BEIS)",244,222.41,489,459.98,580,556.36,376,355.06,23,22.70,0,0,1712,1616.5,39,39,0,0,137,137,0,0,176,176.0,1888,1792.5,"£4,985,826.00","£217,540.00","£56,344.00","£151,649.00","£1,414,474.00","£566,838.00","£7,392,671.00","£1,040,221.00",£0.00,"£1,040,221.00","£8,432,892.00",
+2022,February,Met Office,Executive agency,"Department for Business, Energy & Industrial Strategy (BEIS)",105,104.48,210,202.77,1256,1166.92,561,521.88,10,10.00,0,0,2142,2006.1,0,0,0,0,0,0,0,0,0,0.0,2142,2006.1,"£6,577,945.06","£635,643.32",£0.00,£0.00,"£922,641.92","£1,826,796.70","£9,963,027.00",0,0,£0.00,"£9,963,027.00",
+2022,February,Nuclear Decommissioning Authority (NDA),Executive non-departmental public body,"Department for Business, Energy & Industrial Strategy (BEIS)",0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,360,352.377957,360,352.4,0,0,0,0,0,0,0,0,0,0.0,360,352.4,"£2,122,453.03","£81,860.38",£0.00,£84.83,"£574,063.91","£265,773.04","£3,044,235.19","£156,026.49",£0.00,"£156,026.49","£3,200,261.68",
+2022,February,UKAEA,Executive non-departmental public body,,90,85.12,243,239.60,902,889.08,345,331.92,15,14.50,100,100,1695,1660.2,0,0,0,0,513,513,0,0,513,513.0,2208,2173.2,"£6,222,465.86","£14,964.38","£167,358.06","£79,455.06","£1,070,395.32","£743,250.52","£8,297,889.20","£3,588,345.20",£0.00,"£3,588,345.20","£11,886,234.40",
+2022,February,UK Space Agency,Executive agency,"Department for Business, Energy & Industrial Strategy (BEIS)",1,1.00,16,16.00,115,114.00,115,113.80,9,9.00,0,0,256,253.8,0,0,0,0,18,17.6,0,0,18,17.6,274,271.4,"£994,424.99","£27,189.89","£33,400.00",£0.00,"£279,238.18","£118,814.86","£1,453,067.92","£196,369.33","£49,532.54","£245,901.87","£1,698,969.79",
+2022,February,UKRI,Executive agency,"Department for Business, Energy & Industrial Strategy (BEIS)",637,590.76,1074,1023.65,4220,4080.86,1470,1412.52,245,233.60,303,291.71,7949,7633.1,0,0,0,0,0,0,0,0,0,0.0,7949,7633.1,"£24,835,393.51","£1,202,892.50","£144,800.00","£164,967.33","£20,020,918.57","£2,966,898.30","£49,335,870.20","£1,911,951.90","£1,612,383.61","£3,524,335.51","£52,860,205.71",
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

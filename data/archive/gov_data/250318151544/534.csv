@@ -1,0 +1,52 @@
+﻿Organisation name,"Organisation 
+type","Main, parent or 
+sponsoring department: ",Payroll staff AO/AA Headcount,Payroll staff AO/AA Full-time Equivalent,Payroll staff EO Headcount,Payroll staff EO Full-time Equivalent,Payroll staff SEO/HEO Headcount,Payroll staff SEO/HEO Full-time Equivalent,Payroll staff Grade 6/7 Headcount,Payroll staff Grade 6/7 Full-time Equivalent,Payroll staff SCS Headcount,Payroll staff SCS Full-time Equivalent,"Payroll staff Other, unknown or unspecified Headcount","Payroll staff Other, unknown or unspecified Full-time Equivalent",Payroll staff Total Employees Headcount,Payroll staff Total Employees Full-time Equivalent,Non-payroll Staff Agency staff (clerical/admin) Headcount,Non-payroll Staff Agency staff (clerical/admin) Full-time Equivalent,Non-payroll Staff Intermin Managers Headcount,Non-payroll Staff Interim Managers Full-time Equivalent,Non-payroll Staff Specialist Contractors Headcount,Non-payroll Staff Specialist Contractors Full-time Equivalent,Non-payroll Staff Consultants/Consultancy Headcount,Non-payroll Staff Consultants/Consultancy Full-time Equivalent,Non-payroll Staff Total Employees Headcount,Non-payroll Staff Total Employees Full-time Equivalent,Grand Total (workforce numbers) Headcount,Grand Total (workforce numbers) Full-time Equivalent,Payroll Staff Costs Salary,Payroll Staff Costs Allowances,Payroll Staff Costs Non-consolidated performance payments,Payroll Staff Costs Overtime,Payroll Staff Costs Employer pension contributions,Payroll Staff Costs Employer national insurance contributions,Payroll Staff Costs Total paybill for payroll staff,"Non-payroll Staff Total cost of contingent labour: agency (clerical and admin) staff, interim managers and specialist contractors",Non-payroll Staff Total cost of consultants/consultancy,Non-payroll Staff Total non-payroll (CCL) staff costs,Grand Total paybill/staffing (payroll and non-payroll) costs,Comments
+Department of Health (excl agencies),Ministerial Department,Department of Health,34,33.55,255,247.77,695,675.74,653,626.28,128,123.06,1,1,"1,766","1,707",36,35.98,,,,,13,12.61,49,48.59,"1,815","1,756","£6,012,690.87","£29,229.72","£61,583.34","£9,572.52","£1,646,576.66","£715,378.22","£8,475,031.33","£1,834,985.01",,"£1,834,985.01","£10,310,016.34",
+Care Quality Commission ,Executive Non-Departmental Public Body,Department of Health,298,275.25,390,377.35,1982,1907.14,486,472.61,164,141.02,22,14.4,"3,342","3,188",5,5,12,12,9,9,,,26,26,"3,368","3,214","£11,425,395.00","£81,250.00",£0.00,"£52,873.00","£1,390,719.00","£1,144,121.00","£14,094,358.00",,,£0.00,"£14,094,358.00",
+Health & Social Care Information Centre,Executive Non-Departmental Public Body,Department of Health,11,11,418,396.4,776,748.2,1306,1258.8,195,181.8,,,"2,706","2,596",204,179.2,57,41.8,37,26.7,,,298,247.7,"3,004","2,844","£10,514,273.69","£144,123.97",,"£5,006.35","£1,475,927.53","£1,222,988.21","£13,362,319.75","£1,796,130.00",,"£1,796,130.00","£15,158,449.75",
+Health Education England,Special Health Authority,Department of Health,93,89.42,669,625.56,661,627.78,565,536.54,940,332.93,0,0,"2,928","2,212",,,,,,,,,0,0,"2,928","2,212","£8,581,307.22","£102,480.78",,£922.58,"£1,021,852.31","£837,682.78","£10,544,245.67","£417,444.34",,"£417,444.34","£10,961,690.01",
+Health Research Authority,Executive Non-Departmental Public Body,Department of Health,2,1.09,87,82.35,78,75.17,34,30.2,7,6.6,,,208,195,9,5.95,5,4.13,,,,,14,10.08,222,205,"£612,879.41",,,£257.01,"£75,887.35","£60,156.12","£749,179.89","£86,949.47",,"£86,949.47","£836,129.36",
+Human Fertilisation & Embryology Authority,Executive Non-Departmental Public Body,Department of Health,0,0,16,15.2,38,35.4,9,8.5,4,3.5,0,0,67,63,1,1,0,0,5,5,0,0,6,6,73,69,"£229,195.68",,,£158.89,"£61,395.47","£25,731.21","£316,481.25","£58,878.00",,"£58,878.00","£375,359.25",The HFEA currently has 1 vacancy
+Human Tissue Authority,Executive Non-Departmental Public Body,Department of Health,2,2,5,5,28,27.37,10,10,3,3,,,48,47,,,,,,,,,0,0,48,47,"£192,829.39",£338.33,£0.00,£348.09,"£24,877.39","£21,829.03","£240,222.23",£0.00,,£0.00,"£240,222.23",
+Medicines & Healthcare products Regulatory Agency,Executive Agency,Department of Health,64,63.34,191,183.67,458,448.32,404,386.59,159,142.45,0,0,"1,276","1,224",52,52,0,0,0,0,0,0,52,52,"1,328","1,276","£4,860,211.13","£25,100.00","£50,746.00","£10,291.91","£1,322,902.12","£550,616.52","£6,819,867.68","£1,782,465.50",£0.00,"£1,782,465.50","£8,602,333.18",The numbers of Agency staff are approximate
+Monitor,Executive Non-Departmental Public Body,Department of Health,8,7.8,6,5.6,26,25.8,77,74,32,30.40555556,0,0,149,144,3,3,1,1,1,1,,,5,5,154,149,"£1,174,149.89",,,,"£256,465.87","£143,084.59","£1,573,700.35",,,£0.00,"£1,573,700.35",
+National Institute for Health and Care Excellence,Executive Non-Departmental Public Body,Department of Health,16,16,95,90.21,261,246.37,243,226.85,65,60.93,2,1.2,682,642,6,3.66,,,,,,,6,3.66,688,645,"£2,464,320.22","£16,900.39",,£68.76,"£341,397.85","£277,645.17","£3,100,332.39","£74,270.50",,"£74,270.50","£3,174,602.89",
+NHS Blood & Transplant,Special Health Authority,Department of Health,1956,1580.53,1127,1034.77,1575,1453.32,556,540.06,65,62.7,47,44.1,"5,326","4,715",32,32,3,3,8,8,0,0,43,43,"5,369","4,758","£13,194,761.59","£905,296.59",£0.00,"£295,481.52","£1,865,575.83","£1,472,213.46","£17,733,328.99","£135,135.66",,"£135,135.66","£17,868,464.65",
+NHS Business Services Authority,Special Health Authority,Department of Health,1891,1668.51,651,618.51,417,408.83,223,210.24,91,88.17,,,"3,273","2,994",87,87,,,,,27,27,114,114,"3,387","3,108","£6,338,511.38","£11,963.70","£114,432.73","£37,489.83","£828,150.79","£571,120.57","£7,901,669.00","£748,230.62",,"£748,230.62","£8,649,899.62",
+NHS England,Special Health Authority,Department of Health,446,402.7831,549,522.2467,1511,1447.5664,2735,2625.9086,766,718.7016,172,90.8587,"6,179","5,808",283,274.73331,89,47.5368,,,,,372,322.27011,"6,551","6,130","£26,283,244.09",,,,"£3,336,111.10","£3,008,635.27","£32,627,990.46","£1,679,427.89",,"£1,679,427.89","£34,307,418.35","•Decrease in WTE of on payroll workers by 44.4 in January; overall fixed term contracts decreased by 25.8 WTE compared to December 2019.
+• There are a total of 390 off payroll workers. Of these there are 372 OPWs are recorded on ESR. There are 18 OPWs where we are awaiting information from these workers to be added on to ESR.
+Decrease in pay expenditure appropriate with reduction of posts and banding in month for on payroll workers."
+NHS Litigation Authority,Special Health Authority,Department of Health,12,11,57.5,55.56,123,118.14,147.5,139.2599,8,8,0,0,348,332,14,13.6,0,0,0,0,0,0,14,13.6,362,346,"£1,249,676.08","£149,028.01",£0.00,£545.66,"£161,126.69","£156,561.74","£1,716,938.18","£86,445.10",,"£86,445.10","£1,803,383.28",
+NHS Trust Development Authority,Special Health Authority,Department of Health,14,12,162,154.19,275,265.24,616,589.97,501,481.53,32,30.5,"1,600","1,533",,,,,,,,,0,0,"1,600","1,533","£7,653,017.00","£376,152.00",£0.00,£824.00,"£998,034.00","£949,678.00","£9,977,705.00","£488,591.24",,"£488,591.24","£10,466,296.24",
+Public Health England,Executive Agency,Department of Health,760,668.37,765,717.5,2116,1981.28,1536,1443.74,399,351.7,4,4,"5,580","5,167",81,77.2,0,0,37,25.21,0,0,118,102.41,"5,698","5,269","£12,642,968.88","£6,022,679.17",£0.00,"£106,557.80","£4,423,265.14","£2,169,573.86","£25,365,044.85","£663,212.88",,"£663,212.88","£26,028,257.73","Specialist Contractors includes inward Secondees working >0.5wte.
+The costs for secondees is not included in the Non-payroll staff figures."
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

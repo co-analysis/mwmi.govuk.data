@@ -107,6 +107,8 @@ file_handler <- function(in_files,out_files) {
   )
   
   # Run the selected function on each file
-  pmap(list(in_files,out_files,handler_function),map2)
+  pmap(list(in_files,out_files,handler_function),map2) %>%
+    unlist(T,F) %>%
+    data.frame(dl_loc=in_files,conv_loc=out_files,conv_result=.)
 }
 

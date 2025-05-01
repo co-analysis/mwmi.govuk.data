@@ -1,0 +1,73 @@
+Year,Month,Organisation name,Organisation type,Main parent or sponsoring department:,"Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other unknown unspecified;
+Headcount","Payroll staff;
+Other unknown unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour:
+Headcount","Non-payroll staff;
+Total Contingent labour:
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2023,December,Department for Environment Food and Rural Affairs,Ministerial Department,Department for Environment Food and Rural Affairs,133,122.13,574,551.29,3371,3260.9,2451,2372.25,191,185.58,13,13,6733,6505,89,88.6,579,575.4,0,0,668,664,26,7401,7169,34913981.34,321259.02,976268.31,133193.76,8555731.25,3894476.53,48794910.21,5229147.46,2599870.51,7829017.97,56623928.18
+2023,December,Animal and Plant Health Agency,Executive Agency,Department for Environment Food and Rural Affairs,958,891.11,799,762.8,1045,1003.19,251,241.76,7,7,3,3,3063,2909,126,126,69,69,0,0,195,195,3,3258,3104,10031842.73,356273.61,436918,352352.47,2774609.05,1233352.5,15185348.36,1544316.75,530309.7,2074626.45,17259974.81
+2023,December,Centre for Environment Fisheries and Aquaculture Science,Executive Agency,Department for Environment Food and Rural Affairs,16,15.22,128,119.3,350,328.85,146,139.42,4,4,0,0,644,607,0,0,0,0,0,0,0,0,1,644,607,1925590.54,14613.97,0,106615.69,535939.21,254114.41,2836873.82,0,19629.6,19629.6,2856503.42
+2023,December,Rural Payments Agency,Executive Agency,Department for Environment Food and Rural Affairs,1419,1287.62,685,640.2,578,544.31,143,137.73,12,11.27,0,0,2837,2621,1,1,6,6,0,0,7,7,1,2844,2628,8386421.75,3750.66,370354.91,182093.3,2238200.65,556127.96,11736949.23,65742.11,78966.67,144708.78,11881658.01
+2023,December,Veterinary Medicines Directorate,Executive Agency,Department for Environment Food and Rural Affairs,22,21.4,23,22.1,63,61.73,62,61.6,2,2,0,0,172,169,18,18,0,0,0,0,18,18,15,190,187,837849.65,25927.87,0,13473,227985.88,108926.16,1214162.56,132689.5,,132689.5,1346852.06
+2023,December,Agriculture and Horticulture Development Board,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,0,0,0,0,0,0,0,0,0,0,355,338.41,355,338,0,0,0,0,0,0,0,0,0,355,338,1240576.91,58878.2,0,0,109773.75,143907.14,1553136,0,0,0,1553136
+2023,December,Consumer Council for Water,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,2,1.86,27,25.76,34,33.9,15,14.57,5,5,0,0,83,81,0,0,0,0,3,3,3,3,0,86,84,264681.22,1821.74,0,0,70565.77,28075.23,365143.96,,0,0,365143.96
+2023,December,Environment Agency,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,2015,1924.38,2987,2866.37,4264,4043.34,3015,2874.04,109,107.99,827,808.42,13217,12625,169,162.12,571,495.2,0,0,740,657,6,13957,13282,38098442.73,336534.29,0,1946867.25,5797254.76,4188277.8,50367376.83,,85250,85250,50452626.83
+2023,December,Joint Nature Conservation Committee,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,8,8,34,33.83,222,213.34,38,35.73,3,3,0,0,305,294,0,0,4,4,0,0,4,4,1,309,298,871924.48,28432.18,0,30483.17,237135,96141.87,1264116.7,60746.5,560,61306.5,1325423.2
+2023,December,Marine Management Organisation,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,19,16,133,129.5,218,212.12,78,76.18,6,5.19,0,0,454,439,0,0,0,0,0,0,0,0,1,454,439,1548760,24737,0,28647.97,456531.29,185603.87,2244280.13,0,13000,13000,2257280.13
+2023,December,National Forest Company,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,3,3,7,5.91,26,23.91,7,6.8,1,1,0,0,44,41,0,0,0,0,0,0,0,0,0,44,41,135652.48,0,0,2458.64,34575.45,14414.5,187101.07,0,0,0,187101.07
+2023,December,Natural England,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,122,107.48,447,422.52,2272,2115.37,357,338,29,27.25,10,9.65,3237,3020,19,18.6,0,0,0,0,19,19,5,3256,3039,11535487.6,68186.28,395308,47074.18,3211260.72,1313568.98,16570885.76,50000,97904,147904,16718789.76
+2023,December,Royal Botanic Gardens Kew,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,310,222.51,276,233.32,320,301.24,89,86.78,13,13,96,91.84,1104,949,0,0,21,21,0,0,21,21,0,1125,970,2951131.19,25130.63,0,33422.07,524527.39,309908.57,3844119.85,182940.15,0,182940.15,4027060
+2023,December,Sea Fish Industry Authority,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,28,26.56,34,33.6,22,21.11,0,0,5,5,0,0,89,86,0,0,0,0,0,0,0,0,0,89,86,321214.49,8103.72,0,0,43770.39,32456.18,405544.78,0,0,0,405544.78

@@ -1,0 +1,98 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2023,January,Department for Transport,Ministerial Department,Department for Transport,160,140.69,339,330.69,1543,1514.86,1549,1514.92,228,218.77,0,0,"3,819","3,720",11,11,13,12,0,0,24,23,0,"3,843","3,743","£15,762,009.10","£189,463.79","£474,142.69","£66,379.85","£4,338,768.17","£1,916,247.19","£22,747,010.79","£349,619.01","£6,836,030.57","£7,185,649.58","£29,932,660.37"
+2023,January,Driver and Vehicle Licensing Agency,Executive Agency,Department for Transport,4058,3455.66,919,867.62,1033,995.33,299,286.43,8,7.61,0,0,"6,317","5,613",0,0,2,2,0,0,2,2,0,"6,319","5,615","£12,438,594.00","£303,533.00","£417,716.00","£90,528.00","£3,359,113.00","£1,228,532.00","£17,838,016.00","£46,668.00","£17,058.00","£63,726.00","£17,901,742.00"
+2023,January,Driver and Vehicle Standards Agency,Executive Agency,Department for Transport,1180,1104.13,2623,2437.1,1001,978.41,131,130.34,9,8.75,0,0,"4,944","4,659",62,62,26,26,0,0,88,88,0,"5,032","4,747","£11,379,015.00","£724,367.00","£136,380.00","£453,764.00","£2,997,595.00","£1,299,027.00","£16,990,148.00","£474,826.00","£3,079.00","£477,905.00","£17,468,053.00"
+2023,January,Maritime and Coastguard Agency,Executive Agency,Department for Transport,237,222.22,238,230.81,552,541.8,161,157.03,7,6.65,0,0,"1,195","1,159",13,13,0,0,0,0,13,13,0,"1,208","1,172","£3,434,186.71","£335,741.16","£42,300.00","£92,814.63","£945,521.07","£411,620.28","£5,262,183.85","£201,435.00","£140,066.00","£341,501.00","£5,603,684.85"
+2023,January,Vehicle Certification Agency,Executive Agency,Department for Transport,41.68,44.85,40.34,44,80,77.77,24,24,23,23,0,0,209,214,5,5,0,0,0,0,5,5,0,214,219,"£655,101.00","£26,184.00","£1,650.00","£7,772.00","£164,649.00","£69,765.00","£925,121.00","£8,156.00",£0.00,"£8,156.00","£933,277.00"
+2023,January,British Transport Police Authority,Executive Non-Departmental Public Body,Department for Transport,0,0,0,0,4,4,6,4.81,4,4,0,0,14,13,0,0,0,0,0,0,0,0,0,14,13,"£78,800.00","£3,458.00",£0.00,£0.00,"£10,770.00","£8,939.00","£101,967.00","£12,879.00","£9,690.00","£22,569.00","£124,536.00"
+2023,January,High Speed 2,Executive Non-Departmental Public Body,Department for Transport,90,89.69,73,72.6,546,540.72,843,837.43,297,295.83,0,0,"1,849","1,836",82,80.6,225,223.96,0,0,307,305,0,"2,156","2,141","£10,743,210.89",£0.00,£0.00,£0.00,"£1,159,404.31","£1,159,916.74","£13,062,531.94","£1,401,341.66",£0.00,"£1,401,341.66","£14,463,873.60"
+2023,January,Northern Lighthouse Board,Executive Non-Departmental Public Body,Department for Transport,21,5.08,16,14.8,71,70.4,17,17,3,3,75,69.73,203,180,10,5.95,0,0,0,0,10,6,0,213,186,"£660,428.76","£10,023.24",£0.00,"£23,911.29","£183,826.07","£78,164.08","£956,353.44","£19,894.61",£0.00,"£19,894.61","£976,248.05"
+2023,January,Transport Focus,Executive Non-Departmental Public Body,Department for Transport,0,0,8,7.3,20,20,12,11.2,4,4,0,0,44,43,3,0.9,3,0.9,0,0,6,2,0,50,44,"£215,364.00","£2,642.00",£0.00,£0.00,"£58,059.00","£25,482.00","£301,547.00","£12,356.00",£0.00,"£12,356.00","£313,903.00"
+2023,January,Trinity House,Executive Non-Departmental Public Body,Department for Transport,0,0,0,0,0,0,0,0,0,0,287,275,287,275,10,10,0,0,0,0,10,10,0,297,285,"£915,567.63","£2,972.63","£8,261.63","£20,675.82","£244,914.68","£102,174.80","£1,294,567.19","£67,575.32",£0.00,"£67,575.32","£1,362,142.51"
+2023,January,Active Travel England,Executive Agency,Department for Transport,0,0,1,1,17,15.74,15,14,4,4,0,0,37,35,1,1,1,1,0,0,2,2,0,39,37,"£149,460.80",£804.02,£500.00,£0.00,"£38,385.38","£16,988.36","£206,138.56","£15,195.60",£0.00,"£15,195.60","£221,334.16"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

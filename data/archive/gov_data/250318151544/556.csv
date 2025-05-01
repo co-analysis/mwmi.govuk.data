@@ -1,0 +1,75 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2022,June,Department of Health and Social Care (excl agencies),Ministerial Department,Department of Health and Social Care,46,43.86,442,429.78,1554,1513.09,1707,1652.45,291,278.9,1,1,"4,041","3,919",104,104,49,48.91,63,62.26,216,215,,"4,257","4,134","£8,379,896.17","£94,044.42","£50,350.00","£16,333.28","£2,280,881.46","£1,081,338.14","£11,902,843.47","£2,280,905.08",,"£2,280,905.08","£14,183,748.55"
+2022,June,Care Quality Commission ,Executive Non-Departmental Public Body,Department of Health and Social Care,221,203.48,419,401.77,1898,1824.28,546,532.8,178,162.05,7,6.8,"3,269","3,131",20,20,47,47,0,0,67,67,,"3,336","3,198","£10,519,865.00","£109,944.00",£0.00,"£100,121.00","£1,363,017.00","£1,283,396.00","£13,376,343.00","£1,168,655.44",,"£1,168,655.44","£14,544,998.44"
+2022,June,NHS Digital,Executive Non-Departmental Public Body,Department of Health and Social Care,35,34.6,474,446,977,944.2,1404,1355.2,216,205.9,,,"3,106","2,986",524,492.5,481,471.5,0,0,1005,964,,"4,111","3,950","£12,238,842.23","£526,605.73",,"£13,962.09","£2,429,912.02","£1,586,493.25","£16,795,815.32","£8,701,884.07",,"£8,701,884.07","£25,497,699.39"
+2022,June,Health Education England,Executive Non-Departmental Public Body,Department of Health and Social Care,92,85.11,867,811.1,891,849.25,883,826.28,1143,413.43,,,"3,876","2,985",,,,,,,0,0,,"3,876","2,985","£12,274,435.68","£52,535.80",,"£15,990.69","£1,515,634.46","£1,363,742.84","£15,222,339.47","£140,868.12",,"£140,868.12","£15,363,207.59"
+2022,June,Health Research Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,1,1,113,101.88,116,111.79,55,52.95,6,6,,,291,274,,,4,2.88,0,0,4,3,,295,277,"£890,763.12",,,£768.22,"£118,431.73","£98,075.74","£1,108,038.81","£43,309.30",,"£43,309.30","£1,151,348.11"
+2022,June,Human Fertilisation & Embryology Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,0,0,21,20.2,37,36.3,8,8,4,3.5,0,0,70,68,1,1,0,0,4,4,5,5,,75,73,"£243,488.00",,,,"£69,179.00","£28,817.00","£341,484.00",,,£0.00,"£341,484.00"
+2022,June,Human Tissue Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,1,1,5,5,31,29.71,8,8,3,3,,,48,47,,,,,,,0,0,,48,47,"£191,870.33",£0.00,£0.00,£334.32,"£37,658.38","£23,504.38","£253,367.41","£19,362.72",,"£19,362.72","£272,730.13"
+2022,June,Medicines & Healthcare products Regulatory Agency,Executive Agency,Department of Health and Social Care,39,38.6,155,150.88,394,387.2,372,360.13,128,112.75,0,0,"1,088","1,050",72,72,14,13.37,0,0,86,85,0,"1,174","1,135","£4,650,403.26","£4,502.01","£1,400.00","£20,273.51","£1,175,831.99","£546,413.49","£6,398,824.26","£1,477,598.65",£0.00,"£1,477,598.65","£7,876,422.91"
+2022,June,Monitor,Executive Non-Departmental Public Body,Department of Health,0,0,0,0,5,5,13,12.8,65,62.8,7,7,90,88,,,,,,,0,0,,90,88,"£663,385.10","£3,732.40",£0.00,£0.00,"£191,649.96","£89,741.84","£948,509.30",£0.00,,£0.00,"£948,509.30"
+2022,June,National Institute for Health and Care Excellence,Executive Non-Departmental Public Body,Department of Health and Social Care,7,5.88,107,100.59,346,325.25,313,298.87,77,70.73,,,850,801,4,3.05,2,1.88,1,0.62,7,6,8,857,807,"£3,303,604.09","£2,681.02",£0.00,£0.00,"£640,893.04","£402,010.56","£4,349,188.71","£24,979.93","£63,513.45","£88,493.38","£4,437,682.09"
+2022,June,NHS Blood & Transplant,Executive Non-Departmental Public Body,Department of Health and Social Care,1998,1611.22,1228,1118.74,1764,1616.27,644,628.65,74,73.4,50,46.38,"5,758","5,095",66,66,13,13,38,38,117,117,20,"5,875","5,212","£15,104,321.17","£1,005,636.02",£0.00,"£402,098.15","£2,110,318.23","£1,860,268.62","£20,482,642.20","£750,984.41",,"£750,984.41","£21,233,626.61"
+2022,June,NHS Business Services Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,1754,1565.78,913,868.64,627,610.29,326,309.03,42,41.9,,,"3,662","3,396",238,238,,,,,238,238,0,"3,900","3,634","£8,246,665.24","£28,293.79",,"£172,663.04","£1,476,761.33","£844,220.34","£10,768,603.74","£544,673.49",,"£544,673.49","£11,313,277.23"
+2022,June,NHS England,Executive Non-Departmental Public Body,Department of Health and Social Care,87,75.86,1354,1278.4,2554,2444.77,4518,4320.76,1854,1683.76,189,115.15,"10,556","9,919",160,151.17,79,46.88,0,0,239,198,,"10,795","10,117","£47,065,270.71","£12,555.19",£0.00,£0.00,"£6,251,260.41","£6,121,919.28","£59,451,005.59","£1,489,514.69",,"£1,489,514.69","£60,940,520.28"
+2022,June,NHS Resolution,Executive Non-Departmental Public Body,Department of Health and Social Care,7,5.4,87,82.17,228,213,241,223.06,9,9,0,0,572,533,18,18,,,,,18,18,,590,551,"£2,042,858.78","£210,972.09",£0.00,£727.55,"£269,030.94","£270,169.31","£2,793,758.67","£257,677.57",,"£257,677.57","£3,051,436.24"
+2022,June,NHS Trust Development Authority,Special Health Authority,Department of Health,2,1.6,102,96.87,227,219.91,692,661.82,497,471.95,20,7.75,"1,540","1,460",,,,,,,0,0,853,"1,540","1,460","£7,959,155.85","£376,651.00","£1,508.00","£24,473.67","£1,041,137.42","£1,072,807.64","£10,475,733.58",£187.81,,£187.81,"£10,475,921.39"
+2022,June,UK Health Security Agency,Executive Agency,Department of Health and Social Care,656,580,820,762,2480,2340,1596,1525,373,338,3,3,"5,928","5,548",542,541.5,1438,1416.5,0,0,1980,1958,,"7,908","7,506","£22,928,156.67","£626,176.26","£8,262.46","£662,400.73","£4,894,277.64","£2,510,769.00","£31,630,042.76",,,£0.00,"£31,630,042.76"

@@ -1,0 +1,64 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-payroll; Agency staff, interim managers and specialist contractors; Total monthly cost",Non-payroll; Consultants/consultancy; Total monthly cost,"Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs,Comments
+2023,December,Department for Business & Trade (DBT),Ministerial Department,Department for Business & Trade (DBT),49,46.87,439,430.86,2371,2342.48,2282,2243.36,302,291.88,7,7,5450,5362.45,319,319,0,0,0,0,319,319,0,5769,5681.45,"£22,369,906.82","£1,127,408.62","£430,315.00","£55,193.83","£6,004,218.45","£2,858,823.59","£32,845,866.31","£1,354,094.88","£2,667,008.00","£4,021,102.76","£36,866,969.07",0
+2023,December,Advisory Conciliation & Arbitration Service (ACAS),Executive non-departmental public body,Department for Business & Trade (DBT),46,39.51081,282,260.3205,604,555.52273,61,59.68347,7,7,0,0,1000,922.03751,10,10,23,23,0,0,33,33,0,1033,955.03751,"£2,789,570.70","£22,403.13","£1,675.00","£18,416.85","£749,257.14","£284,639.44","£3,865,962.26",£0.00,£0.00,£0.00,"£3,865,962.26",0
+2023,December,Companies House,Executive Agency,Department for Business & Trade (DBT),415,363.62,371,352.04,495,479.13,114,111.47,9,9,0,0,1404,1315.26,10,10,58,58,0,0,68,68,0,1472,1383.26,"£3,655,397.21","£178,852.85",£172.00,"£26,710.39","£993,878.34","£385,402.61","£5,240,413.63","£71,117.20",£0.00,"£71,117.20","£5,311,530.83",0
+2023,December,Competition Service,Executive non-departmental public body,Department for Business & Trade (DBT),1,1,5,5,4,4,11,10.9,0,0,1,1,22,21.9,0,0,0,0,0,0,0,0,3,22,21.9,"£104,589.98",£216.66,"£3,500.00",£0.00,"£12,627.92","£29,216.07","£150,150.63",£0.00,"£5,246.00","£5,246.42","£155,397.05",0
+2023,December,Insolvency Service,Executive Agency,Department for Business & Trade (DBT),488,452.748,194,184.53,845,810.971,167,161.75,11,11,0,0,1705,1620.999,86,86,54,54,0,0,140,140,0,1845,1760.999,"£4,753,040.13","£32,134.04","£24,175.00","£37,444.23","£1,295,554.40","£534,532.01","£6,676,879.81","£785,342.09",£0.00,"£785,342.09","£7,462,221.90",0
+2023,December,Trade Remedies Authority,Executive non-departmental public body,Department for Business & Trade (DBT),0,0,6,5.6,61,59.8,58,57.2,6,5.7,0,0,131,128.3,0,0,0,0,3,3,3,3,0,134,131.5,"£556,447.14","£10,198.80","£4,444.00",£140.16,"£152,257.68","£65,256.00","£788,743.78","£23,220.52",£0.00,"£23,220.52","£811,964.30",0
+2023,December,Financial Reporting Council,Executive non-departmental public body,Department for Business & Trade (DBT),0,0,35,33.91,131,129.4,297,282.2,4,4,0,0,467,449.51,0,0,3,3,0,0,3,3,0,470,452.51,"£3,409,799.54",£0.00,£0.00,£0.00,"£334,709.94","£416,645.12","£4,161,154.60","£33,973.35",£0.00,"£33,973.35","£4,195,127.95",0

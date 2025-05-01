@@ -1,0 +1,137 @@
+address,col,row,template,lab,group,sub_group,measure
+A1,1,1,template 202106,year,date,year,year
+B1,2,1,template 202106,month,date,month,month
+C1,3,1,template 202106,organisation name,org,body,text
+D1,4,1,template 202106,organisation type,org,type,text
+E1,5,1,template 202106,main parent or sponsoring department,org,main,text
+F1,6,1,template 202106,payroll staff ao aa headcount,payroll,aao,hc
+F1,6,1,template 202106,payroll staff,payroll,aao,hc
+F2,6,2,template 202106,ao aa,payroll,aao,hc
+F3,6,3,template 202106,headcount,payroll,aao,hc
+G1,7,1,template 202106,payroll staff ao aa full time equivalent,payroll,aao,fte
+G3,7,3,template 202106,full time equivalent,payroll,aao,fte
+H1,8,1,template 202106,payroll staff eo headcount,payroll,eo,hc
+H2,8,2,template 202106,eo,payroll,eo,hc
+H3,8,3,template 202106,headcount,payroll,eo,hc
+I1,9,1,template 202106,payroll staff eo full time equivalent,payroll,eo,fte
+I3,9,3,template 202106,full time equivalent,payroll,eo,fte
+J1,10,1,template 202106,payroll staff seo heo headcount,payroll,sheo,hc
+J2,10,2,template 202106,seo heo,payroll,sheo,hc
+J3,10,3,template 202106,headcount,payroll,sheo,hc
+K1,11,1,template 202106,payroll staff seo heo full time equivalent,payroll,sheo,fte
+K3,11,3,template 202106,full time equivalent,payroll,sheo,fte
+L1,12,1,template 202106,payroll staff grade 6 7 headcount,payroll,g67,hc
+L2,12,2,template 202106,grade 6 7,payroll,g67,hc
+L3,12,3,template 202106,headcount,payroll,g67,hc
+M1,13,1,template 202106,payroll staff grade 6 7 full time equivalent,payroll,g67,fte
+M3,13,3,template 202106,full time equivalent,payroll,g67,fte
+N1,14,1,template 202106,payroll staff scs headcount,payroll,scs,hc
+N2,14,2,template 202106,scs,payroll,scs,hc
+N3,14,3,template 202106,headcount,payroll,scs,hc
+O1,15,1,template 202106,payroll staff scs full time equivalent,payroll,scs,fte
+O3,15,3,template 202106,full time equivalent,payroll,scs,fte
+P1,16,1,template 202106,payroll staff other unknown unspecified headcount,payroll,other,hc
+P2,16,2,template 202106,other unknown unspecified,payroll,other,hc
+P3,16,3,template 202106,headcount,payroll,other,hc
+Q1,17,1,template 202106,payroll staff other unknown unspecified full time equivalent,payroll,other,fte
+Q3,17,3,template 202106,full time equivalent,payroll,other,fte
+R1,18,1,template 202106,payroll staff total headcount,payroll,total,hc
+R2,18,2,template 202106,total employees,payroll,total,hc
+R3,18,3,template 202106,headcount,payroll,total,hc
+S1,19,1,template 202106,payroll staff total full time equivalent,payroll,total,fte
+S3,19,3,template 202106,full time equivalent,payroll,total,fte
+T1,20,1,template 202106,non payroll staff agency staff headcount,non payroll,agency,hc
+T1,20,1,template 202106,number of non payroll staff contingent labour and consultants consultancy,non payroll,agency,hc
+T2,20,2,template 202106,agency staff,non payroll,agency,hc
+T3,20,3,template 202106,headcount,non payroll,agency,hc
+U1,21,1,template 202106,non payroll staff agency staff full time equivalent,non payroll,agency,fte
+U3,21,3,template 202106,full time equivalent,non payroll,agency,fte
+V1,22,1,template 202106,non payroll staff interim managers headcount,non payroll,managers,hc
+V2,22,2,template 202106,interim managers,non payroll,managers,hc
+V3,22,3,template 202106,headcount,non payroll,managers,hc
+W1,23,1,template 202106,non payroll staff interim managers full time equivalent,non payroll,managers,fte
+W3,23,3,template 202106,full time equivalent,non payroll,managers,fte
+X1,24,1,template 202106,non payroll staff specialist contractors headcount,non payroll,contractors,hc
+X2,24,2,template 202106,specialist contractors,non payroll,contractors,hc
+X3,24,3,template 202106,headcount,non payroll,contractors,hc
+Y1,25,1,template 202106,non payroll staff specialist contractors full time equivalent,non payroll,contractors,fte
+Y3,25,3,template 202106,full time equivalent,non payroll,contractors,fte
+Z1,26,1,template 202106,non payroll staff consultants consultancy headcount,non payroll,consultants,hc
+Z2,26,2,template 202106,consultants consultancy,non payroll,consultants,hc
+Z3,26,3,template 202106,headcount,non payroll,consultants,hc
+AA1,27,1,template 202106,non payroll staff consultants consultancy full time equivalent,non payroll,consultants,fte
+AA3,27,3,template 202106,full time equivalent,non payroll,consultants,fte
+AB1,28,1,template 202106,non payroll staff total headcount,non payroll,total,hc
+AB2,28,2,template 202106,total,non payroll,total,hc
+AB3,28,3,template 202106,headcount,non payroll,total,hc
+AC1,29,1,template 202106,non payroll staff total full time equivalent,non payroll,total,fte
+AC3,29,3,template 202106,full time equivalent,non payroll,total,fte
+AD1,30,1,template 202106,grand total workforce numbers headcount,all employees,total,hc
+AD1,30,1,template 202106,grand total workforce numbers,all employees,total,hc
+AD3,30,3,template 202106,headcount,all employees,total,hc
+AE1,31,1,template 202106,grand total workforce numbers full time equivalent,all employees,total,fte
+AE3,31,3,template 202106,full time equivalent,all employees,total,fte
+AF1,32,1,template 202106,payroll staff costs salary,payroll costs,salary,costs
+AF1,32,1,template 202106,payroll staff costs,payroll costs,salary,costs
+AF2,32,2,template 202106,salary,payroll costs,salary,costs
+AG1,33,1,template 202106,payroll staff costs allowances,payroll costs,allowances,costs
+AG2,33,2,template 202106,allowances,payroll costs,allowances,costs
+AH1,34,1,template 202106,payroll staff costs non consolidated performance payments,payroll costs,ncprp,costs
+AH2,34,2,template 202106,non consolidated performance payments,payroll costs,ncprp,costs
+AI1,35,1,template 202106,payroll staff costs overtime,payroll costs,overtime,costs
+AI2,35,2,template 202106,overtime,payroll costs,overtime,costs
+AJ1,36,1,template 202106,payroll staff costs employer pension contributions,payroll costs,pension,costs
+AJ2,36,2,template 202106,employer pension contributions,payroll costs,pension,costs
+AK1,37,1,template 202106,payroll staff costs employer national insurance contributions,payroll costs,ni,costs
+AK2,37,2,template 202106,employer national insurance contributions,payroll costs,ni,costs
+AL1,38,1,template 202106,payroll staff costs total paybill,payroll costs,total,costs
+AL2,38,2,template 202106,total paybill for payroll staff,payroll costs,total,costs
+AM1,39,1,template 202106,non payroll staff costs contingent labour agency staff interim managers and specialist contractors,non payroll costs,contingent,costs
+AM1,39,1,template 202106,non payroll staff contingent labour consultancy costs,non payroll costs,contingent,costs
+AM2,39,2,template 202106,total monthly cost of contingent labour agency staff interim managers and specialist contractors,non payroll costs,contingent,costs
+AN1,40,1,template 202106,non payroll staff costs consultants consultancy,non payroll costs,consultants,costs
+AN2,40,2,template 202106,total monthly cost of consultants consultancy,non payroll costs,consultants,costs
+AO1,41,1,template 202106,non payroll staff costs total staff costs,non payroll costs,total,costs
+AO2,41,2,template 202106,total non payroll ccl staff costs,non payroll costs,total,costs
+AP1,42,1,template 202106,grand total paybill staffing payroll and non payroll costs,all costs,total,costs
+A1,1,1,template 202204,year,date,year,year
+B1,2,1,template 202204,month,date,month,month
+C1,3,1,template 202204,organisation name,org,body,text
+D1,4,1,template 202204,organisation type,org,type,text
+E1,5,1,template 202204,main parent or sponsoring department,org,main,text
+F1,6,1,template 202204,payroll staff ao aa headcount,payroll,aao,hc
+G1,7,1,template 202204,payroll staff ao aa full time equivalent,payroll,aao,fte
+H1,8,1,template 202204,payroll staff eo headcount,payroll,eo,hc
+I1,9,1,template 202204,payroll staff eo full time equivalent,payroll,eo,fte
+J1,10,1,template 202204,payroll staff seo heo headcount,payroll,sheo,hc
+K1,11,1,template 202204,payroll staff seo heo full time equivalent,payroll,sheo,fte
+L1,12,1,template 202204,payroll staff grade 6 7 headcount,payroll,g67,hc
+M1,13,1,template 202204,payroll staff grade 6 7 full time equivalent,payroll,g67,fte
+N1,14,1,template 202204,payroll staff scs headcount,payroll,scs,hc
+O1,15,1,template 202204,payroll staff scs full time equivalent,payroll,scs,fte
+P1,16,1,template 202204,payroll staff other unknown unspecified headcount,payroll,other,hc
+Q1,17,1,template 202204,payroll staff other unknown unspecified full time equivalent,payroll,other,fte
+R1,18,1,template 202204,payroll staff total headcount,payroll,total,hc
+S1,19,1,template 202204,payroll staff total full time equivalent,payroll,total,fte
+T1,20,1,template 202204,non payroll staff admin and clerical headcount,non payroll,admin,hc
+U1,21,1,template 202204,non payroll staff admin and clerical full time equivalent,non payroll,admin,fte
+V1,22,1,template 202204,non payroll staff interim managers specialist contractors medical headcount,non payroll,managers,hc
+W1,23,1,template 202204,non payroll staff interim managers specialist contractors medical full time equivalent,non payroll,managers,fte
+X1,24,1,template 202204,non payroll staff other contingent labour headcount,non payroll,other,hc
+Y1,25,1,template 202204,non payroll staff other contingent labour full time equivalent,non payroll,other,fte
+Z1,26,1,template 202204,non payroll staff total contingent labour headcount,non payroll,total,hc
+AA1,27,1,template 202204,non payroll staff total contingent labour full time equivalent,non payroll,total,fte
+AB1,28,1,template 202204,non payroll staff consultancy number of contracts,non payroll,consultants,contracts
+AC1,29,1,template 202204,grand total workforce numbers headcount,all employees,total,hc
+AD1,30,1,template 202204,grand total workforce numbers full time equivalent,all employees,total,fte
+AE1,31,1,template 202204,payroll staff costs salary,payroll costs,salary,costs
+AF1,32,1,template 202204,payroll staff costs allowances,payroll costs,allowances,costs
+AG1,33,1,template 202204,payroll staff costs non consolidated performance payments,payroll costs,ncprp,costs
+AH1,34,1,template 202204,payroll staff costs overtime,payroll costs,overtime,costs
+AI1,35,1,template 202204,payroll staff costs employer pension contributions,payroll costs,pension,costs
+AJ1,36,1,template 202204,payroll staff costs employer national insurance contributions,payroll costs,ni,costs
+AK1,37,1,template 202204,payroll staff costs total paybill,payroll costs,total,costs
+AL1,38,1,template 202204,non payroll staff costs contingent labour,non payroll costs,contingent,costs
+AM1,39,1,template 202204,non payroll staff costs consultancy,non payroll costs,consultants,costs
+AN1,40,1,template 202204,non payroll staff costs total staff costs,non payroll costs,total,costs
+AO1,41,1,template 202204,grand total paybill staffing payroll and non payroll costs,all costs,total,costs
