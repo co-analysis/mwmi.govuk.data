@@ -5,15 +5,27 @@ source("pack/all_packages.R",local=TRUE)
 
 ####################################################################################################
 # Compile search results
-all_results <- list.files("data/gov_search_results",".rds$",full.names=TRUE) %>%
-  map(~readRDS(.x) %>% mutate(search_file=.x)) %>%
-  bind_rows()
-latest_results <- all_results %>%
-  unique() %>%
-  group_by(link) %>%
-  filter(updated_at==max(updated_at)) %>%
-  filter(search_date==max(search_date)) %>%
-  ungroup()
+# Get unprocessed search results
+# search_result_ts <- list.files("data/gov_search_results",".rds$") %>% gsub(".rds","",.)
+# form_ts <- list.files("data/output","formed_data_[0-9]{12}.rds") %>%
+#   gsub("formed_data_([0-9]{12}).rds","\\1",.)
+# toproc_ts <- setdiff(search_result_ts,form_ts)
+# 
+# all_results <- list.files("data/gov_search_results",".rds$",full.names=TRUE) %>%
+#   map(~readRDS(.x) %>% mutate(search_file=.x)) %>%
+#   bind_rows()
+# latest_results <- all_results %>%
+#   unique() %>%
+#   group_by(link) %>%
+#   filter(updated_at==max(updated_at)) %>%
+#   filter(search_date==max(search_date)) %>%
+#   ungroup()
+
+# load latest search results
+latest_results <- list.files("data/gov_search_results",".rds$",full.names=TRUE) %>%
+  sort(decreasing=TRUE) %>%
+  head(1) %>%
+  readRDS()
 
 ####################################################################################################
 # Get links to possible files

@@ -48,10 +48,11 @@ temp_header_rows <- temp_labels %>%
 
 # Get list of files that still need to be formatted 
 conv_list <- list.files("data/gov_data","conversion_results",recursive=TRUE,full.names=TRUE)
+
+to_conv <- readRDS(rev(sort(conv_list))[1])
 # TODO filter out what has already been converted
 
 # 
-to_conv <- readRDS(rev(sort(conv_list))[1])
 time_stamp <- max(to_conv$time_stamp)
 dir.create(paste0("data/gov_data_form/",time_stamp),recursive=TRUE)
 

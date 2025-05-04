@@ -6,34 +6,59 @@ source("pack/all_packages.R",local=TRUE)
 
 links_file <- sort(list.files("data/gov_data_links",".rds",full.names=TRUE),decreasing=TRUE)[1]
 
-latest_links <- readRDS(links_file) %>%
-  mutate(dl_index=1:n()) %>%
+data_links_results <- readRDS(links_file) %>%
   mutate(file_types=gsub(".*\\.([odsxlcv]{3,4})$","\\1",tolower(data_links)))
 
 # time stamp based on latest search result
-time_stamp <- max(latest_links$time_stamp)
+time_stamp <- max(data_links_results$time_stamp)
 
 dl_stem <- paste0("data/gov_data/",time_stamp)
 
 dir.create(dl_stem)
 
 ####################################################################################################
-# TODO: remove files that have already been downloaded
+# TODO: rewrite now that dl_results is only partial...
 
 
+# previous dl results
+all_dl_results <- list.files("data/gov_data/","^dl_results",recursive=TRUE,full.names=TRUE) %>%
+  map(readRDS) %>%
+  bind_rows()
+# previous search details (time updated etc) for dls
+search_details <- unique(all_dl_results$time_stamp) %>%
+  paste0("data/gov_data_links/",.,".rds") %>%
+  map(readRDS) %>%
+  bind_rows()
+# merged info
+all_dl_results_details <- all_dl_results %>%
+  select(data_links,dl_result,time_stamp) %>%
+  left_join(select(search_details,data_links,prev_public_timestamp=public_timestamp,prev_updated_at=updated_at,time_stamp)) %>%
+  select(-time_stamp)
+
+data_links_results_type <- data_links_results %>%
+  left_join(all_dl_results_details) %>%
+  mutate(type="") %>%
+  mutate(type=ifelse(is.na(dl_result),"new",type)) %>%
+  mutate(type=ifelse(type=="" & dl_result!="Successful","failed",type)) %>%
+  mutate(type=ifelse(type=="" & dl_result=="Successful" & (public_timestamp>prev_public_timestamp | updated_at>prev_updated_at),"updated",type)) %>%
+  mutate(type=ifelse(type=="" & dl_result=="Successful","existing",type))
+
+data_links_toproc <- data_links_results_type %>%
+  filter(type!="existing") %>%
+  mutate(dl_index=1:n())
 
 ####################################################################################################
 # Loop through and download files 
 
 dl_results <- NULL
-N <- nrow(latest_links)
+N <- nrow(data_links_toproc)
 
 for (i in 1:N) {
   # i = 1702, 3178
-  k = which(latest_links$dl_index==i)
-  data_link <- latest_links$data_links[k]
-  data_index <- latest_links$dl_index[k]
-  file_type <- latest_links$file_types[k]
+  k = which(data_links_toproc$dl_index==i)
+  data_link <- data_links_toproc$data_links[k]
+  data_index <- data_links_toproc$dl_index[k]
+  file_type <- data_links_toproc$file_types[k]
   dl_loc <- paste0(dl_stem,"/",data_index,".",file_type)
   
   file_check <- try(httr::HEAD(data_link),silent=TRUE)

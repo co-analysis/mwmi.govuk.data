@@ -1,7 +1,7 @@
 # load libraries
 source("pack/all_packages.R",local=TRUE)
 
-df <- list.files("data/output","^formed_data",full.names=T)
+df <- list.files("data/output","^formed_data_[0-9]{12}.rds",full.names=T)
 
 # Load all formatted data
 alldata <- map(df,readRDS) %>%
@@ -41,6 +41,7 @@ dd <- dupes0 %>%
   mutate(n=n()) %>%
   filter(n==1 | (n>1 & !any(file_type=="xls")) | (n>1 & file_type=="xls")) %>%
   mutate(n=n()) %>% # note, remaining duplication appears to be from data errors from depts
+  # {.} %$% table(n)
   mutate(dups=duplicated(data.frame(Year,Month,Department,Body))) %>%
   filter(!dups)
 
@@ -61,7 +62,7 @@ a1 %>%
   mutate(n=n()) %$% table(n)
 
 
-head(e1)
+head(a1)
 
 
 ad10 <- a1
