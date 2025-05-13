@@ -6,10 +6,10 @@ df <- list.files("data/output","^formed_data_[0-9]{12}.rds",full.names=T)
 # Load all formatted data
 alldata <- map(df,readRDS) %>%
   bind_rows()
+ts <- unique(alldata$time_stamp)
 
-# file = dl_loc
 
-ts <- unique(alldata$time_stamp) # TODO: map this in the below to pull all relevant
+
 
 # Timestamps of publication
 # data_links, updated_at, time_stamp
@@ -47,13 +47,13 @@ dd <- dupes0 %>%
 
 # dd %>% select(file) %>% left_join(rename(m1,file=dl_loc)) %>% left_join(m0) %>% View()
 
-a0 <- alldata %>%
+a1 <- alldata %>%
   filter(if_all(all_of(c("value","Year","Month","Body","Department","org_type")),~!is.na(.x)))
 
 # Drop duplication
-a1 <- inner_join(a0,dd)
+a2 <- inner_join(a1,dd)
 
-a1 %>%
+a2 %>%
   # filter(if_all(all_of(c("value","Year","Month","Body","Department")),~!is.na(.x))) %>%
   select(Year,Month,Body,Department,group,sub_group,measure,file,time_stamp) %>%
   unique() %>%
@@ -62,14 +62,22 @@ a1 %>%
   mutate(n=n()) %$% table(n)
 
 
-head(a1)
+head(a2)
 
 
-ad10 <- a1
+# a3 <- a2 %>%
+#   select(group,sub_group,measure,value,file,org_type,Month,Year,Body,Department) %>%
+#   mutate(costs=NA,fte_total=NA)
 
+a3 <- a2 %>%
+  select(group,sub_group,measure,value,org_type,Month,Year,Body,Department)
+
+
+ad10 <- a3
 # output as per previous
 ad10 %>%
-  select(group,sub_group,measure,value,file,org_type,Month,Year,Body,Department) %>%
-  mutate(costs=NA,fte_total=NA) %>%
+  # select(group,sub_group,measure,value,file,org_type,Month,Year,Body,Department) %>%
+  # mutate(costs=NA,fte_total=NA) %>%
   saveRDS("data/output/cleaned_data_trial.RDS")
-
+ad10 %>%
+  write.csv("data/output/cleaned_data_trial.csv",row.names=FALSE)

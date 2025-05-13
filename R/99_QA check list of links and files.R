@@ -39,8 +39,9 @@ file_targets %>%
   summarise(found=any(!is.na(time_stamp)),dl=any(dl_result=="Successful"),formed=paste0(form_result,collapse=", ")) %>%
   clip_tab()
 
-file_targets %>%
-  filter(!is.na(time_stamp),dl_result!="Successful")
+mi <- file_targets %>%
+  filter(!is.na(time_stamp),dl_result!="Successful") %>%
+  pull(data_links)
 
 
 

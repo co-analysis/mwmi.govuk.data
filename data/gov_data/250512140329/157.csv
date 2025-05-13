@@ -1,0 +1,102 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2022,June,Department for Transport ,Crown Non Departmental Public Body,Department for Transport,148,133.29,366,356.91,1510,1484.14,1479,1447.81,232,223.39,0,0,"3,735","3,646",14,14,0,0,20,20,0,0,34,34,"3,769","3,680","£14,482,886.18","£173,652.23","£205,530.42","£79,786.19","£3,985,920.50","£1,880,250.49","£20,808,026.01","£444,052.40","-£16,185,267.82","-£15,741,215.42","£5,066,810.59"
+2022,June,Driving Standards Agency,Executive Agency,Department for Transport,1131,1056.23,2614,2439.3,1023,999.7,130,129.2,9,8.75,0,0,"4,907","4,633",61,61,14,14,9,9,0,0,84,84,"4,991","4,717","£11,309,295.00","£674,286.00","£52,832.00","£490,392.00","£2,961,058.00","£1,403,102.00","£16,890,965.00","£388,771.00","£6,879.00","£395,650.00","£17,286,615.00"
+2022,June,Driver & Vehicle Licensing Agency,Executive Agency,Department for Transport,4198,3587.51,942,884.91,997,962.09,286,273.47,8,7.61,0,0,"6,431","5,716",0,0,0,0,7,5.37,0,0,7,5.37,"6,438","5,721","£12,141,217.00","£474,164.00","£1,093,111.00","£379,169.00","£3,324,089.00","£1,337,183.00","£18,748,933.00","£90,449.00","£46,291.00","£136,740.00","£18,885,673.00"
+2022,June,Maritime & Coastguard Agency,Executive Agency,Department for Transport,272,256.54,244,236.22,539,527.64,170,164.4,7,6.65,0,0,"1,232","1,191",12,12,0,0,0,0,0,0,12,12,"1,244","1,203","£3,684,355.27","£327,509.46","£38,700.00","£105,357.87","£931,229.34","£479,119.61","£5,566,271.55","£697,735.07","£361,656.57","£1,059,391.64","£6,625,663.19"
+2022,June,Vehicle Certification Agency,Executive Agency,Department for Transport,50,45.17,40,36.61,100,96.28,17,17,1,1,0,0,208,196,4,4,0,0,0,0,0,0,4,4,212,200,"£607,542.50","£25,324.92","£5,600.00","£79,628.03","£155,326.09","£80,904.62","£954,326.16","£15,836.49",£0.00,"£15,836.49","£970,162.65"
+2022,June,British Transport Police Authority,Executive Non-Departmental Public Body,Department for Transport,0,0,0,0,4,4,6,4.81,4,4,0,0,14,13,1,1,0,0,0,0,0,0,1,1,15,14,"£67,377.00","£3,152.00",£0.00,£0.00,"£9,471.00","£8,144.00","£88,144.00","£3,375.00","£130,398.00","£133,773.00","£221,917.00"
+2022,June,High Speed 2,Executive Non-Departmental Public Body,Department for Transport,82,81.69,80,79.6,515,510.36,807,801.9,287,285.91,0,0,"1,771","1,759",88,88,65,65,197,196,0,0,350,349,"2,121","2,108","£10,522,491.37",£0.00,£0.00,£0.00,"£1,112,767.41","£1,227,745.95","£12,863,004.73","£1,941,663.99",£0.00,"£1,941,663.99","£14,804,668.72"
+2022,June,Northern Lighthouse Board,Executive Non-Departmental Public Body,Department for Transport,22,5.96,16,14.8,71,70.6,18,18,3,3,72,66.7,202,179,17,8.75,0,0,0,0,0,0,17,8.75,219,188,"£654,342.39","£12,575.90",£0.00,"£25,958.09","£181,364.54","£85,726.24","£959,967.16","£55,006.19",£0.00,"£55,006.19","£1,014,973.35"
+2022,June,Transport Focus,Executive Non-Departmental Public Body,Department for Transport,0,0,7,6.5,22,22,12,10.95,4,4,0,0,45,43,0,0,0,0,4,1,0,0,4,1,49,44,"£165,127.00","£2,291.00",£700.00,£0.00,"£48,988.00","£16,613.00","£233,719.00","£6,868.00",£0.00,"£6,868.00","£240,587.00"
+2022,June,Trinity House,Executive Non-Departmental Public Body,Department for Transport,0,0,0,0,0,0,0,0,0,0,288,276,288,276,8,8,0,0,0,0,0,0,8,8,296,284,"£891,864.15","£4,211.38",£0.00,"£39,784.77","£241,626.22","£111,526.54","£1,289,013.06","£19,458.88",£0.00,"£19,458.88","£1,308,471.94"
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,,,0,0,0,0,,,,,,,£0.00,,,£0.00,£0.00

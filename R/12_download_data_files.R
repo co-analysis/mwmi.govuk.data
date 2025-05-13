@@ -21,6 +21,7 @@ dir.create(dl_stem)
 
 
 # previous dl results
+# filter to latest?
 all_dl_results <- list.files("data/gov_data/","^dl_results",recursive=TRUE,full.names=TRUE) %>%
   map(readRDS) %>%
   bind_rows()
@@ -33,6 +34,9 @@ search_details <- unique(all_dl_results$time_stamp) %>%
 all_dl_results_details <- all_dl_results %>%
   select(data_links,dl_result,time_stamp) %>%
   left_join(select(search_details,data_links,prev_public_timestamp=public_timestamp,prev_updated_at=updated_at,time_stamp)) %>%
+  group_by(data_links) %>%
+  filter(time_stamp==max(time_stamp)) %>%
+  ungroup() %>%
   select(-time_stamp)
 
 data_links_results_type <- data_links_results %>%

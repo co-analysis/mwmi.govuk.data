@@ -56,6 +56,7 @@ gov_search_results <- ((1:(ceiling(search_n/1000))-1)*1000) %>%
   bind_rows %>%
   mutate(public_timestamp=ymd_hms(public_timestamp),updated_at=ymd_hms(updated_at)) %>%
   select(title,link,public_timestamp,updated_at) %>%
+  unique() %>%
   mutate(search_date=Sys.time()) %>%
   mutate(time_stamp=time_stamp)
 

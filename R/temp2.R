@@ -1,70 +1,114 @@
-to_conv <- readRDS(conv_list)
+letter_seq <- function(x) {
+  if (max(x) > 26*26*26) stop("Number out of range")
+  d1 <- LETTERS[(x-1)%%26+1]
+  d2 <- ifelse(x<=26,"",rep(LETTERS,each=26)[(x-26-1)%%(26*26)+1])
+  d3 <- ifelse(x<=26*26 + 26,"",rep(rep(LETTERS,each=26),each=26)[(x-26*26-1)%%(26*26*26)+1])
+  paste0(d3,d2,d1)
+}
 
+# Read a single sheet from an XLS/x file and convert to long form 'unpivotr' format
+xls_sheet_cells <- function(file_name,sheet_name) {
+  sheet_data <- NULL
+  try({
+    sheet_data <- readxl::read_excel(file_name,sheet=sheet_name,col_names=FALSE) %>%
+      unpivotr::as_cells() %>%
+      mutate(sheet=sheet_name,file=file_name,file_type=gsub(".*(xlsx?)$","\\1",file_name)) %>%
+      mutate(address=paste0(letter_seq(col),row))
+  })
+  sheet_data
+}
 
-conv_files <- to_conv %>%
-  filter(conv_result==TRUE)
-nq <- nrow(conv_files)
-# nq <- 10
-
-temp_names <- unique(temp_labels$template)
-
-form_results <- NULL
-
-for (q in 1919:nq) {
-  # file name
-  fl <- conv_files$conv_loc[q]
-  # load data
-  rawdat <- readRDS(fl)
-  # filter out empty sheets
-  rawdat <- rawdat[map(rawdat,~!is.null(.x)) %>% unlist(F,F)]
+# Read all sheets in an XLS/x file, convert to cells, save as list of tables in RDS
+xls_cells <- function(data_file,data_out_file) {
+  print(paste0("Trying: ",data_file))
+  xls_data <- NULL
+  try({
+    sheet_names <- readxl::excel_sheets(data_file) ;
+    xls_data <- map2(data_file,sheet_names,~ xls_sheet_cells(.x,.y))
+  })
   
-  # Which template does each sheet best match?
-  mres <- NULL
-  for (tt in temp_names) {
-    tt_m <- map(rawdat,~filter(.x,!is.na(chr)) %>% mutate(lab=text_sanitiser(chr))) %>%
-      map(~right_join(.x,filter(temp_labels,template==tt))) %>%
-      map2(1:length(.),~summarise(.x,template=tt,i=.y,n=n(),m=sum(!is.na(file)))) %>%
-      bind_rows()
-    mres <- bind_rows(mres,tt_m)
-  }
-  # get the best match
-  m_proc <- mres %>%
-    filter(m>0,m/n>.5) %>% # match at least half of headers
-    group_by(i) %>%
-    filter(m/n==max(m/n)) # best match
-  nk <- nrow(m_proc)
+  # create directory to save to
+  # dir.create(gsub("\\/[^\\/]+$","",data_out_file),showWarnings=FALSE,recursive=TRUE)
+  # save
+  saveRDS(xls_data,data_out_file)
   
-  # handle no matching
-  if (nk==0) {
-    form_results <- bind_rows(form_results,data.frame(conv_loc=fl,form_result="No matches"))
-    
-  } else {
-    
-    # If there are matching sheets
-    for (k in 1:nk) {
-      # k = 1
-      t_match = m_proc[k,]
-      # which columns match?
-      col_match <- rawdat[[t_match$i]] %>%
-        right_join(filter(temp_labels,template==t_match$template)) %>%
-        group_by(col) %>%
-        filter(all(!is.na(file))) %>%
-        ungroup() %>%
-        pull(col)
-      # do labelling
-      formdat <- rawdat[[t_match$i]] %>%
-        filter(col%in%col_match) %>%
-        left_join(filter(temp_labels,template==t_match$template) %>% select(-row,-address)) %>%
-        # filter(!is.na(chr)) %>%
-        select(-row,-col,-data_type)
-      
-      file_nom <- conv_files$dl_loc[q]
-      form_loc <- paste0(gsub("gov_data","gov_data_form",file_nom),"_",t_match$i,".rds")
-      saveRDS(formdat,form_loc)
-      form_results <- bind_rows(form_results,data.frame(conv_loc=fl,form_results=t_match$template,form_loc))
-    } # k
-  }
-  print(q/nq)
+  return <- !is.null(xls_data)
+}
+
+ods_sheet_cells <- function(file_name,sheet_name) {
+  sheet_data <- NULL
+  try({
+    sheet_data <- readODS::read_ods(file_name,sheet=sheet_name,col_names=FALSE) %>%
+      unpivotr::as_cells() %>%
+      mutate(sheet=sheet_name,file=file_name,file_type="ods") %>%
+      mutate(address=paste0(letter_seq(col),row))
+  })
+  sheet_data
+}
+
+ods_cells <- function(data_file,data_out_file) {
+  print(paste0("Trying: ",data_file))
+  ods_data <- NULL
+  try({
+    sheet_names <- readODS::list_ods_sheets(data_file) ;
+    ods_data <- map2(data_file,sheet_names,~ ods_sheet_cells(.x,.y))
+  })
   
-} # q
+  # create directory to save to
+  # dir.create(gsub("\\/[^\\/]+$","",data_out_file),showWarnings=FALSE,recursive=TRUE)
+  # save
+  saveRDS(ods_data,data_out_file)
+  
+  return <- !is.null(ods_data)
+}
+
+# Read a single sheet from a csv file and convert to long form 'unpivotr' format
+csv_sheet_cells <- function(file_name,sheet_name) {
+  sheet_data <- NULL
+  try({
+    sheet_data <- readr::read_csv(file_name,col_names=FALSE,show_col_types=FALSE) %>%
+      as_cells %>%
+      mutate(sheet=sheet_name,file=file_name,file_type="csv") %>%
+      mutate(address=paste0(letter_seq(col),row))
+  })
+  sheet_data
+}
+
+# Read a csv file, convert to cells, save as table in RDS
+csv_cells <- function(data_file,data_out_file) {
+  print(paste0("Trying: ",data_file))
+  csv_data <- NULL
+  try({
+    csv_data <- map2(data_file,"csv data",~ csv_sheet_cells(.x,.y))
+  })
+  
+  # create directory to save to
+  # dir.create(gsub("\\/[^\\/]+$","",data_out_file),showWarnings=FALSE,recursive=TRUE)
+  # save
+  saveRDS(csv_data,data_out_file)
+  
+  return <- !is.null(csv_data)
+}
+
+
+file_handler <- function(in_files,out_files) {
+  # Get input file extension
+  file_type <- in_files %>%
+    gsub(".*?([^\\.]+)$","\\1",.) %>%
+    tolower
+  
+  # Choose which function to use for each file
+  handler_function <- case_when(
+    file_type == "xls" ~ list(xls_cells),
+    file_type == "xlsx" ~ list(xls_cells),
+    file_type == "csv" ~ list(csv_cells),
+    file_type == "ods" ~ list(ods_cells),
+    TRUE ~ list(function(x,y,z) "Unhandled file type")
+  )
+  
+  # Run the selected function on each file
+  pmap(list(in_files,out_files,handler_function),map2) %>%
+    unlist(T,F) %>%
+    data.frame(dl_loc=in_files,conv_loc=out_files,conv_result=.)
+}
 
