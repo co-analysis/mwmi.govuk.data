@@ -8,9 +8,6 @@ alldata <- map(df,readRDS) %>%
   bind_rows()
 ts <- unique(alldata$time_stamp)
 
-
-
-
 # Timestamps of publication
 # data_links, updated_at, time_stamp
 m0 <- map(ts,~readRDS(paste0("data/gov_data_links/",.x,".rds"))) %>%
