@@ -1,0 +1,98 @@
+Year,Month,Organisation name,Organisation type,Main parent or sponsoring department:,"Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other unknown unspecified;
+Headcount","Payroll staff;
+Other unknown unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour:
+Headcount","Non-payroll staff;
+Total Contingent labour:
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2023,November,Department for Environment Food and Rural Affairs,Ministerial Department,Department for Environment Food and Rural Affairs,133,121.83,568,544.53,3340,3231.9,2428,2350.08,189,183.65,12,12,"6,670","6,444",106,105.6,610,606,0,0,716,712,23,"7,386","7,156","£30,503,463.38","£327,727.77","£283,108.20","£132,230.95","£6,452,677.55","£2,738,345.71","£40,437,553.56","£8,875,966.48","£7,460,371.79","£16,336,338.27","£56,773,891.83"
+2023,November,Animal and Plant Health Agency,Executive Agency,Department for Environment Food and Rural Affairs,958,891.53,794,758.86,1037,994.66,248,238.72,7,7,3,3,"3,047","2,894",132,132,67,67,0,0,199,199,4,"3,246","3,093","£7,483,653.54","£371,411.85","£6,650.00","£252,426.81","£2,092,654.44","£805,609.45","£11,012,406.09","£2,112,077.92","£600,558.75","£2,712,636.67","£13,725,042.76"
+2023,November,Centre for Environment Fisheries and Aquaculture Science,Executive Agency,Department for Environment Food and Rural Affairs,18,17.22,128,119.3,351,329.71,141,134.7,4,4,0,0,642,605,0,0,0,0,0,0,0,0,0,642,605,"£1,952,372.06","£16,812.76",£0.00,"£47,268.94","£532,549.94","£236,047.59","£2,785,051.29",£0.00,£0.00,£0.00,"£2,785,051.29"
+2023,November,Rural Payments Agency,Executive Agency,Department for Environment Food and Rural Affairs,1435,1301.36,685,640.05,570,536.31,141,135.92,11,10.27,0,0,"2,842","2,624",2,2,4,4,0,0,6,6,1,"2,848","2,630","£6,029,323.67","£3,505.73","£16,854.91","£157,848.30","£1,602,443.13","£556,127.96","£8,366,103.70","£81,904.39","£78,966.67","£160,871.06","£8,526,974.76"
+2023,November,Veterinary Medicines Directorate,Executive Agency,Department for Environment Food and Rural Affairs,24,23.4,23,22.1,64,62.73,62,61.6,2,2,0,0,175,172,17,17,0,0,0,0,17,17,15,192,189,"£643,418.00","£17,902.00",£0.00,"£5,533.00","£174,801.00","£81,441.00","£923,095.00","£226,898.80",,"£226,898.80","£1,149,993.80"
+2023,November,Agriculture and Horticulture Development Board,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,0,0,0,0,0,0,0,0,0,0,360,342.7,360,343,0,0,0,0,0,0,0,0,0,360,343,"£1,242,882.03","£59,027.17",£0.00,£0.00,"£110,166.23","£143,685.99","£1,555,761.42",£0.00,£0.00,£0.00,"£1,555,761.42"
+2023,November,Consumer Council for Water,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,2,1.86,28,26.76,34,33.9,15,14.57,5,5,0,0,84,82,0,0,0,0,3,3,3,3,0,87,85,"£264,216.69","£1,863.58",£0.00,£0.00,"£70,872.40","£27,934.33","£364,887.00",£0.00,£0.00,£0.00,"£364,887.00"
+2023,November,Environment Agency,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,2027,1933.66,2980,2859.05,4264,4042.99,2991,2848.76,109,107.99,818,799.41,"13,189","12,592",176,168.12,572,496.28,0,0,748,664,7,"13,937","13,256","£37,819,549.66","£331,604.28",£0.00,"£2,085,194.19","£5,788,272.71","£4,171,081.35","£50,195,702.19",,"£111,370.00","£111,370.00","£50,307,072.19"
+2023,November,Joint Nature Conservation Committee,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,8,8,35,34.83,221,211.71,39,36.73,3,3,0,0,306,294,0,0,3,3,0,0,3,3,0,309,297,"£986,959.86","£20,376.80","£4,931.69","£14,198.18","£269,234.75","£109,803.73","£1,405,505.01","£27,766.45",£0.00,"£27,766.45","£1,433,271.46"
+2023,November,Marine Management Organisation,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,21,18.1,145,140.73,250,243.65,84,81.91,7,6.19,0,0,507,491,0,0,0,0,0,0,0,0,1,507,491,"£1,920,370.84","£22,804.25",£0.00,"£36,429.68","£485,696.20","£220,158.03","£2,685,459.00",£0.00,"£13,000.00","£13,000.00","£2,698,459.00"
+2023,November,National Forest Company,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,3,3,6,5.1,26,23.91,7,6.8,1,1,0,0,43,40,0,0,0,0,0,0,0,0,0,43,40,"£159,056.00",£0.00,"£26,805.00",£111.98,"£40,901.96","£21,235.33","£248,110.27",£0.00,£0.00,£0.00,"£248,110.27"
+2023,November,Natural England,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,118,103.83,462,436.98,2242,2085.92,345,326.72,29,27.25,10,9.65,"3,206","2,990",20,19.6,0,0,0,0,20,20,4,"3,226","3,010","£8,179,337.98","£91,549.95","£2,100.00","£42,261.62","£2,227,558.81","£804,997.62","£11,347,805.98","£55,000.00","£69,875.00","£124,875.00","£11,472,680.98"
+2023,November,Royal Botanic Gardens Kew,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,313,224.49,270,226.7,320,302.24,89,86.61,14,14,98,93.12,"1,104",947,0,0,21,21,0,0,21,21,0,"1,125",968,"£3,080,223.81","£23,547.27",£0.00,"£41,014.83","£533,289.65","£321,506.48","£3,999,582.04","£426,615.59",£0.00,"£426,615.59","£4,426,197.63"
+2023,November,Sea Fish Industry Authority,Executive Non-Departmental Public Body,Department for Environment Food and Rural Affairs,28,26.56,34,33.6,22,21.11,0,0,5,5,0,0,89,86,0,0,0,0,0,0,0,0,0,89,86,"£318,605.98","£8,103.72",£0.00,£0.00,"£43,875.09","£32,410.53","£402,995.32",£0.00,£0.00,£0.00,"£402,995.32"
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00

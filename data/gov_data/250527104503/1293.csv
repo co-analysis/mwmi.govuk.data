@@ -1,0 +1,98 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour:
+Headcount","Non-payroll staff;
+Total Contingent labour:
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2022,April,"Department for Levelling Up, Housing and Communities",Ministerial Department,Ministry of Housing Communities and Local Government,59,56,336,329,1416,1389,1361,1325,181,174,2,1,"3,355","3,274",1,1,77,76,0,0,78,77,40,"3,433","3,351","£11,408,205.75","£330,166.93","£99,820.00","£69,096.45","£3,356,014.39","£1,504,333.38","£16,767,636.90","£666,988.26","£395,043.77","£1,062,032.03","£17,829,668.93"
+2022,April,Planning Inspectorate,Executive Agency,Ministry of Housing Communities and Local Government,141,128.2,95,88.7,144,136.1,415,371.4,4,4,0,0,799,728,13,13,0,0,75,16.5,88,30,0,887,758,"£2,649,089.21","£57,967.39",£0.00,"£10,415.74","£729,669.33","£315,309.81","£3,762,451.48","£115,553.80",£0.00,"£115,553.80","£3,878,005.28"
+2022,April,Queen Elizabeth II Conference Centre,Executive Agency,Ministry of Housing Communities and Local Government,3,3,9,9,25,25,4,4,1,1,0,0,42,42,6,6,0,0,0,0,6,6,0,48,48,"£151,690.88",£872.00,£0.00,"£9,558.36","£39,478.93","£17,462.89","£219,063.06","£15,326.93",£0.00,"£15,326.93","£234,389.99"
+2022,April,Homes England,Executive Non-Departmental Public Body,Ministry of Housing Communities and Local Government,0,0,259,254.4,841,824.8,174,172.4,33,32.6,0,0,"1,307","1,284",46,46,4,4,50,49.2,100,99,0,"1,407","1,383","£5,621,251.41","£389,520.16","£1,875.00","£6,416.84","£1,593,926.05","£741,683.97","£8,354,673.43","£1,231,690.86",£0.00,"£1,231,690.86","£9,586,364.29"
+2022,April,Housing Ombudsman Service,Executive Non-Departmental Public Body,Ministry of Housing Communities and Local Government,0,0,0,0,0,0,0,0,0,0,110,104.8,110,105,16,16,0,0,0,0,16,16,0,126,121,"£408,685.74",£0.00,£0.00,"£8,263.45","£112,543.65","£50,886.68","£580,379.52","£61,346.73",£0.00,"£61,346.73","£641,726.25"
+2022,April,Leasehold Advisory Service,Executive Non-Departmental Public Body,Ministry of Housing Communities and Local Government,4,2.6,1,1,18,16.1,0,0,1,1,0,0,24,21,0,0,0,0,0,0,0,0,0,24,21,"£81,950.50",£0.00,£0.00,£0.00,"£9,032.65","£9,604.67","£100,587.82",£0.00,£0.00,£0.00,"£100,587.82"
+2022,April,Valuation Tribunal Service,Executive Non-Departmental Public Body,Ministry of Housing Communities and Local Government,11,10.3,29,28.8,8,8,6,6,1,1,0,0,55,54,0,0,0,0,0,0,0,0,0,55,54,"£177,673.45",£866.47,£0.00,£0.00,"£28,453.83","£20,712.41","£227,706.16",£0.00,£0.00,£0.00,"£227,706.16"
+2022,April,Regulator of Social Housing,Executive Non-Departmental Public Body,Ministry of Housing Communities and Local Government,12,11.9,61,59.7,59,58.6,61,60.4,8,8,0,0,201,199,0,0,0,0,0,0,0,0,0,201,199,"£865,372.31","£60,019.18",£0.00,£0.00,"£263,010.82","£115,545.57","£1,303,947.88",£0.00,£0.00,£0.00,"£1,303,947.88"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

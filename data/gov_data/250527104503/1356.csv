@@ -1,0 +1,72 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2022,September,Department For Transport,Ministerial Department,Department For Transport,154,138.6,361,352.18,1526,1499.19,1520,1487.39,229,220.03,0,0,3790,3697.39,15,15,0,0,18,18,0,0,33,33,3823,3730.39,15475299.17,182921.01,290387.37,67904.36,4161334.48,2009913.72,22187760.11,"347,668.08","4,833,422.43",5181090.51,27368850.62
+2022,September,Active Travel England,Executive Agency,Department For Transport,0,0,1,1,10,7.91,10,9.4,5,5,0,0,26,23.31,0,0,0,0,1,1,0,0,1,1,27,24.31,176638.39,166.66,0,0,49705.12,22480.6,248990.77,0,51756.31,51756.31,300747.08
+2022,September,Driver and Vehicle Licensing Agency,Executive Agency,Department For Transport,4201,3591.41,928,876.26,1009,972.5,292,279.07,8,7.61,0,0,6438,5726.84,0,0,0,0,5,4.18,0,0,5,4.18,6443,5731.02,13168528,427896,365397,143487,3504750,1449074,19059132,103453,-4689,98764,19157896
+2022,September,Driver and Vehicle Standards Agency,Executive Agency,Department For Transport,1133,1059.13,2608,2431.49,1006,983.62,128,127.34,8,7.75,0,0,4883,4609.33,48,48,8,8,12,12,0,0,68,68,4951,4677.33,11394430,786176,92959,403792,3031805,1440461,17149623,395463,1969,397432,17547055
+2022,September,Maritime and Coastguard Agency,Executive Agency,Department For Transport,249,235.51,221,213.1,557,545.47,166,160.91,8,7.65,0,0,1201,1162.64,15,15,0,0,0,0,0,0,15,15,1216,1177.64,3646462.77,329604.54,36100,107746.23,974218.54,479990.14,5574122.22,171771,33385,205156,5779278.22
+2022,September,Vehicle Certification Agency,Executive Agency,Department for Transport,44.32,46.85,36.61,40,82,80.12,24,24,23,23,0,0,210,213.97,1,1,0,0,0,0,0,0,1,1,211,214.97,662495,27583,3600,9860,164882,78177,946597,9624,0,9624,956221
+2022,September,British Transport Police Authority,Executive Non-Departmental Public Body,Department For Transport,0,0,0,0,4,4,6,4.81,4,4,0,0,14,12.81,1,1,0,0,0,0,0,0,1,1,15,13.81,68536,3379,0,0,9375,9061,90351,53637,3600,57237,147588
+2022,September,High Speed 2,Executive Non-Departmental Public Body,Department For Transport,86,85.69,79,78.6,530,525.18,824,818.77,285,283.51,0,0,1804,1791.75,78,78,72,72,168,166.6,0,0,318,316.6,2122,2108.35,10646440.15,0,0,0,1133669.01,1251035.84,13031145,1728091.27,0,1728091.27,14759236.27
+2022,September,Northern Lighthouse Board,Executive Non-Departmental Public Body,Department For Transport,21,5.16,17,15.8,70,69.6,17,17,3,3,67,61.73,195,172.29,21,11.06,0,0,0,0,0,0,21,11.06,216,183.35,646797.23,9922.92,0,22855.54,179932.91,83134.2,942642.8,71003.66,0,71003.66,1013646.46
+2022,September,Transport Focus,Executive Non-Departmental Public Body,Department For Transport,0,0,7,6.1,21,21,12,10.95,4,4,0,0,44,42.05,4,1,0,0,4,1,0,0,8,2,52,44.05,179606,2066,550,0,48061,22397,252680,17920,0,17920,270600
+2022,September,Trinity House,Executive Non-Departmental Public Body,Department For Transport,0,0,0,0,0,0,0,0,0,0,286,274,286,274,13,13,0,0,0,0,0,0,13,13,299,287,889787.97,3497.88,0,25935.53,239897.44,109799.24,1268918.06,43724.79,0,43724.79,1312642.85

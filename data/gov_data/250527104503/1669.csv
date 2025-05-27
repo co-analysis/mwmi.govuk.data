@@ -1,0 +1,70 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2023,July,Department for Transport,Ministerial Department,Department for Transport,159,139.26,324,315.43,1576,1543.7,1579,1542.29,234,224.18,0,0,"3,872","3,765",5,5,19,18,0,0,24,23,0,"3,896","3,788","£21,051,451.99","£180,175.11","£559,295.03","£57,834.30","£4,365,378.64","£2,611,491.23","£28,825,626.30","£233,374.32","£6,175,482.50","£6,408,856.82","£35,234,483.12"
+2023,July,Driver and Vehicle Licensing Agency,Executive Agency,Department for Transport,3896,3314.05,868,818.25,1011,977.4,302,290.27,7,7,0,0,"6,084","5,407",0,0,1,1,0,0,1,1,0,"6,085","5,408","£12,363,290.00","£293,739.00","£9,085,178.00","£95,914.00","£3,364,467.00","£2,449,057.00","£27,651,645.00","£21,549.00","£30,996.00","£52,545.00","£27,704,190.00"
+2023,July,Driver and Vehicle Standards Agency,Executive Agency,Department for Transport,1143,1067.69,2607,2410.34,1005,978.09,132,131.14,9,8.75,0,0,"4,896","4,596",42,42,24,44,0,0,66,86,0,"4,962","4,682","£17,820,186.00","£748,158.00","£78,150.00","£415,081.00","£2,994,107.00","£2,197,790.00","£24,253,472.00","£444,743.00","£53,135.00","£497,878.00","£24,751,350.00"
+2023,July,Maritime and Coastguard Agency,Executive Agency,Department for Transport,265,249.45,219,211.77,564,554.08,180,174.59,8,7.65,0,0,"1,236","1,198",12,12,0,0,0,0,12,12,0,"1,248","1,210","£3,509,986.67","£346,037.81","£1,718,499.82","£87,349.16","£969,126.87","£649,798.12","£7,280,798.45","£90,370.00","£271,874.00","£362,244.00","£7,643,042.45"
+2023,July,Vehicle Certification Agency,Executive Agency,Department for Transport,45,40.14,50,47.03,99,95.35,16,16,1,1,0,0,211,200,5,5,0,0,0,0,5,5,0,216,205,"£635,883.00","£298,868.00","£1,550.00","£11,344.00","£159,974.00","£107,944.00","£1,215,563.00","£21,528.00",£0.00,"£21,528.00","£1,237,091.00"
+2023,July,British Transport Police Authority,Executive Non-Departmental Public Body,Department for Transport,0,0,0,0,4,4,4,3.61,4,4,0,0,12,12,0,0,0,0,0,0,0,0,0,12,12,"£64,500.00","£3,258.00",£0.00,£0.00,"£8,871.00","£7,132.00","£83,761.00",£0.00,"£14,922.00","£14,922.00","£98,683.00"
+2023,July,High Speed 2,Executive Non-Departmental Public Body,Department for Transport,83,82.49,70,70,583,578.19,883,877.86,312,311.03,0,0,"1,931","1,920",0,0,295,292.39,0,0,295,292,0,"2,226","2,212","£12,563,963.63",£0.00,£0.00,£0.00,"£1,435,405.37","£1,476,879.14","£15,476,248.14","£1,852,825.45",£0.00,"£1,852,825.45","£17,329,073.59"
+2023,July,Northern Lighthouse Board,Executive Non-Departmental Public Body,Department for Transport,22,6.01,17,15.8,70,69.4,18,18,3,3,75,69.73,205,182,14,6.66,0,0,0,0,14,7,0,219,189,"£679,498.65","£16,371.73",£0.00,"£31,590.47","£189,180.20","£89,154.79","£1,005,795.84","£31,795.98",£0.00,"£31,795.98","£1,037,591.82"
+2023,July,Transport Focus,Executive Non-Departmental Public Body,Department for Transport,0,0,7,6.3,20,19.6,13,12.2,3,3,0,0,43,41,3,2.6,3,0.9,0,0,6,4,0,49,45,"£181,093.00","£1,651.00","-£6,390.00",£0.00,"£49,502.00","£20,817.00","£246,673.00","£31,801.00",£0.00,"£31,801.00","£278,474.00"
+2023,July,Trinity House,Executive Non-Departmental Public Body,Department for Transport,0,0,0,0,0,0,0,0,0,0,284,274,284,274,9,9,0,0,0,0,9,9,0,293,283,"£931,532.48","£6,848.21",£0.00,"£31,873.60","£253,674.31","£108,055.19","£1,331,983.79","£43,607.06",£0.00,"£43,607.06","£1,375,590.85"
+2023,July,Active Travel England,Executive Agency,Department for Transport,0,0,3,2.81,35,33.39,39,38.06,5,5,0,0,82,79,0,0,0,0,0,0,0,0,0,82,79,"£256,969.14","£2,916.63","£74,889.54",£0.00,"£69,325.26","£38,963.95","£443,064.52","£6,842.00",£0.00,"£6,842.00","£449,906.52"
