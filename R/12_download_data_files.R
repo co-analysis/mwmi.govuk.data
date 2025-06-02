@@ -44,11 +44,14 @@ data_links_results_type <- data_links_results %>%
   mutate(type="") %>%
   mutate(type=ifelse(is.na(dl_result),"new",type)) %>%
   mutate(type=ifelse(type=="" & dl_result!="Successful","failed",type)) %>%
-  mutate(type=ifelse(type=="" & dl_result=="Successful" & (public_timestamp>prev_public_timestamp | updated_at>prev_updated_at),"updated",type)) %>%
+  # mutate(type=ifelse(type=="" & dl_result=="Successful" & (public_timestamp>prev_public_timestamp | updated_at>prev_updated_at),"updated",type)) %>%
+  mutate(type=ifelse(type=="" & dl_result=="Successful" & (public_timestamp>prev_public_timestamp),"updated_public",type)) %>%
+  mutate(type=ifelse(type=="" & dl_result=="Successful" & (updated_at>prev_updated_at),"updated",type)) %>%
   mutate(type=ifelse(type=="" & dl_result=="Successful","existing",type))
 
+# NOTE: 'updated_at' appears to be returning invalid results, but will need to be monitored in case removing this drops actual changes
 data_links_toproc <- data_links_results_type %>%
-  filter(type!="existing") %>%
+  filter(!type%in%c("existing","updated")) %>% 
   mutate(dl_index=1:n())
 
 ####################################################################################################

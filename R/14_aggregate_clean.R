@@ -59,7 +59,7 @@ a2 %>%
   mutate(n=n()) %$% table(n)
 
 
-head(a2)
+# head(a2)
 
 
 # a3 <- a2 %>%
