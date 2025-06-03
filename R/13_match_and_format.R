@@ -9,6 +9,7 @@ text_sanitiser <- function(x) {
     tolower() %>%
     gsub("[^a-z0-9]+"," ",.) %>%
     gsub(" $","",.) %>%
+    gsub("^ ","",.) %>%
     {.}
 }
 
