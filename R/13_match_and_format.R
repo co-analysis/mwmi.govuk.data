@@ -4,8 +4,9 @@ source("pack/all_packages.R",local=TRUE)
 # Standardise characters
 text_sanitiser <- function(x) {
   x %>%
+    iconv(to="UTF-8") %>%
     gsub("(\r)|(\n)|(\t)"," ",.) %>%
-    iconv(to="latin1") %>%
+    # iconv(to="latin1") %>%
     tolower() %>%
     gsub("[^a-z0-9]+"," ",.) %>%
     gsub(" $","",.) %>%
@@ -182,8 +183,10 @@ formed_data <- allraw %>%
   filter(!group%in%c("date","org")) %>%
   left_join(year_month) %>%
   left_join(dept_body) %>%
-  mutate(value=stri_trans_general(value,"latin-ascii") %>% iconv(to="latin1",sub="") %>% gsub("[^0-9\\.]","",.) %>% as.numeric(value))
-  # mutate(value=value %>% gsub("[^0-9\\.]","",.) %>% as.numeric(value))
+  # mutate(value=stri_trans_general(value,"latin-ascii") %>% iconv(to="latin1",sub="") %>% gsub("[^0-9\\.]","",.) %>% as.numeric(value))
+  mutate(value=stri_trans_general(value,"latin-ascii") %>% iconv(to="UTF-8",sub="") %>% gsub("[^0-9\\.]","",.) %>% as.numeric(value))
+
+# mutate(value=value %>% gsub("[^0-9\\.]","",.) %>% as.numeric(value))
 
 saveRDS(formed_data,paste0("data/output/formed_data_",time_stamp,".rds"))
 
