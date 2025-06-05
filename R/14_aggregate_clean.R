@@ -3,9 +3,22 @@ source("pack/all_packages.R",local=TRUE)
 
 df <- list.files("data/output","^formed_data_[0-9]{12}.rds",full.names=T)
 
+# Clean up org names
+org_clean <- function(x) {
+  x %>%
+    gsub(",","",.) %>%
+    gsub(" \\([A-Z]+\\)$","",.) %>%
+    gsub("Inovation","Innovation",.) %>%
+    gsub(" For "," for ",.) %>%
+    gsub("&"," and ",.) %>%
+    gsub(" +"," ",.)
+  }
+
 # Load all formatted data
 alldata <- map(df,readRDS) %>%
-  bind_rows()
+  bind_rows() %>%
+  mutate(Department=org_clean(Department)) %>%
+  mutate(Body=org_clean(Body))
 ts <- unique(alldata$time_stamp)
 
 # Timestamps of publication
