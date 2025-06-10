@@ -3,7 +3,7 @@
 # load libraries
 source("pack/all_packages.R",local=TRUE)
 
-time_stamp <- Sys.time() %>% gsub("[^0-9]","",.) %>% gsub("^20","",.)
+time_stamp <- Sys.time() %>% gsub("[^0-9]","",.) %>% gsub("^20","",.) %>% gsub("^([0-9]{12}).*","\\1",.)
 
 # Function to query gov.uk search api
 # https://www.gov.uk/api/search.json?q=taxes
