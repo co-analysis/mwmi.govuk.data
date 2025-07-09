@@ -19,7 +19,6 @@ dir.create(dl_stem)
 ####################################################################################################
 # TODO: rewrite now that dl_results is only partial...
 
-
 # previous dl results
 # filter to latest?
 all_dl_results <- list.files("data/gov_data/","^dl_results",recursive=TRUE,full.names=TRUE) %>%
