@@ -1,0 +1,70 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2024,April,Department for Education,Ministerial Department,Department for Education,77,71.1,692,667.7,3410,3287.7,2872,2763.2,234,221,19,18,7304,7029,35,35,98,87.8,0,0,133,123,,7437,7152,"£28,202,482.38","£303,715.01","£5,790.08","£51,782.68","£8,154,085.83","£3,367,828.77","£40,085,684.75","£1,678,709.89","£90,206.69","£1,768,916.58","£41,854,601.33"
+2024,April,Education & Skills Funding Agency ,Executive Agency,Department for Education,2,1.7,42,40.5,481,463.4,210,204.7,19,18.9,0,0,754,729,0,0,1,1,0,0,1,1,,755,730,"£2,710,652.63","£26,287.55","£3,550.00","£1,707.95","£782,934.27","£314,338.84","£3,839,471.24","£11,331.40","-£74,249.60","-£62,918.20","£3,776,553.04"
+2024,April,Teaching Regulation Authority,Executive Agency,Department for Education,10,10,40,38.4,41,38.9,8,7.8,1,1,0,0,100,96,5,5,0,0,0,0,5,5,0,105,101,"£284,377.66","£3,339.14","-£1,200.00","£2,902.09","£78,160.74","£29,642.68","£397,222.31","£11,777.32",£0.00,"£11,777.32","£408,999.63"
+2024,April,Standards and Testing Agency,Executive Agency,Department for Education,0,0,17,16.6,77,73.1,33,31.9,4,4,0,0,131,126,0,0,0,0,0,0,0,0,0,131,126,"£488,162.19","£4,568.41","£3,300.00","£2,285.64","£140,232.47","£57,207.63","£695,756.34",£0.00,£0.00,£0.00,"£695,756.34"
+2024,April,The Office of the Children's Commissioner,Executive Non-Departmental Public Body,Department for Education,0,0,1,1,17,16.8,8,7.7,3,3,0,0,29,29,0,0,0,0,0,0,0,0,0,29,29,"£130,590.76",£116.22,£0.00,£0.00,"£34,261.09","£14,899.40","£179,867.47",£0.00,£0.00,£0.00,"£179,867.47"
+2024,April,Construction Industry Training Board,Executive Non-Departmental Public Body,Department for Education,3,3,47,42.8,491,480.9,254,252.4,7,6.2,0,0,802,785,20,20,0,0,0,0,20,20,0,822,805,"£2,926,201.35","£217,980.01",£0.00,"£11,294.74","£218,376.22","£321,826.15","£3,695,678.47","£171,904.82",£0.00,"£171,904.82","£3,867,583.29"
+2024,April,Engineering Construction Industry Training Board,Executive Non-Departmental Public Body,Department for Education,12,12,43,42.4,40,38.3,4,4,1,1,0,0,100,98,0,0,1,0.1,3,0.3,4,0,4,104,98,"£431,279.17","£48,412.66","£214,617.00",£0.00,"£62,135.90","£84,859.93","£841,304.66",£0.00,"£3,976.11","£3,976.11","£845,280.77"
+2024,April,Office for Students,Executive Non-Departmental Public Body,Department for Education,17,16.4,14,13,231,216.8,205,191.1,23,22.8,0,0,490,460,5,5,4,4,0,0,9,9,0,499,469,"£1,877,704.00","£36,841.00",£0.00,£650.00,"£533,359.00","£192,638.00","£2,641,192.00","£105,695.00",£0.00,"£105,695.00","£2,746,887.00"
+2024,April,Student Loans Company Ltd,Executive Non-Departmental Public Body,Department for Education,1542,1442.8,484,464.8,931,907,336,330.5,45,44.6,0,0,3338,3190,2,2,2,2,0,0,4,4,0,3342,3194,"£8,337,381.67","£122,903.92","£12,740.98","£179,775.67","£2,082,177.49","£839,443.60","£11,574,423.33","£23,931.97",£0.00,"£23,931.97","£11,598,355.30"
+2024,April,Institute for Apprenticeships and Technical Education,Executive Non-Departmental Public Body,Department for Education,5,5,10,9.4,120,117.7,172,167.1,16,15.2,0,0,323,314,0,0,0,0,6,6,6,6,0,329,320,"£1,384,149.44",£0.00,£0.00,£0.00,"£394,219.24","£173,902.17","£1,952,270.85","£79,688.40",£0.00,"£79,688.40","£2,031,959.25"
+2024,April,LocatEd,Executive Non-Departmental Public Body,Department for Education,0,0,0,0,0,0,0,0,1,0.6,53,52.4,54,53,0,0,0,0,0,0,0,0,0,54,53,"£327,069.65",£0.00,£0.00,£0.00,"£17,009.27","£36,783.83","£380,862.75",£0.00,£0.00,£0.00,"£380,862.75"
