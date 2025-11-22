@@ -1,0 +1,73 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2025,October,Department of Health and Social Care (excl agencies),Ministerial Department,Department of Health and Social Care,28,25.02,293,284.58,1405,1366.02,1638,1576.82,230,223.18,12,11.4,"3,606","3,487",7,7,4,4,4,4,15,15,0,"3,621","3,502","£16,357,627.21","-£25,975.74","£286,266.67","£27,853.96","£4,619,463.78","£2,483,022.17","£23,748,258.05","£167,004.38",£0.00,"£167,004.38","£23,915,262.43"
+2025,October,Care Quality Commission ,Executive Non-Departmental Public Body,Department of Health and Social Care,188,177.81,381,363.71,2126,2036.24,730,698.1,149,145,70,44.08,"3,644","3,465",18,18,19,19,3,3,40,40,0,"3,684","3,505","£12,563,755.00","£145,140.00",£0.00,"£204,035.00","£1,757,612.00","£1,833,103.00","£16,503,645.00","£452,208.57",£0.00,"£452,208.57","£16,955,853.57"
+2025,October,Health Research Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,0,0,78,73.47,130,123.1,62,60.23,7,7,0,0,277,264,0,0,3,1.56,0,0,3,2,0,280,265,"£1,104,580.78",£0.00,£0.00,£0.00,"£138,755.80","£145,718.74","£1,389,055.32","£17,107.50",£0.00,"£17,107.50","£1,406,162.82"
+2025,October,Human Fertilisation & Embryology Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,1,1,22,19.05,46,41.93,12,11.32,4,4,0,0,85,77,0,0,0,0,2,2,2,2,0,87,79,"£322,144.00",£0.00,£0.00,£0.00,"£97,933.00","£48,812.00","£468,889.00",£0.00,£0.00,£0.00,"£468,889.00"
+2025,October,Human Tissue Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,0,0,10,10,35,34.8,10,10,5,4.7,0,0,60,60,0,0,0,0,0,0,0,0,0,60,60,"£285,147.32","£1,000.00",£0.00,"£3,735.60","£61,463.91","£39,138.59","£390,485.42",£0.00,£0.00,£0.00,"£390,485.42"
+2025,October,Medicines & Healthcare products Regulatory Agency,Executive Agency,Department of Health and Social Care,40,40,213,207.75,585,575.71,579,565.75,160,145.02,0,0,"1,577","1,534",22,22,4,4,0,0,26,26,0,"1,603","1,560","£6,464,786.42","£3,072.39","£119,284.55","£60,032.83","£2,150,463.12","£1,084,703.02","£9,882,342.33","£81,504.13",£0.00,"£81,504.13","£9,963,846.46"
+2025,October,National Institute for Health and Care Excellence,Executive Non-Departmental Public Body,Department of Health and Social Care,4,3.37,111,103.65,310,285.87,344,314.45,71,62.55,0,0,840,770,0,0,7,7,0,0,7,7,2,847,777,"£3,941,850.05","£4,279.22",£0.00,£0.00,"£883,929.18","£543,983.28","£5,374,041.73","£104,265.00","£75,737.65","£180,002.65","£5,554,044.38"
+2025,October,NHS Blood & Transplant,Executive Non-Departmental Public Body,Department of Health and Social Care,2166,1766.88,1520,1386.74,2058,1886.42,824,803.53,95,92.55,54,48.93,"6,717","5,985",8,8,18,18,19,19,45,45,0,"6,762","6,030","£21,495,546.16","£1,260,336.48",£0.00,"£577,164.38","£3,001,152.88","£3,087,768.20","£29,421,968.10","£137,941.01",£0.00,"£137,941.01","£29,559,909.11"
+2025,October,NHS Business Services Authority,Executive Non-Departmental Public Body,Department of Health and Social Care,2488,2276.12,1374,1306.89,1032,1007.48,503,487.26,59,58.8,0,0,"5,456","5,137",92,92,0,0,0,0,92,92,0,"5,548","5,229","£15,135,852.42","£46,909.82",£0.00,"£258,122.79","£3,073,299.75","£1,929,209.06","£20,443,393.84","£284,745.19",£0.00,"£284,745.19","£20,728,139.03"
+2025,October,NHS England,Executive Non-Departmental Public Body,Department of Health and Social Care,81,65.1,1925,1813.7,3651,3498.9,7688,7382.4,1146,1032.7,1187,416.2,"15,678","14,209",114,103.4,11,11,0,0,125,114,0,"15,803","14,323","£82,776,654.00","£191,581.00",£0.00,"£31,791.00","£10,864,986.00","£11,177,697.00","£105,042,709.00","£738,698.18",£0.00,"£738,698.18","£105,781,407.18"
+2025,October,NHS Resolution,Executive Non-Departmental Public Body,Department of Health and Social Care,9,8,153,147.38,349,338.79,350,333.44,8,8,0,0,869,836,2,2,0,0,0,0,2,2,0,871,838,"£3,678,670.41","£299,224.90",£0.00,"£1,512.39","£485,264.81","£515,352.85","£4,980,025.36","£73,366.39",£0.00,"£73,366.39","£5,053,391.75"
+2025,October,UK Health Security Agency,Executive Agency,Department of Health and Social Care,512,470.55,705,672.07,2433,2337.76,1817,1759.54,316,284.34,18,14.02,"5,801","5,538",31,29,21,21,0,0,52,50,3,"5,853","5,588","£25,197,339.27","£670,599.81","£82,277.78","£200,970.40","£6,273,495.94","£3,524,837.51","£35,949,520.71",£0.00,£0.00,£0.00,"£35,949,520.71"
+2025,October,NHS Counter Fraud Authority,Special Health Authority,Department of Health and Social Care,1,1,46,44.89,117,113.21,63,61.93,3,3,1,0.5,231,225,0,0,0,0,0,0,0,0,0,231,225,"£1,024,524.37",£710.36,£0.00,"£2,508.03","£210,662.74","£135,098.37","£1,373,503.87",£0.00,£0.00,£0.00,"£1,373,503.87"
+2025,October,Health Services Safety Investigations Body,Special Health Authority,Department of Health and Social Care,3,3,2,2,9,7.8,31,25.27,9,9,0,0,54,47,0,0,0,0,0,0,0,0,0,54,47,"£300,476.68","£1,912.63",£0.00,£0.00,"£36,615.79","£41,862.74","£380,867.84",£0.00,£0.00,£0.00,"£380,867.84"
