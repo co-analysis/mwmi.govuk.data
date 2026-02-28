@@ -1,0 +1,83 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2026,January,Cabinet Office,Ministerial Department,Cabinet Office,375,334.22,623,603.65,2046,2007.1,1879,1842.36,100,95.86,344,336.57,"5,367","5,220",49,48.14,259,240.5,0,0,308,289,4,"5,675","5,508","£23,352,599.44","£1,146,976.21","£63,327.65","£297,960.19","£6,639,218.01","£3,383,719.54","£34,883,801.04","£2,750,099.00","£125,765.40","£2,875,864.40","£37,759,665.44"
+2026,January,Civil Service Commission,Executive Non-Departmental Public Body,Cabinet Office,1,0.6,1,1,15,14.6,6,6,1,1,0,0,24,23,,,,,,,0,0,0,24,23,"£189,945.97","£1,013.33","£1,350.00",£0.00,"£27,505.86","£22,904.32","£242,719.48",£0.00,£0.00,£0.00,"£242,719.48"
+2026,January,Crown Commercial Service,Executive Agency,Cabinet Office,9,9,82,77.7,412,387.9,209,200.5,27,26.9,,,739,702,,,41,40.9,,,41,41,,780,743,"£2,982,508.76","£68,456.80","£12,898.42",£0.00,"£860,196.73","£414,113.13","£4,338,173.84","£421,970.24","£120,272.75","£542,242.99","£4,880,416.83"
+2026,January,Government Property Agency,Executive Agency,Cabinet Office,3,2.89,15,14.1,161,158.8,248,243.77,34,33.43,0,0,461,453,57,55.4,,,,,57,55,,518,508,"£2,119,975.00","£138,658.00",£0.00,£0.00,"£607,934.00","£310,081.00","£3,176,648.00","£555,112.28","£111,186.90","£666,299.18","£3,842,947.18"
+2026,January,Equality and Human Rights Commission,Crown Non-Departmental Public Body,Cabinet Office,0,0,9,8.4,101,95.6,66,62.6,10,10,0,0,186,177,2,1.6,2,2,0,0,4,4,0,190,180,"£747,582.00","£7,422.00",£0.00,£0.00,"£216,633.00","£101,522.00","£1,073,159.00","£15,688.00",,"£15,688.00","£1,088,847.00"
+2026,January,Government Commercial Organisation,Other,Cabinet Office,0,0,0,0,2,2,1337,1314.37,207,205.8,,,"1,546","1,522",,,,,,,0,0,,"1,546","1,522","£10,167,118.43","£214,481.97","£20,000.00",£456.48,"£1,428,168.19","£1,461,605.85","£13,291,830.92",,,£0.00,"£13,291,830.92"
+2026,January,Central Civil Service Fast Stream,Other,Cabinet Office,0,0,0,0,2109,2106.86,3,3,0,0,,,"2,112","2,110",,,,,,,0,0,,"2,112","2,110","£6,292,429.42","£357,641.64","£16,687.00","£3,041.75","£1,798,402.53","£867,760.29","£9,335,962.63",,,£0.00,"£9,335,962.63"
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
