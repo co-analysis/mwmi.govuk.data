@@ -1,0 +1,68 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2026,March,"Ministry of Housing, Communities and Local Government",Ministerial Department,"Ministry of Housing, Communities and Local Government",36,34.4,209,201.7,1434,1390.92,1909,1856.91,191,182.86,0,0,"3,779","3,667",0,0,0,0,33,31.6,33,32,62,"3,874","3,698","£18,656,251.92","£800,782.05","£1,409,425.00",£64.45,"£7,797,272.83","£3,085,599.80","£31,749,396.05","£374,755.56","£1,866,774.88","£2,241,530.44","£33,990,926.49"
+2026,March,Planning Inspectorate,Executive Agency,"Ministry of Housing, Communities and Local Government",158,143.9,98,92.9,270,259.6,555,508.6,6,5.9,0,0,"1,087","1,011",19,19,0,0,73,14.3,92,33,0,"1,179","1,044","£4,375,773.60","£118,534.12","£85,000.00","£8,241.43","£1,261,846.62","£618,316.23","£6,467,712.00","£127,214.73",£0.00,"£127,214.73","£6,594,926.73"
+2026,March,Queen Elizabeth II Conference Centre,Executive Agency,"Ministry of Housing, Communities and Local Government",1,1,16,15.8,29,29,4,4,1,1,0,0,51,51,9,9,0,0,0,0,9,9,1,61,61,"£196,049.77","£1,895.33",£500.00,"£19,659.98","£55,311.63","£29,392.99","£302,809.70",£0.00,£0.00,£0.00,"£302,809.70"
+2026,March,Homes England,Executive Non-Departmental Public Body,"Ministry of Housing, Communities and Local Government",0,0,169,164.3,1111,1089.4,293,290.9,45,45,0,0,"1,618","1,590",25,24.6,54,52,0,0,79,77,0,"1,697","1,666","£8,081,888.83","£192,242.94",£0.00,"£6,510.90","£1,526,261.86","£1,142,285.29","£10,949,189.82","£964,887.80",£0.00,"£964,887.80","£11,914,077.62"
+2026,March,Housing Ombudsman Service,Executive Non-Departmental Public Body,"Ministry of Housing, Communities and Local Government",0,0,0,0,0,0,0,0,0,0,602,587.3,602,587,21,21,0,0,0,0,21,21,0,623,608,"£2,616,890.89","£11,080.00",£0.00,"£33,875.80","£555,428.89","£331,273.32","£3,548,548.90","£145,474.67",£0.00,"£145,474.67","£3,694,023.57"
+2026,March,HM Land Registry,Non-Ministerial Department,"Ministry of Housing, Communities and Local Government",1450,1329.5,2512,2202.4,2774,2484,379,360.6,33,32.7,0,0,"7,148","6,409",0,0,348,348,0,0,348,348,1,"7,497","6,758","£21,278,070.13","£326,224.32",£550.00,"£2,361,871.52","£5,824,120.51","£6,258,749.83","£36,049,586.31","£978,469.30","£40,224.65","£1,018,693.95","£37,068,280.26"
+2026,March,Leasehold Advisory Service,Executive Non-Departmental Public Body,"Ministry of Housing, Communities and Local Government",0,0,4,4,19,17,19,18.6,1,1,0,0,43,41,0,0,0,0,0,0,0,0,0,43,41,"£193,576.38",£0.00,£0.00,£0.00,"£18,419.41","£25,161.63","£237,157.42",£0.00,£0.00,£0.00,"£237,157.42"
+2026,March,Regulator of Social Housing,Executive Non-Departmental Public Body,"Ministry of Housing, Communities and Local Government",18,17.9,81,78.6,140,136.4,106,103,10,10,0,0,355,346,0,0,0,0,0,0,0,0,0,355,346,"£1,800,103.00","£22,743.00",£0.00,£0.00,"£519,396.00","£249,886.00","£2,592,128.00",£0.00,£0.00,£0.00,"£2,592,128.00"
+2026,March,Valuation Tribunal Service,Executive Non-Departmental Public Body,"Ministry of Housing, Communities and Local Government",20,19.7,5,5,32,31.5,5,5,1,1,0,0,63,62,0,0,0,0,0,0,0,0,0,63,62,"£232,899.48","£1,172.16",£0.00,£0.00,"£35,333.91","£31,116.81","£300,522.36",£0.00,£0.00,£0.00,"£300,522.36"
