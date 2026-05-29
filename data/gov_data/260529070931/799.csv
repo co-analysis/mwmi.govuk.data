@@ -1,0 +1,83 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2026,April,"Foreign, Commonwealth & Development Office",Ministerial Department,"Foreign, Commonwealth & Development Office",310,300.46,574,564.31,2927,2901.19,3227,3159.15,516,511.8,0,0,"7,554","7,437",11,11,112,112,77,77,200,200,0,"7,754","7,637","-£1,022,404.84","£1,874,562.19","-£37,133.65","£528,715.24","£9,249,506.73","£3,969,766.91","£14,563,012.58","£3,772,259.94","£105,185.90","£3,877,445.84","£18,440,458.42"
+2026,April,Wilton Park Executive Agency,Executive Agency,"Foreign, Commonwealth & Development Office",10,8.93,27,23.91,34,30.99,12,11.23,4,4,0,0,87,79,0,0,0,0,0,0,0,0,0,87,79,"£286,652.88","£2,623.09",£0.00,"£1,935.71","£82,276.32","£38,211.68","£411,699.68",£0.00,£0.00,£0.00,"£411,699.68"
+2026,April,British Council,Executive Non-Departmental Public Body,"Foreign, Commonwealth & Development Office",5,4,94,87.83,507,476.77,271,263.63,119,118.89,0,0,996,951,54,32.42,23,20.03,0,0,77,52,0,"1,073","1,004","£4,202,025.24","£302,513.05",£0.00,"£7,415.46","£1,250,262.81","£535,333.60","£6,297,550.16","£2,800,914.54",£0.00,"£2,800,914.54","£9,098,464.70"
+2026,April,Great Britain - China Centre,Executive Non-Departmental Public Body,"Foreign, Commonwealth & Development Office",0,0,1,0.8,6,6,3,1.93,1,1,0,0,11,10,0,0,1,1,0,0,1,1,0,12,11,"£45,966.81",£0.00,£0.00,£0.00,"£3,529.53","£4,680.33","£54,176.67","£4,833.86",£0.00,"£4,833.86","£59,010.53"
+2026,April,Marshall Aid Commemoration Commission,Executive Non-Departmental Public Body,"Foreign, Commonwealth & Development Office",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00
+2026,April,Westminster Foundation for Democracy,Executive Non-Departmental Public Body,"Foreign, Commonwealth & Development Office",0,0,11,10.71,30,28,27,26,2,2,0,0,70,67,0,0,1,1,0,0,1,1,0,71,68,"£298,944.49",£0.00,£0.00,£0.00,"£81,893.38","£38,169.26","£419,007.13","£6,300.08",£0.00,"£6,300.08","£425,307.21"
+2026,April,FCDO Services,Executive Agency,"Foreign, Commonwealth & Development Office",119,116.92,284,280.83,565,554.43,223,208.96,6,6,0,0,"1,197","1,167",25,25,64,64,0,0,89,89,0,"1,286","1,256","£4,640,470.12","£690,576.24","£5,800.00","£537,521.69","£1,268,681.75","£658,578.21","£7,801,628.01","£1,031,172.87",£0.00,"£1,031,172.87","£8,832,800.88"
+2026,April,Independent Commission for Aid Impact,Executive Non-Departmental Public Body,"Foreign, Commonwealth & Development Office",0,0,0,0,0,0,0,0,0,0,10,6,10,6,0,0,0,0,0,0,0,0,0,10,6,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00
+2026,April,Commonwealth Scholarship Commission,Executive Non-Departmental Public Body,"Foreign, Commonwealth & Development Office",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,£0.00,,,£0.00,£0.00
