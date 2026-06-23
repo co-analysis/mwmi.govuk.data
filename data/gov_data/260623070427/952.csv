@@ -1,0 +1,83 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2026,May,Department for Energy Security and Net Zero,Ministerial Department,Department for Energy Security and Net Zero,25,25,189,181.85,2057,2022.28,2313,2254.39,228,221.67,0,0,"4,812","4,705",0,0,68,61.2,0,0,68,61,24,"4,880","4,766","£22,264,458.00","£930,443.00","£42,657.00","£91,564.00","£6,565,478.00","£3,201,190.00","£33,095,790.00","£303,527.00","-£517,309.00","-£213,782.00","£32,882,008.00"
+2026,May,Civil Nuclear Police Authority,Executive non-departmental public body,Department for Energy Security and Net Zero,1614,1566.25,208,200.7,32,31.1,0,0,0,0,0,0,"1,854","1,798",0,0,6,6,0,0,6,6,0,"1,860","1,804","£6,979,511.21","£238,114.17",£0.00,"£1,001,358.26","£1,477,026.19","£1,131,430.31","£10,827,440.14",£0.00,£0.00,£0.00,"£10,827,440.14"
+2026,May,Mining Remediation Authority,Executive non-departmental public body,Department for Energy Security and Net Zero,,,46,44.8,292,281.1,132,129.5,3,2.4,,,473,458,16,13,0,0,0,0,16,13,0,489,471,"£1,799,259.54","£24,896.72","£1,408.76","£2,312.83","£518,688.55","£496,456.48","£2,843,022.88","£154,006.89",£0.00,"£154,006.89","£2,997,029.77"
+2026,May,Committee on Climate Change,Executive non-departmental public body,Department for Energy Security and Net Zero,0,0,1,1,22,21.9,36,34,6,5.9,0,0,65,63,0,0,0,0,3,2.72,3,3,0,68,66,"£309,822.00",£0.00,£0.00,£0.00,"£91,121.00","£51,353.00","£452,296.00",£0.00,"£27,357.00","£27,357.00","£479,653.00"
+2026,May,Nuclear Decommissioning Authority,Executive non-departmental public body,Department for Energy Security and Net Zero,0,0,0,0,0,0,0,0,0,0,332,326.07,332,326,0,0,39,38.72,0,0,39,39,0,371,365,"£2,370,948.90","£89,331.46",£0.00,£0.00,"£628,939.49","£346,296.31","£3,435,516.16","£416,569.29",£0.00,"£416,569.29","£3,852,085.45"
+2026,May,UK Atomic Energy Authority,Executive non-departmental public body,Department for Energy Security and Net Zero,60,55.5,304,298.11,1193,1168.15,540,522,135,132.89,112,112,"2,344","2,289",0,0,0,0,363,363,363,363,0,"2,707","2,652","£11,200,770.53","£9,341.09","£637,418.37","£59,896.90","£2,173,685.13","£1,691,141.77","£15,772,253.79","£2,158,798.08",£0.00,"£2,158,798.08","£17,931,051.87"
+2026,May,North Sea Transition Authority,Executive non-departmental public body,Department for Energy Security and Net Zero,1,1,10,10,117,113.42,101,99.12,8,8,0,0,237,232,0,0,0,0,0,0,0,0,0,237,232,"£1,510,686.58","£11,092.84","£3,800.00",£0.00,"£432,548.03","£213,667.21","£2,171,794.66",£0.00,£0.00,£0.00,"£2,171,794.66"
+2026,May,Office of Gas and Electricity Market,Non-Ministerial Department,Department for Energy Security and Net Zero,10,9.6,419,412.59,627,621.82,1147,1124.3,107,105.07,0,0,"2,310","2,273",30,30,93,91.74,0,0,123,122,0,"2,433","2,395","£9,706,167.38","£63,753.45",£0.00,"£12,765.82","£2,729,159.07","£1,337,748.78","£13,849,594.50","£1,335,932.00",£0.00,"£1,335,932.00","£15,185,526.50"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
