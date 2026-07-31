@@ -1,0 +1,83 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2025,October,Cabinet Office,Ministerial Department,Cabinet Office,454,404.17822,701,677.83635,2278,2222.60069,1994,1948.77201,93,89.89696,367,357,"5,887","5,700",71,71,330,314.9,0,0,401,386,4,"8,864","8,659","£25,929,303.60 ","£1,098,849.83 ","£1,108,948.04 ","£381,077.01 ","£7,327,618.44 ","£3,910,908.89 ","£39,756,705.81 ","£5,779,611.00 ","£28,644.76 ","£5,808,255.76 ","£45,564,961.57 "
+2025,October,Civil Service Commission,Executive Non-Departmental Public Body,Cabinet Office,1,0.6,4,4,15,14.6,9,8.59,1,1,0,0,30,29,,,,,,,0,0,0,30,29,"£121,123.45 ","£1,013.33 ","£4,500.00 ",£0.00 ,"£35,950.38 ","£17,211.53 ","£179,798.69 ",£0.00 ,£0.00 ,£0.00 ,"£179,798.69 "
+2025,October,Crown Commercial Service,Executive Agency,Cabinet Office,10,10,86,81.97,414,390.53,199,190.3,26,25.9,,,735,699,,,38,37.8,0,0,38,38,,773,737,"£2,941,596.15 ","£61,374.22 ","£26,762.24 ",£0.00 ,"£850,985.07 ","£410,607.96 ","£4,291,325.64 ","£509,763.70 ","£134,179.51 ","£643,943.21 ","£4,935,268.85 "
+2025,October,Government Property Agency,Executive Agency,Cabinet Office,3,2.89,15,14.1,142,140,241,236.77,34,33.43,0,0,435,427,64,63,,,,,64,63,,499,490,"£2,087,660.00 ","£153,968.00 ","£89,250.00 ",£0.00 ,"£600,402.00 ","£323,592.00 ","£3,254,872.00 ","£652,506.16 ",(£745.26),"£651,760.90 ","£3,906,632.90 "
+2025,October,Equality and Human Rights Commission,Executive Non-Departmental Public Body,Cabinet Office,0,0,9,8.4,106,100,63,59.9,10,10,0,0,188,178,1,0.6,3,3,0,0,4,4,,192,182,"£746,622.00 ","£7,589.00 ","£1,443.00 ",£993.00 ,"£216,160.00 ","£101,095.00 ","£1,073,902.00 ",,"£21,355.00 ","£21,355.00 ","£1,095,257.00 "
+2025,October,Government Commercial Organisation,Other,Cabinet Office,0,0,0,0,48,47.81,1371,1348.58,227,223.98,0,0,"1,646","1,620",,,,,,,0,0,,"1,646","1,620","£10,712,419.14 ","£244,206.54 ","£1,204,183.18 ",£0.00 ,"£1,470,311.37 ","£1,724,334.16 ","£15,355,454.39 ",,,£0.00 ,"£15,355,454.39 "
+2025,October,Central Civil Service Fast Stream,Other,Cabinet Office,0,0,0,0,2239,2236.23,0,0,0,0,,,"2,239","2,236",,,,,,,0,0,,"2,239","2,236","£6,237,653.48 ","£335,325.66 ","£46,850.00 ","£13,468.99 ","£1,782,342.34 ","£857,765.70 ","£9,273,406.17 ",,,£0.00 ,"£9,273,406.17 "
+,,,,,,,,,,,,,,,,,5887,0,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
