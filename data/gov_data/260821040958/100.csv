@@ -1,0 +1,73 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department: ","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Agency Staff;
+Headcount","Non-payroll staff;
+Agency Staff;
+Full-time equivalent","Non-payroll staff;
+Interim managers;
+Headcount","Non-payroll staff;
+Interim managers;
+Full-time equivalent","Non-payroll staff;
+Specialist Contractors;
+Headcount","Non-payroll staff;
+Specialist Contractors;
+Full-time equivalent","Non-payroll staff;
+Consultants/consultancy;
+Headcount","Non-payroll staff;
+Consultants/consultancy;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour: agency staff, interim managers and specialist contractors","Non-Payroll staff costs;
+Consultants/consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2021,April,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,2,2,30,28.37,113,107.28,98,96.58,19,18.3,0,0,262,253,2,2,0,0,5,5,0,0,7,7,269,260,"£954,085.00 ","£3,464.00 ",£0.00 ,"£12,581.00 ","£255,526.00 ","£106,200.00 ","£1,331,856.00 ","£56,287.00 ",£0.00 ,"£56,287.00 ","£1,388,143.00 "
+2021,May,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,2,2,29,27.37,117,111.45,102,100.09,18,17.3,0,0,268,258,3,3,0,0,8,8,0,0,11,11,279,269,"£962,817.00 ","£3,490.00 ",£0.00 ,"£3,448.00 ","£259,086.00 ","£105,912.00 ","£1,334,753.00 ","£79,360.00 ",£0.00 ,"£79,360.00 ","£1,414,113.00 "
+2021,June,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,2,2,32,30.37,125,119.45,104,102.09,18,17.3,0,0,281,271,4,4,0,0,8,8,0,0,12,12,293,283,"£987,484.00 ","£3,209.00 ","£122,608.00 ","£2,687.00 ","£266,110.00 ","£124,886.00 ","£1,506,984.00 ","£90,019.00 ",£0.00 ,"£90,019.00 ","£1,597,003.00 "
+2021,July,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,2,2,32,30.37,131,124.65,105,103.09,18,17.3,0,0,288,277,5,5,0,0,10,10,0,0,15,15,303,292,"£1,013,372.00 ","£3,144.00 ",£0.00 ,"£2,162.00 ","£274,041.00 ","£110,532.00 ","£1,403,251.00 ","£81,888.00 ",£0.00 ,"£81,888.00 ","£1,485,139.00 "
+2021,August,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,2,2,32,30.37,132,125.65,105,103.09,18,17.3,0,0,289,278,3,3,0,0,7,7,0,0,10,10,299,288,"£1,034,203.46 ","£2,689.41 ",£0.00 ,"£3,372.10 ","£277,353.64 ","£113,546.50 ","£1,431,165.11 ","£76,723.41 ",£0.00 ,"£76,723.41 ","£1,507,888.52 "
+2021,September,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,1,1,32,30.37,136,130.25,105,103.29,19,18.3,0,0,293,283,3,3,0,0,4,4,0,0,7,7,300,290,"£1,034,416.38 ","£2,429.66 ",£0.00 ,"£3,647.17 ","£277,822.25 ","£113,521.66 ","£1,431,837.12 ","£68,357.42 ",£0.00 ,"£68,357.42 ","£1,500,194.54 "
+2021,October,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,2,2,33,31.37,136,130.35,105,103.19,17,16.5,0,0,293,283,6,6,0,0,2,2,0,0,8,8,301,291,"£1,063,141.62 ","£2,781.67 ",£0.00 ,"£3,519.67 ","£285,361.64 ","£116,803.51 ","£1,471,608.11 ","£40,004.99 ",£0.00 ,"£40,004.99 ","£1,511,613.10 "
+2021,November,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,2,2,31,29.39,134,128.69,106,104.08,17,16.5,0,0,290,281,8,8,0,0,2,2,0,0,10,10,300,291,"£1,041,654.68 ","£1,798.94 ",£0.00 ,"£2,914.70 ","£280,600.05 ","£114,133.24 ","£1,441,101.61 ","£27,763.69 ",£0.00 ,"£27,763.69 ","£1,468,865.30 "
+2021,December,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,2,2,30,28.39,134,128.69,106,104.08,17,16.5,0,0,289,280,7,7,0,0,2,2,0,0,9,9,298,289,"£1,034,008.36 ","£3,299.13 ",£0.00 ,"£1,580.06 ","£282,389.40 ","£113,199.05 ","£1,434,476.00 ","£29,897.00 ",£0.00 ,"£29,897.00 ","£1,464,373.00 "
+2022,January,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,3,3,31,29.28,134,128.89,105,102.7,17,16.5,0,0,290,280,6,6,0,0,9,9,0,0,15,15,305,295,"£1,038,383.14 ","£3,112.00 ",£0.00 ,"£1,913.56 ","£281,591.65 ","£113,934.07 ","£1,438,934.42 ","£62,997.05 ",£0.00 ,"£62,997.05 ","£1,501,931.47 "
+2022,February,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,3,3,30,28.28,133,127.89,107,104.7,17,16.5,0,0,290,280,4,4,0,0,9,9,0,0,13,13,303,293,"£1,030,242.77 ","£3,778.67 ",£0.00 ,"£2,127.03 ","£282,229.95 ","£112,849.76 ","£1,431,228.18 ","£91,363.73 ",£0.00 ,"£91,363.73 ","£1,522,591.91 "
+2022,March,Office of Qualifications and Examinations Regulation,Non-Ministerial Department,Office of Qualifications and Examinations Regulation,3,3,28,26.45,135,129.33,108,105.7,18,17.5,0,0,292,282,4,4,0,0,12,12,0,0,16,16,308,298,"£1,097,397.43 ","£3,778.67 ",£0.00 ,"£4,061.64 ","£283,065.95 ","£117,897.38 ","£1,506,201.07 ","£166,050.58 ",£0.00 ,"£166,050.58 ","£1,672,251.65 "
