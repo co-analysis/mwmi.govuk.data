@@ -1,0 +1,66 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour:
+Headcount","Non-payroll staff;
+Total Contingent labour:
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2024,September,Cabinet Office,Ministerial Department,Cabinet Office,419,389.59424,820,792.0088,2389,2329.29164,2624,2567.90491,499,486.54887,0,0,6751,6565.34846,16,15.14,373,325.29,0,0,389,340.43,,7140,6905.77846,27559729.03,1382093.33,86988.91,188036.2,7856177.31,3326882.51,40399907.29,5272586,1190554.31,6463140.31,46863047.6
+2024,September,Civil Service Commission,Executive Non-Departmental Public Body,Cabinet Office,1,0.6,5,4.6,10,9.6,9,8.59459,0,0,0,0,25,23.39459,,,,,,,,,,25,23.39459,90379.36,1406.58,0,0,24797.62,10051.38,126634.94,,,0,126634.94
+2024,September,Central Civil Service Fast Stream,Other,Cabinet Office,0,0,1,1,1797,1794.18108,1,1,0,0,0,0,1799,1796.18108,0,0,0,0,0,0,0,0,0,1799,1796.18108,4847429.14,15443.57,25110,4053.83,1389184.93,509669.82,6790891.29,,,0,6790891.29
+2024,September ,Crown Commercial Service,Executive Agency,Cabinet Office,3,2.9,12,11.1,127,125.5,204,200.6,31,30.4,,,377,371,62,60.6,,,,,62,61,,439,431,1642819,132749,0,1061,472074,207340,2456043,617601.67,60286.83,677888.5,3133931.5
+2024,September ,Government Property Agency,Executive Agency,Cabinet Office,3,2.9,14,13.1,132,130.2,194,191.2,29,28.4,1,1,373,366.8,,,,,,,0,0,0,373,366.76,1637307.16,131332.35,0,1061.38,469607.57,206393.81,2445702.27,0,0,0,2445702.27
+2024,September ,Equality and Human Rights Commission,Executive Non-Departmental Public Body,Cabinet Office,0,0,11,10.1,113,106.7,72,68.5,8,8,0,0,204,193,0,0,0,0,0,0,0,0,,204,193,752146,8466,50993,0,222779,91139,1125523,,,0,1125523
+2024,September,Government Commercial Organisation,Other,Cabinet Office,0,0,0,0,75,73.94054,1266,1247.51669,181,179.49343,0,0,1522,1500.95066,0,0,0,0,0,0,0,0,0,1522,1500.95066,9307105.52,249906.76,60716.1,1614.08,1327407.35,1167234.25,12113984.06,,,0,12113984.06

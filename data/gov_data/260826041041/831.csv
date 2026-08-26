@@ -1,0 +1,83 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2026,July ,"Department for Science, Inovation &Technology (DSIT)",Ministerial Department,"Department for Science, Innovation &Technology (DSIT)",10,9.42,178,174.59,1462,1435.32,2481,2426.32,215,205.59,0,0,"4,346","4,251",1,1,180,169.76,0,0,181,171,12,"4,527","4,422","£20,673,621.00","£2,247,413.00","£266,732.00","£62,163.00","£6,009,050.00","£3,215,236.00","£32,474,215.00","£4,291,261.00","£2,015,023.00","£6,306,284.00","£38,780,499.00"
+2026,July ,UK Intellectual Property Office,Executive Agency,"Department for Science, Innovation &Technology (DSIT)",112,102.78,494,467.25,680,648.94,474,444.43,19,19,0,0,"1,779","1,682",127,127,31,31,0,0,158,158,2,"1,937","1,840","£6,652,728.00","£271,010.00","£195,016.00","£128,065.00","£2,002,989.00","£910,703.00","£10,160,511.00",£0.00,£0.00,£0.00,"£10,160,511.00"
+2026,July ,Met Office,Executive Agency,"Department for Science, Innovation &Technology (DSIT)",63,62.07,317,309.78,1394,1311.78,752,708.49,11,11,0,0,"2,537","2,403",0,0,0,0,0,0,0,0,0,"2,537","2,403","£9,230,951.00","£473,189.00","£608,264.00",,"£3,030,477.00","£1,376,218.00","£14,719,099.00","£1,746,396.00","£15,909.00","£1,762,305.00","£16,481,404.00"
+2026,July ,UKRI,Executive Non-Departmental Public Body,"Department for Science, Innovation &Technology (DSIT)",498,470.22,1007,965.02,4534,4394.88,1232,1195.76,285,275.51,272,269.41,"7,828","7,571",45,93,20,29,183,170,248,292,0,"8,076","7,863","£32,783,843.23","£1,010,720.95","£57,900.00","£242,759.35","£25,422,477.95","£4,559,922.37","£64,077,623.85","£1,560,381.25","£86,073.66","£1,646,454.91","£65,724,078.76"
+2026,July ,Information Commissioner's Office (ICO),Executive Non-Departmental Public Body,"Department for Science, Innovation &Technology (DSIT)",15,13.1,174,161.39,563,535.24,299,289.36,34,33.53,8,0.9,"1,093","1,034",6,6,3,3,3,3,12,12,0,"1,105","1,046","£4,487,857.50","£19,854.54",£0.00,"£4,167.29","£1,279,980.64","£621,342.62","£6,413,202.59","£119,298.00",£0.00,"£119,298.00","£6,532,500.59"
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
+,,,,,,,,,,,,,,,,,0,0,,,,,,,0,0,,0,0,,,,,,,£0.00,,,£0.00,£0.00
