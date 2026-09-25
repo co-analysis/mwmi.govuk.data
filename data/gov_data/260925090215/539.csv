@@ -1,0 +1,64 @@
+﻿Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2026,August,"Department for Business, Innovation, Science and Trade (BIST)",Ministerial Department,"Department for Business, Innovation, Science and Trade (BIST)",9,8.42,162,159.59,1474,1448.42,2507,2454.21,211,201.99,0,0,"4,363","4,273",1,1,189,178.76,0,0,190,180,12,"4,553","4,452","£21,375,025.00 ","£1,985,762.00 ","£654,377.00 ","£41,759.00 ","£6,163,419.00 ","£3,334,692.00 ","£33,555,034.00 ","£4,777,937.00 ","£8,644,789.00 ","£13,422,726.00 ","£46,977,760.00 "
+2026,August,UK Intellectual Property Office,Executive Agency,"Department for Business, Innovation, Science and Trade (BIST)",114,104.78,490,463.17,680,649.56,475,444.55,19,19,0,0,"1,778","1,681",127,127,31,31,0,0,158,158,0,"1,936","1,839","£6,973,351.00 ","£270,821.00 ","£68,379.00 ","£94,768.00 ","£2,075,877.00 ","£994,629.00 ","£10,477,825.00 ",£0.00 ,£0.00 ,£0.00 ,"£10,477,825.00 "
+2026,August,Met Office,Executive Agency,"Department for Business, Innovation, Science and Trade (BIST)",52,51.07,326,318.78,1399,1317.87,753,708.38,11,11,0,0,"2,541","2,407",0,0,0,0,0,0,0,0,0,"2,541","2,407","£9,285,167.00 ","£373,067.00 ","£609,411.00 ",,"£2,706,730.00 ","£1,368,604.00 ","£14,342,979.00 ","£1,412,136.00 ","£10,350.00 ","£1,422,486.00 ","£15,765,465.00 "
+2026,August,UK Research and Innovation (UKRI),Executive Non-Departmental Public Body,"Department for Business, Innovation, Science and Trade (BIST)",495,467.62,992,949.36,4529,4388.46,1244,1207.47,283,274.07,299,297.41,"7,842","7,584",71,95,15,26,159,169,245,290,0,"8,087","7,874","£32,809,572.98 ","£967,603.36 ","£80,400.00 ","£242,759.35 ","£25,442,430.28 ","£4,563,501.13 ","£64,106,267.10 ","£1,560,381.25 ",£0.00 ,"£1,560,381.25 ","£65,666,648.35 "
+2026,August,Information Commissioner's Office (ICO),Executive Non-Departmental Public Body,"Department for Business, Innovation, Science and Trade (BIST)",15,13.1,173,160.59,561,533.08,301,291.36,34,33.53,7,0.8,"1,091","1,032",7,7,2,2,4,4,13,13,0,"1,104","1,045","£4,788,806.09 ","£20,274.60 ",£0.00 ,"£3,307.17 ","£1,367,286.40 ","£661,519.12 ","£6,841,193.38 ","£227,728.14 ",£0.00 ,"£227,728.14 ","£7,068,921.52 "
