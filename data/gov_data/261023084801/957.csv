@@ -1,0 +1,64 @@
+Year,Month,Organisation name,Organisation type,"Main, parent or sponsoring department:","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Admin and Clerical;
+Headcount","Non-payroll staff;
+Admin and Clerical;
+Full-time equivalent","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Headcount","Non-payroll staff;
+Interim Managers & Specialist Contractors & Medical;
+Full-time equivalent","Non-payroll staff;
+Other Contingent labour;
+Headcount","Non-payroll staff;
+Other Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Total Contingent labour;
+Headcount","Non-payroll staff;
+Total Contingent labour;
+Full-time equivalent","Non-payroll staff;
+Consultancy;
+Number of Contracts","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour","Non-Payroll staff costs;
+Consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs
+2026,September,"Department for Science, Inovation and Technology (DSIT)",Ministerial Department,"Department for Science, Innovation and Technology (DSIT)",8,7.42,147,144.59,1492,1466.93,2534,2481.1,201,194.2,1,0,"4,383","4,294",1,1,193,181.57,0,0,194,183,13,"4,577","4,477","£21,210,973.00 ","£2,225,721.00 ","£400,172.00 ","£36,657.00 ","£6,084,796.00 ","£3,291,205.00 ","£33,249,524.00 ","£4,425,989.00 ","£714,625.00 ","£5,140,614.00 ","£38,390,138.00 "
+2026,September,UK Intellectual Property Office,Executive Agency,"Department for Science, Innovation and Technology (DSIT)",109,99.78,517,490.71,682,652.51,477,446.95,18,17.92,0,0,"1,803","1,708",125,125,42,42,0,0,167,167,3,"1,970","1,875","£6,964,638.00 ","£274,818.00 ","£80,724.00 ","£107,287.00 ","£2,079,219.00 ","£987,776.00 ","£10,494,462.00 ","£1,054,384.00 ",£0.00 ,"£1,054,384.00 ","£11,548,846.00 "
+2026,September,Met Office,Executive Agency,"Department for Science, Innovation and Technology (DSIT)",61,60.07,327,321.29,1402,1322.17,757,710.37,11,11,0,0,"2,558","2,425",0,0,0,0,0,0,0,0,0,"2,558","2,425","£9,320,744.00 ","£464,409.00 ","£508,542.00 ",£0.00 ,"£2,724,640.00 ","£1,365,470.00 ","£14,383,805.00 ","£1,779,993.00 ","£92,946.00 ","£1,872,939.00 ","£16,256,744.00 "
+2026,September,UK Research and Innovation (UKRI),Executive Non-Departmental Public Body,"Department for Science, Innovation and Technology (DSIT)",504,477.02,996,953.43,4564,4422.49,1251,1215.28,280,270.73,283,281.41,"7,878","7,620",62,91,14,29,161,178,237,298,0,"8,115","7,918","£32,698,290.61 ","£1,103,328.05 ","£216,124.69 ","£242,759.35 ","£25,356,135.53 ","£4,548,022.81 ","£64,164,661.04 ","£1,560,381.25 ","£86,073.66 ","£1,646,454.91 ","£65,811,115.95 "
+2026,September,Information Commissioner's Office (ICO),Executive Non-Departmental Public Body,"Department for Science, Innovation and Technology (DSIT)",15,13.1,178,165.39,550,521.65,302,292.56,34,33.53,9,0.8,"1,088","1,027",7,7,5,5,4,4,16,16,0,"1,104","1,043","£4,523,748.52 ","£19,374.66 ",£0.00 ,"£5,427.76 ","£1,292,729.36 ","£625,602.00 ","£6,466,882.30 ","£28,109.28 ",£0.00 ,"£28,109.28 ","£6,494,991.58 "
