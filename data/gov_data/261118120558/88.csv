@@ -1,0 +1,74 @@
+﻿Year,Month,Organisation Name,Organisation Type,"Main, parent or sponsoring department","Payroll staff;
+AO/AA;
+Headcount","Payroll staff;
+AO/AA;
+Full-time equivalent","Payroll staff;
+EO;
+Headcount","Payroll staff;
+EO;
+Full-time equivalent","Payroll staff;
+SEO/HEO;
+Headcount","Payroll staff;
+SEO/HEO;
+Full-time equivalent","Payroll staff;
+Grade 6/7;
+Headcount","Payroll staff;
+Grade 6/7;
+Full-time equivalent","Payroll staff;
+SCS;
+Headcount","Payroll staff;
+SCS;
+Full-time equivalent","Payroll staff;
+Other, unknown, unspecified;
+Headcount","Payroll staff;
+Other, unknown, unspecified;
+Full-time equivalent","Payroll staff;
+Total;
+Headcount","Payroll staff;
+Total;
+Full-time equivalent","Non-payroll staff;
+Agency Staff;
+Headcount","Non-payroll staff;
+Agency Staff;
+Full-time equivalent","Non-payroll staff;
+Interim managers;
+Headcount","Non-payroll staff;
+Interim managers;
+Full-time equivalent","Non-payroll staff;
+Specialist Contractors;
+Headcount","Non-payroll staff;
+Specialist Contractors;
+Full-time equivalent","Non-payroll staff;
+Consultants/consultancy;
+Headcount","Non-payroll staff;
+Consultants/consultancy;
+Full-time equivalent","Non-payroll staff;
+Total;
+Headcount","Non-payroll staff;
+Total;
+Full-time equivalent","Grand Total (workforce numbers);
+Headcount","Grand Total (workforce numbers);
+Full-time equivalent","Payroll staff costs;
+Salary","Payroll staff costs;
+Allowances","Payroll staff costs;
+Non-consolidated performance payments","Payroll staff costs;
+Overtime","Payroll staff costs;
+Employer pension contributions","Payroll staff costs;
+Employer national insurance contributions","Payroll staff costs;
+Total paybill","Non-Payroll staff costs;
+Contingent labour: agency staff, interim managers and specialist contractors","Non-Payroll staff costs;
+Consultants/consultancy","Non-Payroll staff costs;
+Total staff costs",Grand Total paybill/staffing (payroll and non-payroll) costs,Comments
+2021,February,Ministry of Justice,Ministerial Department,Ministry of Justice,273,259.77424,779,754.72448,2720,2658.64274,1418,1380.03362,155,150.31862,28,26.41893,5373,5229.91263,23,22.4,5,5,227,224.75,1,0.2,256,252.35,5629,5482.26263,17280375.1,548491.9,194018.08,100118.27,5015109.61,2846830.5,25984943.46,3217925.08,1093667.13,4311592.21,30296535.67,None
+2021,February,Criminal Injuries Compensation Authority,Executive Agency,Ministry of Justice,113,102.20542,98,92.84379,88,85.89324,19,14.4054,2,2,0,0,320,297.34785,0,0,0,0,0,0,0,0,0,0,320,297.34785,752221.81,0,0,0,0,0,752221.81,0,0,0,752221.81,None
+2021,February,HM Courts and Tribunals Service,Executive Agency,Ministry of Justice,10411,9144.33041,2605,2447.54051,2717,2560.88162,665,647.66356,74,72.96397,0,0,16472,14873.38007,2604.1,2604.1,0,0,46.69,46.69,0,0,2650.79,2650.79,19122.79,17524.17007,31673990.99,501004.57,375018.41,1051374.4,8626348.79,3070429.53,45298166.69,7197133.14,121196.35,7318329.49,52616496.18,None
+2021,February,Legal Aid Agency,Executive Agency,Ministry of Justice,452,416.66008,331,310.29263,300,288.38105,95,94.05627,11,9.75278,0,0,1189,1119.14281,12,11.65,0,0,0,0,0,0,12,11.65,1201,1130.79281,3146184.71,13525.91,118495.43,78270.09,682496.39,265418.85,4304391.38,26686.2,0,26686.2,4331077.58,None
+2021,February,Her Majesty’s Prison & Probation Service,Executive Agency,Ministry of Justice,28255,26711.76583,6209,5947.23923,6428,6148.70606,773,754.26458,84,82.92381,12094,11177.95574,53843,50822.85525,965.39,965.39,0,0,0.4,0.4,1,1,966.79,966.79,54809.79,51789.64525,120863802.1,13745346.54,-2591.36,8571901.26,35617874.77,13886504.3,192682837.6,3901966.04,1011995.44,4913961.48,197596799.1,None
+2021,February,The Office of the Public Guardian,Executive Agency,Ministry of Justice,867,786.55814,370,352.08646,176,167.07918,21,21,3,3,0,0,1437,1329.72378,149,139.4,0,0,0,0,0,0,149,139.4,1586,1469.12378,2483096.36,69827.48,105575.96,82071.54,594685.51,211022,3546278.85,357291.05,0,357291.05,3903569.9,None
+2021,February,Children and Family Court Advisory and Support Services,Executive Non-Departmental Public Body,Ministry of Justice,0,0,0,0,0,0,0,0,0,0,2110,1930.940709,2110,1930.940709,145,145,2,2,0,0,0,0,147,147,2257,2077.940709,10501809.98,0,0,0,0,0,10501809.98,850862.38,0,850862.38,11352672.36,None
+2021,February,Criminal Cases Review Commission,Executive Non-Departmental Public Body,Ministry of Justice,0,0,0,0,0,0,0,0,0,0,90,84.9,90,84.9,0,0,0,0,0,0,0,0,0,0,90,84.9,403200,0,700,0,0,0,403900,0,0,0,403900,The Commission employees are not Civil Servants and therefore Civil Service grades are not applied to their roles
+2021,February,Judicial Appointments Commission,Executive Non-Departmental Public Body,Ministry of Justice,3,2.8,14,13.2,49,48.4,8,7.6,1,1,1,0.4,76,73.4,26,26,0,0,3,3,1,0.1,30,29.1,106,102.5,243141.08,8529.44,1050,0,59000.27,26468.35,338189.14,127758.99,1848,129606.99,467796.13,None
+2021,February,Legal Services Board,Executive Non-Departmental Public Body,Ministry of Justice,0,0,0,0,0,0,0,0,0,0,35,33.7,35,33.7,0,0,0,0,0,0,0,0,0,0,35,33.7,245856,0,0,0,0,0,245856,0,14385,14385,260241,None
+2021,February,Parole Board,Executive Non-Departmental Public Body,Ministry of Justice,14,12.7,100,97.2,36,35.2,9,8.4,1,1,0,0,160,154.5,12,11.73,0,0,0,0,1,0.6,13,12.33,173,166.83,426075.45,2458.17,1580,2231.92,110306.08,44402.29,587053.91,32220.57,0,32220.57,619274.48,None
+2021,February,Youth Justice Board for England and Wales,Executive Non-Departmental Public Body,Ministry of Justice,3,2.7,18,17.4,41,39.77,34,33.08,2,2,0,0,98,94.95,0,0,0,0,0,0,0,0,0,0,98,94.95,483217.44,-7235.48,750,0,88799.53,38724.51,604256,0,0,0,604256,None
+2021,February,Independent Monitoring Authority,Executive Non-Departmental Public Body,Ministry of Justice,12,12,5,4.8,18,17.8,8,7.9,4,4,0,0,47,46.5,4,4,0,0,0,0,0,0,4,4,51,50.5,165051.91,-238.39,1800,0,37748.69,14808.96,219171.17,21033.54,0,21033.54,240204.71,None
